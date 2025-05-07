@@ -1,0 +1,564 @@
+INDEX 
+
+ 
+
+1.  Demographic & Social Statistics 
+1.1  Labour 
+1.2  Education 
+1.3  Health 
+1.4  Time Use 
+ 
+2.  Economic Statistics  
+2.1  Economic Accounts 
+2.2  Mining, Manufacturing, Construction 
+ 
+ 
+ 
+
+List of National Statistical Classification for usages in official statistics 
+(The classifications are listed by the statistical domain(s) that they belong to. Some of them may appear in more than one domain) 
+
+Classification 
+
+Acronym 
+
+Agency 
+
+Source 
+
+Brief about the Classification  
+
+Latest 
+edition/ 
+revision 
+
+2015 
+
+Demographic & Social Statistics 
+Labour 
+
+National 
+
+Classification of 
+
+Occupation 
+
+NCO 
+2015 
+
+Ministry of 
+Labour & 
+Employment 
+
+https://labou
+r.gov.in/site
+s/default/fil
+es/National
+%20Classifi
+cation%20o
+f%20Occup
+ations_Vol
+%20II-B-
+%202015.p
+df  
+
+to 
+
+updated 
+
+periodically 
+
+Standard  Classification 
+
+NCO  is  a  classification  of  occupations  which 
+describes  and  assigns  codes  to  the  various 
+occupations in the country and aligns it with the 
+International 
+of 
+Occupations (ISCO). These codes are reviewed 
+and 
+reflect 
+developments in the labour market, particularly 
+with the emergence of new occupations, as well 
+as  to  align  with  changes  in  the  international 
+standards. These codes also help in promoting 
+international  comparability  of  statistical  data 
+relating  to  occupations.  These  occupational 
+standards  follow  a  scientific  and  hierarchical 
+approach having major, minor and unit groups 
+of  classification  which  has  evolved  over  the 
+years  to  capture  the  structural  changes  in  the 
+
+Areas where 
+it can be used 
+
+Occupation 
+
+1 | P a g e  
+
+ 
+Sr. 
+No. 
+
+1 
+1.1 
+1 
+
+ 
+
+NOS 2020  National 
+
+Skill 
+
+2020 
+
+Occupation 
+
+National 
+Occupational 
+Standards 
+
+Development 
+Corporation 
+(NSDC), Ministry 
+of 
+Skill 
+Development  and 
+Entrepreneurship 
+
+https://nsdci
+ndia.org/nat
+ional-
+occupationa
+l-standards  
+
+into 
+
+insight 
+
+for  occupational 
+
+employment market and current work practices 
+and  work  environment.  The  NC0-2015  is  a 
+compendium 
+information 
+available in the Indian economy. The document 
+gives  an 
+the  occupational 
+framework,  nature  of  duties  involved  and  the 
+level  of  skill  requirement  to  perform  the 
+activities in a real time work situation. The users 
+of NCO may make use  of the information for 
+vocational  guidance,  career  counselling  and 
+various surveys and studies undertaken by user 
+agencies. 
+National Occupational Standards (NOS) specify 
+the standard of performance an individual must 
+achieve  when  carrying  out  a  function  in  the 
+workplace,  together  with  the  knowledge  and 
+understanding they need to meet that standard 
+consistently.  Each  NOS  defines  one  key 
+function  in  a  job  role.  Each  NOS  must  be  a 
+concise  and 
+readable  document,  usually 
+consisting of a few pages. In their essential form, 
+NOS 
+of 
+performance  and  knowledge/  understanding. 
+NOS are used for two main purposes: 
+1.  To  develop  curriculum  for  the  delivery  of 
+training; and 
+2. To develop assessment instruments and tools 
+for the assessment and certification of learners. 
+
+functions, 
+
+standards 
+
+describe 
+
+2 | P a g e  
+
+2 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+1.2 
+3 
+
+Education 
+Indian  Standard 
+Classification  of 
+Education 
+
+InSCED-
+2014 
+
+Ministry of 
+Education 
+
+2014 
+
+1.3   Health 
+4 
+Indian 
+Health 
+Standards 
+
+Public 
+
+IPHS 
+2022 
+
+Ministry of 
+
+Health & family 
+
+Welfare 
+
+2022 
+
+https://nhsrc
+india.org/IP
+HS2022  
+
+Education 
+
+https://www
+.education.g
+ov.in/sites/u
+pload_files/
+mhrd/files/s
+tatistics/InS
+CED2014_1
+.pdf 
+ 
+
+InSCED  is  a  statistical  framework  for  the 
+collection,  compilation,  dissemination  and 
+analysis of education system in India. InSCED 
+documents  all  types  of  education  programmes 
+running  in  Indian  Educational  System.  An 
+additional  consideration  is  to  align  it  with  the 
+of 
+International 
+Education. 
+cross-
+classification  variables,  Levels  and  Fields  of 
+Education.  The  basic  unit  of  classification  in 
+InSCED is the educational programme currently 
+running in the Country. 
+
+Standard  Classification 
+
+InSCED 
+
+covers 
+
+two 
+
+Health Sector 
+
+The Indian Public Health Standards (IPHS) were 
+developed to improve the quality of services and 
+provide  a  uniform  benchmark  to  assess  the 
+functionality  of  public  health  facilities.  These 
+standards  cover  Sub  Health  Centres  (SHCs), 
+Primary  Health  Centres  (PHCs),  Community 
+Health Centres (CHCs), Sub District Hospitals 
+(SDHs)  and  District  Hospitals  (DHs).  They 
+provide  guidance  on  the  infrastructure,  human 
+resource, drugs, diagnostics, equipment, quality 
+and  governance  requirements  for  delivering 
+health services at these facilities. 
+
+3 | P a g e  
+
+ 
+
+1.4 
+5 
+
+Time Use 
+National 
+Classification  of 
+Activities 
+on 
+Time Use Studies 
+
+NCATUS 
+
+ 
+
+Ministry of 
+Statistics and 
+Programme 
+
+Implementation 
+
+(MoSPI) 
+
+Statistics 
+
+(NCATUS) 
+
+The  National  Classification  of  Activities  for 
+Time-Use 
+a 
+classification  of  all  the  activities  on  which  a 
+person may spend time during the 24 hours that 
+make  up  a  day.  Its  purpose  is  to  serve  as  a 
+standard framework for time-use statistics based 
+on activities grouped in a meaningful way. 
+
+is 
+
+2. 
+2.1 
+6 
+
+Economic Statistics 
+Economic Accounts 
+National 
+NIC 
+Industrial 
+Classification 
+
+2008 
+
+Ministry of 
+Statistics and 
+Programme 
+
+Implementation 
+
+(MoSPI) 
+
+ 
+
+to 
+
+economic 
+
+The National Industrial Classification (NIC) is 
+an essential Statistical Standard for developing 
+and  maintaining 
+comparable  data  base 
+according 
+activities.  Such 
+classifications are frequently used in classifying 
+the economically active population, statistics of 
+industrial  production  and  distribution, 
+the 
+different  fields  of  labour  statistics  and  other 
+economic  data  such  as  national 
+income. 
+Comparability  of  statistics  available  from 
+various  sources,  on  different  aspects  of  the 
+economy,  and  usability  of  such  data  for 
+
+https://mosp
+i.gov.in/site
+s/default/fil
+es/publicati
+on_reports/r
+eport-on-
+TUS-Sub-
+Committee_
+Final_9jan1
+3.pdf  
+
+https://mosp
+i.gov.in/clas
+sification/na
+tional-
+industrial-
+classificatio
+n  
+
+Time units are 
+used for 
+producing 
+statistics on the 
+amount of time 
+spent in certain 
+activities.  
+Measuring 
+Paid and 
+Unpaid Work 
+
+Economic 
+activities 
+
+4 | P a g e  
+
+Trade 
+
+ITC(HS) 
+
+Indian 
+Classification 
+Harmonized 
+System 
+Codes-2017 
+
+(HS)  
+
+Ministry of 
+
+Commerce and 
+
+Industries 
+
+2017 
+
+https://www
+.dgciskol.go
+v.in/itchs_2
+017.aspx  
+
+National Product 
+Classification for 
+Services Sector 
+
+NPCS 
+
+2010 
+
+Ministry of 
+Statistics and 
+Programme 
+
+Implementation 
+
+(MoSPI) 
+
+https://www
+.mospi.gov.i
+n/classificat
+ion/national
+-product-
+classificatio
+n  
+
+7 
+
+8 
+
+ 
+
+for 
+
+specific 
+
+analysis, 
+
+are  prerequisite 
+
+level  (augmenting 
+
+economic 
+standardization of a system of classification. 
+The  HS  Nomenclature  2017  edition  of  the 
+World  Customs  Organization 
+is  currently 
+followed  in  India  for  classification  of  the 
+commodities.  On  the  basis  of  HS-2017,  a 
+detailed classification of the commodities at 8-
+digit 
+the  WCO  6-digit 
+classification with 2 additional digits to meet the 
+country 
+requirements)  has  been 
+prepared  and  adopted  with  effect  from  April 
+2017. 
+As  per  the  recommendations  of  the  Expert 
+Committee for Standardisation and Mapping of 
+National  Product  Classification  (NPC)  and 
+Indian  Trade  Classification,  ITC  (HS),  the 
+Central  Statistics  Office  (CSO)  developed  the 
+Product Classification for the non-transportable 
+goods (Services). The Services sector covers the 
+areas of Constructions & Construction services, 
+Distributive  trade  services;  accommodation, 
+food  and  beverage  serving  services;  transport 
+services;  and  electricity,  gas  and  water 
+distribution  services,  Financial  and  related 
+services;  real  estate  services,  and  rental  and 
+leasing  services,  Business  and  Production 
+services,  Community,  social  and  Personal 
+Services.  
+
+Goods 
+
+Service Sector 
+
+5 | P a g e  
+
+2.2  Mining, Manufacturing, Construction 
+9 
+Ministry of 
+Statistics and 
+Programme 
+
+NPCMS-
+2011 
+
+National Product 
+Classification for 
+Manufacturing 
+Sector 
+
+Implementation 
+
+2011 
+
+(MoSPI) 
+
+Manufacturing 
+Sectors 
+
+https://www
+.mospi.gov.i
+n/classificat
+ion/national
+-product-
+classificatio
+n  
+
+Product 
+
+Classification 
+
+National 
+for 
+Manufacturing  Sector  serves  as  the  reference 
+classification  for  all  product  classifications 
+within  the  international  system  of  economic 
+classifications  put  in  place  by  the  United 
+Nations. It is a complete product classification 
+covering all goods and services that follows the 
+definition  of  products  within  the  SNA.  Goods 
+and services are understood as being the results 
+of production. The scope of the CPC covers (a) 
+physical goods (which include transportable and 
+non-transportable 
+(b) 
+intangible goods and (c) services. 
+
+physical 
+
+goods), 
+
+ 
+
+ 
+
+6 | P a g e  
+
+

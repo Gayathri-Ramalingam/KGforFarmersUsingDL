@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+India at a glance | FAO in India | Food and Agriculture Organization of the United Nations if(navigator.platform == 'MacIntel' || navigator.platform == 'MacPPC'){$('head').append('<link rel="stylesheet" type="text/css" href="/fileadmin/templates/faoweb/fao_mac_style.css" />');}    $(function(){
+        $('#id_freetext').watermark('title / description');
+    });
+
+
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'pageType',
+ 'cmsType': 'TYPO3'
+ });
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NHPTQQS');
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+FAO.org
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+FAO in IndiaOur officeProgrammes and projectsNewsResourcesPartnersIndia at a glance
+
+Our teamIndia at a glanceEmployment
+With a population of 1.27 billion India is the world's second most populous country. It is the seventh largest country in the world with an area of 3.288 million sq kms. It has a long coastline of over 7,500 kms. India is a diverse country where over 22 major languages and 415 dialects are spoken. With the highest mountain range in the world, the Himalayas to its North, the Thar desert to its West, the Gangetic delta to its East and the Deccan Plateau in the South, the country is home to vast agro-ecological diversity. India is the world's largest producer of milk, pulses and jute, and ranks as the second largest producer of rice, wheat, sugarcane, groundnut, vegetables, fruit and cotton. It is also one of the leading producers of spices, fish, poultry, livestock and plantation crops. Worth $ 2.1 trillion, India is the world's third largest economy after the US and China. 
+India's climate varies from humid and dry tropical in the south to temperate alpine in the northern reaches and has a great diversity of ecosystems. Four out of the 34 global biodiversity hotspots and 15 WWF global 200 eco-regions fall fully or partly within India. Having only 2.4 percent of the world's land area, India harbours around eight percent of all recorded species, including over 45,000 plant and 91,000 animal species. 
+India's economic growth in financial year 2018 is expected to accelerate to 6.75 percent in 2018 on improved performance in both industry and services. India is the world's sixth-largest economy by nominal GDP and the third-largest by purchasing power parity (PPP). The country ranks 139th in per capita GDP (nominal) with $2,134 and 122nd in per capita GDP (PPP) with $7,783 as of 2018 (World Bank data). Agriculture accounted for 23% of GDP, and employed 59% of the country's total workforce in 2016.[146] 
+Agriculture, with its allied sectors, is the largest source of livelihoods in India. 70 percent of its rural households still depend primarily on agriculture for their livelihood, with 82 percent of farmers being small and marginal. In 2017-18, total food grain production was estimated at 275 million tonnes (MT).  India is the largest producer (25% of global production), consumer (27% of world consumption) and importer (14%) of pulses in the world. India's annual milk production was 165 MT (2017-18), making India the largest producer of milk, jute and pulses, and with world's second-largest cattle population 190 million in 2012.[153] It is the second-largest producer of rice, wheat, sugarcane, cotton and groundnuts, as well as the second-largest fruit and vegetable producer, accounting for 10.9% and 8.6% of the world fruit and vegetable production, respectively.
+However, India still has many growing concerns. As the Indian economy has diversified and grown, agriculture's contribution to GDP has steadily declined from 1951 to 2011. While achieving food sufficiency in production, India still accounts for a quarter of the world’s hungry people and home to over 190 million undernourished people. Incidence of poverty is now pegged at nearly 30 percent. As per the Global Nutrition Report (2016), India ranks 114th out of 132 countries on under-5 stunting and 120th out of 130 countries on under-5 wasting and 170th out of 185 countries on prevalence of anaemia. Anaemia continues to affect 50 percent of women including pregnant women and 60 percent of children in the country. 
+While agriculture in India has achieved grain self-sufficiency but the production is, resource intensive, cereal centric and regionally biased. The resource intensive ways of Indian agriculture has raised serious sustainability issues too. Increasing stress on water resources of the country would definitely need a realignment and rethinking of policies. Desertification and land degradation also pose major threats to agriculture in the country. 
+The social aspects around agriculture have also been witnessing changing trends. The increased feminisation of agriculture is mainly due to increasing rural-urban migration by men, rise of women-headed households and growth in the production of cash crops which are labour intensive in nature. Women perform significant tasks, both, in farm as well as non-farm activities and their participation in the sector is increasing but their work is treated as an extension of their household work, and adds a dual burden of domestic responsibilities.
+India also needs to improve its management of agricultural practices on multiple fronts. Improvements in agriculture performance has weak linkage in improving nutrition, the agriculture sector can still improve nutrition through multiple ways: increasing incomes of farming households, diversifying production of crops, empowering women, strengthening agricultural diversity and productivity, and designing careful price and subsidy policies that should encourage the production and consumption of nutrient rich crops.  Diversification of agricultural livelihoods through agri-allied sectors such as animal husbandry, forestry and fisheries has enhanced livelihood opportunities, strengthened resilience and led to considerable increase in labour force participation in the sector. 
+
+
+ 
+
+ Contact us Terms and ConditionsData protection and privacy Scam Alert Report Misconduct Transparency and accountability  Jobs Procurement Governing Bodies Office of the Inspector General Evaluation Legal OfficeEthics Office FAO organizational chartRegional Office for AfricaRegional Office for Asia and the PacificRegional Office for Europe and Central AsiaRegional Office for Latin America and the CaribbeanRegional Office for the Near East and North AfricaCountry Offices
+
+ #wechat-modal {
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 111111111;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.3);
+ }
+
+ #wechat-modal .wechat-content{
+   margin:100px auto;
+   width:20%;
+ }
+
+ #wechat-modal .wechat-button {
+    background-color: #ffffff;
+    color: 000000;
+    padding: 10px 15px 0;
+    text-align: right;
+    font-size: large;
+    font-family: sans-serif;
+    font-weight: 900;
+ }
+
+ #wechat-modal .wechat-button .close{
+   cursor: pointer;
+ }
+
+ #wechat-modal .wechat-image img{
+   width:100%;
+ }
+
+ .hide{
+   display:none;
+ }
+
+
+
+$( document ).ready(function() {
+  $("#wechat-modal").appendTo("body");
+
+  $("#c338906").find("#social-wechat").on("click", function(){
+    $("#wechat-modal").fadeIn();
+  });
+
+  $("#wechat-modal").find(".close").on("click", function(){
+    $("#wechat-modal").fadeOut();
+  });
+
+  $("#wechat-modal").on("click", function(){
+    $("#wechat-modal").fadeOut();
+  });
+ 
+});
+
+
+
+
+X
+
+
+
+
+Follow us on                                          
+© FAO, 2025
+
+
+
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','_gaTracker');
+
+  _gaTracker('create', 'UA-36131143-1', 'fao.org');
+  _gaTracker('send', 'pageview');
+
+
+
+  _gaTracker('create', 'UA-16957552-1', {'name':'allSites'});
+  _gaTracker('allSites.send', 'pageview');
+
+
+
+
+
+$(function(){
+  if(!$("#langs").text().trim().length>0){
+      $(".wrapper .header").css("margin-bottom","0");
+  }
+  $( "#maincontent IMG").each(function(){
+	if($(this).attr("width")>700){
+            $(this).parent().css("width","100%");
+            $(this).removeAttr("width");
+            $(this).removeAttr("height");
+            $(this).css("width","100%");
+	}
+  });
+  
+  
+  $( "#maincontent iframe").each(function(){
+	if($(this).attr("width")>640){
+            $(this).attr("width","100%");
+	}
+  });
+  
+  
+  $("#subsiteMenu ul.top-submenu li").each(function(){
+	if($(this).text()=="FAO.org"){
+		$(this).remove()
+	}
+  });
+});
+ 
+$(document).ready(function() {
+   $('#social-networks').find('a').each(function(){
+    $(this).on('click', function() { 
+    _gaTracker('send', 'event', this.href, 'click-social', 'social-footer');  
+    _gaTracker('allTracker.send', 'event', this.href, 'click-social', 'social-footer'); 
+    _gaTracker('allSites.send', 'event', this.href, 'click-social', 'social-footer');   
+   });  
+  });
+});
+
+

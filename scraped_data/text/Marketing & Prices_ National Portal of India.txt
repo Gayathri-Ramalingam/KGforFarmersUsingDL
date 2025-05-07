@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+Marketing & Prices| National Portal of India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"npi_adaptive","theme_token":"RRUci-JazbTtw8R_UkSqD2UerJEvp862hJYIZy45pqA","jquery_version":"3.1","js":{"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery\/3.1\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery.form\/4\/jquery.form.min.js":1,"misc\/form-single-submit.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contributed\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contributed\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/customs\/hb_documents\/hb_documents.js":1,"sites\/all\/modules\/customs\/hb_schemes\/hb_schemes.js":1,"sites\/all\/modules\/customs\/webform_email_reply\/script.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contributed\/fivestar\/js\/fivestar.ajax.js":1,"sites\/all\/modules\/contributed\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contributed\/views\/js\/base.js":1,"sites\/all\/modules\/contributed\/views\/js\/ajax_view.js":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/scripts\/jquery.min.js":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/scripts\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/modules\/contributed\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contributed\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contributed\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contributed\/panels\/css\/panels.css":1,"sites\/all\/modules\/contributed\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/contributed\/fivestar\/widgets\/oxygen\/oxygen.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/font-awesome.min.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/global.custom.responsive.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/global.base.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/global.styles.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/print.css":1,"public:\/\/adaptivetheme\/npi_adaptive_files\/npi_adaptive.default.layout.css":1}},"encrypt_submissions":{"baseUrl":"https:\/\/www.india.gov.in"},"urlIsAjaxTrusted":{"\/admin\/metadata-online":true,"\/system\/ajax":true,"\/topics\/agriculture\/marketing-prices":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1473761":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1473761\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1624726":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1624726\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1622589":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1622589\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1473529":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1473529\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1489911":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1489911\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1490270":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1490270\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1485586":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1485586\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1612518":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1612518\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1610622":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1610622\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1464840":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1464840\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1473059":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1473059\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1543161":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1543161\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1598712":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1598712\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1474457":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1474457\/166696":true,"https:\/\/www.india.gov.in\/tag_it\/tags\/1473065":true,"https:\/\/www.india.gov.in\/metadata\/comment\/1473065\/166696":true,"\/views\/ajax":true,"https:\/\/www.india.gov.in\/ajax\/metadata_suggestion\/166696":true,"\/search\/node":true},"ajax":{"edit-vote--2":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1473761":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1473761","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1473761","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1473761":{"event":"click","wrapper":"comments-wrapper-1473761","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1473761\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--4":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1624726":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1624726","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1624726","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1624726":{"event":"click","wrapper":"comments-wrapper-1624726","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1624726\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--6":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1622589":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1622589","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1622589","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1622589":{"event":"click","wrapper":"comments-wrapper-1622589","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1622589\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--8":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1473529":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1473529","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1473529","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1473529":{"event":"click","wrapper":"comments-wrapper-1473529","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1473529\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--10":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1489911":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1489911","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1489911","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1489911":{"event":"click","wrapper":"comments-wrapper-1489911","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1489911\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--12":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1490270":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1490270","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1490270","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1490270":{"event":"click","wrapper":"comments-wrapper-1490270","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1490270\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--14":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1485586":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1485586","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1485586","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1485586":{"event":"click","wrapper":"comments-wrapper-1485586","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1485586\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--16":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1612518":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1612518","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1612518","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1612518":{"event":"click","wrapper":"comments-wrapper-1612518","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1612518\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--18":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1610622":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1610622","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1610622","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1610622":{"event":"click","wrapper":"comments-wrapper-1610622","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1610622\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--20":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1464840":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1464840","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1464840","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1464840":{"event":"click","wrapper":"comments-wrapper-1464840","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1464840\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--22":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1473059":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1473059","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1473059","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1473059":{"event":"click","wrapper":"comments-wrapper-1473059","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1473059\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--24":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1543161":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1543161","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1543161","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1543161":{"event":"click","wrapper":"comments-wrapper-1543161","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1543161\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--26":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1598712":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1598712","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1598712","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1598712":{"event":"click","wrapper":"comments-wrapper-1598712","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1598712\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--28":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1474457":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1474457","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1474457","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1474457":{"event":"click","wrapper":"comments-wrapper-1474457","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1474457\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-vote--30":{"callback":"fivestar_ajax_submit","event":"change","url":"\/system\/ajax","submit":{"_triggering_element_name":"vote"}},"edit-tag-submit-1473065":{"event":"click","callback":"_ajax_form_callback","wrapper":"tags-wrapper-1473065","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/tag_it\/tags\/1473065","submit":{"_triggering_element_name":"op","_triggering_element_value":"Suggest Tags"}},"edit-comment-submit-1473065":{"event":"click","wrapper":"comments-wrapper-1473065","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/metadata\/comment\/1473065\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Comment"}},"edit-metadata-suggestion":{"event":"click","callback":"_ajax_form_callback","wrapper":"suggest_us","method":"replaceWith","effect":"fade","progress":{"type":"throbber"},"url":"https:\/\/www.india.gov.in\/ajax\/metadata_suggestion\/166696","submit":{"_triggering_element_name":"op","_triggering_element_value":"Click here to post your Suggestion"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:6932d4bffe7fe47376c5cd1287cff77c":{"view_name":"metadata","view_display_id":"block_3","view_args":"166696","view_path":"taxonomy\/term\/166696","view_base_path":"admin\/metadata-online","view_dom_id":"6932d4bffe7fe47376c5cd1287cff77c","pager_element":0}}},"better_exposed_filters":{"views":{"metadata":{"displays":{"block_3":{"filters":[]}}},"most_search":{"displays":{"block":{"filters":[]}}}}},"adaptivetheme":{"npi_adaptive":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});
+
+  
+	if(_getCookie("fontSize") != null){
+		fontSize = _getCookie("fontSize");
+	}else{
+		fontSize = 100;
+	}
+	var base_url ="https://www.india.gov.in";
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+-A
+A
++A
+
+
+A
+A
+
+हिन्दी
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+
+Agriculture
+Art & Culture
+Commerce
+Communications & IT
+Defence
+Education
+Environment & Forest
+Finance & Taxes
+Food & Public Distribution
+Foreign Affairs
+Governance & Administration
+Health & Family Welfare
+Home Affairs & Enforcement
+Housing
+Industries
+Infrastructure
+Information & Broadcasting
+Labour & Employment
+Law & Justice
+Power & Energy
+Rural
+Science & Technology
+Social Development
+Transport
+Travel & Tourism
+Youth & Sports
+
+
+Services
+
+My Government
+
+Constitution of India
+Government Directory
+Indian Parliament
+Publications
+Who's Who
+Acts
+Schemes
+Documents
+
+
+
+People Groups
+
+Community
+Life Cycle
+
+
+India at a Glance
+
+Profile
+States of India
+My India My Pride
+National Symbols
+Culture & Heritage
+Districts of India
+People and Lifestyle
+Places to Visit
+Natural Wonders
+Where to stay
+Modes of Travel
+Travel Agents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+ 
+Advanced Search
+
+
+
+
+
+
+            Title        
+
+
+
+
+
+
+
+
+             Section         
+
+
+- Any - Topics- Agriculture-- Agricultural Licence-- Agricultural Machinery-- Agricultural Produces-- Research & Extension-- Storage-- Marketing & Prices-- Animal Husbandry-- Certification & Gradation-- Crops-- Dairy-- Fertilizers & Pesticides-- Fisheries-- Floriculture-- Horticulture-- Irrigation-- Loans & Credit-- Organic Farming-- Plant Protection-- Seeds-- Sericulture-- Soil and Water Conservation-- Weather- Art & Culture-- Archaeology-- Dance-- Fairs & Festivals-- Handicrafts-- Heritage-- Literature-- Monuments-- Music-- Painting-- Theatre- Commerce-- Export-- Import-- SEZs-- Trade Promotion- Communications & IT-- Electronics & IT-- Post-- Telecom- Defence-- Air Force-- Army-- Navy-- Paramilitary Forces- Education-- Elementary Education-- Secondary & Higher Secondary Education-- Higher Education-- Adult Education- Environment & Forest-- Environment-- Forest-- Natural Resources-- Wildlife- Finance & Taxes-- Insurance-- Pension-- Banking-- Economy-- Trade-- Taxes- Food & Public Distribution-- Commodities-- Consumer Affairs-- Consumer Cooperatives-- Public Distribution- Foreign Affairs-- Embassy & Consulates-- India & World-- India and Its Neighbours-- NRIs-- Passport & Visa- Governance & Administration-- Constitution-- Parliament-- State Legislature-- Union/State Government-- District Administration-- Local Administration-- RTI & Grievances- Health & Family Welfare-- Family Welfare-- Health- Housing-- EWS Housing-- Rural Housing-- Urban Housing- Home Affairs & Enforcement-- Enforcement Organizations-- Internal Security- Industries-- Micro, Small & Medium Enterprises-- Mining-- Chemicals and Petrochemicals-- Corporate Governance-- Cottage-- Defence Products-- Fertilizers-- Food Processing-- Heavy Industries-- Manufacturing-- Oil and Natural Gas-- Pharmaceuticals-- Retail-- Textiles-- Tourism- Infrastructure-- Power-- Bridges-- Dams-- Roads-- Urban- Information & Broadcasting-- Broadcasting-- Film-- Print Media- Labour & Employment-- Employment-- Organized Sector Workers-- Unorganized Sector Workers- Law & Justice-- Judiciary-- Alternative Dispute Redressal (ADR)-- Enactment of Laws-- Institutions-- Law Commission of India-- Legal Aid-- Legal Profession-- Personal Law- Power & Energy-- Coal-- Conservation of Energy-- Petroleum & Natural Gas-- Power-- Renewable Energy- Rural-- Rural Employment-- Development-- Panchayati Raj- Science & Technology-- Scientific Education-- Research & Development- Social Development-- Other Backward Classes-- Scheduled Castes-- Children-- Disabled-- Minority Community-- Senior Citizen-- Tribal-- Women- Transport-- Aviation-- Metro-- Railways-- Surface Transport-- Water Ways- Travel & Tourism-- Places-- Modes of Travel-- Approved Agents- Youth & Sports-- Sports Infrastructure-- Games-- Youth Affairs My Government- Constitution of India-- Constitution of India (Full Text)- Government Directory-- Districts-- Union Government-- States & UTs-- Judiciary- Indian Parliament-- President of India-- Rajya Sabha-- Lok Sabha- Publications-- Books- Who's Who-- President-- Vice-President-- Prime Minister-- Council of Ministers-- Governors-- Lt. Governors & Administrators-- Chief Ministers-- Judges of Supreme Court-- Chiefs of Armed Forces-- Members of Parliament-- MLAs/MLCs- Acts- Schemes- Documents-- Annual Report-- Budget-- Demand for Grant-- Census Report-- Citizens Charter-- E-Books-- Gazetteer Notification-- Guidelines-- Others-- Plan Document-- Policy-- Reports People Groups- Community-- Businesspersons-- Indians Travelling Abroad-- Minority Community-- Rural Indian-- Scheduled Tribes/Schedule Caste-- Self-Employed-- Social Workers-- Sportsperson-- Student-- Tourists-- Women-- Defence & Paramilitary Personnel-- Differently Abled-- Entrepreneur-- Environmentalists-- Government Employee-- Importers and Exporters-- Job Seekers-- Non-Resident Indians- Life Cycle-- Kids-- Senior Citizens-- Youth India at a Glance- Profile- States of India- My India My Pride- National Symbols- Culture & Heritage- Districts of India- People and Lifestyle- Places to Visit- Natural Wonders- Where to stay- Modes of Travel- Travel Agents
+
+
+
+
+
+Sort by  
+RecentMost Updated
+
+
+
+
+Order 
+AscDesc
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Most Searched
+
+
+  
+Birth Certificate 
+
+Driving Licence 
+
+Pan card 
+ 
+
+ 
+
+
+
+
+
+
+
+
+HomeTopicsAgricultureMarketing & Prices 
+
+
+
+
+					Marketing & Prices				  
+
+
+
+
+
+         Agriculture Agricultural LicenceAgricultural MachineryAgricultural ProducesResearch & ExtensionStorageMarketing & PricesAnimal HusbandryCertification & GradationCropsDairyFertilizers & PesticidesFisheriesFloricultureHorticultureIrrigationLoans & CreditOrganic FarmingPlant ProtectionSeedsSericultureSoil and Water ConservationWeather                Marketing & Prices             Sort ByMost RecentMost Updated                 Application for permit to import live-stock products for trading and marketing             Share This            Importers can download application format for getting permit for importing live-stock products for trading and marketing (FORM-B). The permit will be provided by Department of Animal Husbandry, Dairying & Fisheries under Ministry of Agriculture.     Krishi Nivesh Portal             Share This            Krishi Nivesh Portal is an initiative by Ministry of Agriculture & Farmers Welfare to facilitate farmers and investors. There are many govt. schemes for farmer's welfare through which the investors can avail the subsidized benefits provided by various departments, divisions and ministries. This portal is an one stop place for availing the benefits promulgated by different Government...     Information on Krishi Udan Scheme             Share This            The scheme aims to ensure seamless, cost-effective, time-bound air transportation and associated logistics for all Agri-produce originating especially from Northeast, hilly and tribal regions of the country.     Policy initiatives in agricultural marketing division             Share This            Information on the policy initiatives in agricultural marketing division is provided by the Department of Agriculture and Cooperation under the Ministry of Agriculture. Detailed information on the Marketing Research and Information Network (MRIN), construction of rural godowns, marketing reforms, Small Farmers Agribusiness Consortium (SFAC), strengthening of agricultural marketing...     Farm Produce Price Policy by Department of Agriculture and Farmers Welfare             Share This            Get information on Farm Produce Price Policy by Department of Agriculture and Farmers Welfare, Ministry of Agriculture. Users can get details related to cost of production, trends in market prices, inter-crop price parity, international market price situation, effect on general price level, etc. Access to minimum support prices, wholesale prices of commercial crops, wholesale prices of non-...     Departments of Agriculture of states and Union Territories             Share This            The Department of Agriculture and Cooperation has provided links for the states and Union Territories' Agriculture Departments. One needs to click on the name of the state or Union Territory to access the website of its agriculture department.     Website of Ministry of Agriculture & Farmers Welfare             Share This            Information is provided about the Ministry of Agriculture & Farmers Welfare. Users can find details related to programmes and schemes related to horticulture, seeds, plant protection, etc. Information about drought management, vigilance, weather and agricultural activities is given. Reports related to various agricultural topics are also available. Information about the Department of...     Meghalaya State Agriculture Marketing Board Portal             Share This            The State Agricultural Produce Marketing Act was enacted in the year 1980 and the State Agricultural Marketing Board was set up in 1983 with its headquarter at Shillong, to develop marketing infrastructural facilities and to provide marketing support to the farmers in the State. In the year 1991, with the assistance of the Centre for Agricultural Marketing, Government of India located at...     Website of Agricultural Marketing Directorate, NCT of Delhi             Share This            Directorate of Agricultural Marketing functions to provide marketing facilities to agricultural producers so that they can get fair prices for their produces.     Website of West Bengal State Marketing Board             Share This            Find information on West Bengal State Marketing Board (WBSMB). Details about marketing acts and rules such as West Bengal Agricultural Produce Marketing (Regulation) Act, 1972 and West Bengal Agricultural Produce Marketing (Regulation) Rules, 1982 are provided. Information on infrastructures, training institutes, block level statistics, rural markets, hats, etc. is available. Users can find...     Information about National Agricultural Market Atlas             Share This            National Agricultural Market Atlas (NAMA) is an offshoot of the AGMARKNET with an additional component of spatial data. It provides the GIS web interface to visualize the daily market scenario on the national map. Users can find interactive dynamic market atlas and national atlas. Information on the Directorate of Marketing and Inspections and National Institute of Agricultural Marketing, etc...     Website of National Agriculture Market             Share This            National Agriculture Market (NAM) is a pan-India electronic trading portal which networks the existing APMC mandis to create a unified national market for agricultural commodities.     Website of Gujarat State Agriculture Marketing Board             Share This            The Gujarat State was carved out as a separate State on 1.5.1960 under the Gujarat Organization Act 1960 with the total area of 195024 sq.kms. Its population is 6.00 crores of which percentage of rural population is about 75 percent. nearly 90 lakhs farmers and farm workers are engaged in agricultural production which form about 65 percent of total work force in the State. The State is divided...     Website of Agriculture Department of Haryana             Share This            Detailed information on the Department of Agriculture of Haryana is provided. Information on various schemes such as the Sugar Development Scheme, Ground Water Cell Scheme, National Agricultural Insurance Scheme, etc. is given. Application forms can also be downloaded for the grant of licence of manufacture insecticides, dealer's licence, etc. Information on soil conservation, soil testing,...     Website of Delhi Agricultural Marketing Board             Share This            Users can get detailed information on the Delhi Agricultural Marketing Board. Information on current bazar rates, commodity rates, weekly markets, average price trend, monthly markets, average commodity arrival trend, weekly price variations, etc. is provided. Search option for online market rates is also given.     Pages1234›»         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Could not find what you were looking for?
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+About us
+Contact us
+Feedback
+Visitor Summary
+Help
+Link to Us
+Newsletter
+Tell a Friend
+Website Policy
+Sitemap
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Information Related To
+
+Agriculture
+Art & Culture
+Commerce
+Communication
+Defence
+Education
+Environment & Forest
+Finance & Taxes
+Food & Public Distribution
+Foreign Affairs
+Governance & Administration
+Health & Family Welfare
+Housing
+Home Affairs & Enforcement
+Industries
+Infrastructure
+Information & Broadcasting
+Labour & Employment
+Law & Justice
+Power & Energy
+Rural
+Science & Technology
+Social Development
+Transport
+Travel & Tourism
+Youth & Sports
+
+
+About the Government
+
+Constitution of India
+Government Directory
+Indian Parliament
+Publications
+Who's Who
+President of India
+Vice-President of India
+Prime Minister of India
+Cabinet Ministers
+Chiefs of Armed Forces
+Members of Parliament
+
+
+
+
+
+
+
+
+
+This Portal is a Mission Mode Project under the National E-Governance Plan, and is owned, designed and developed by National Informatics Centre (NIC), Ministry of Electronics & Information Technology, Government of India. The content linked through NPI is owned and maintained by the respective Ministries/Departments.
+
+
+ Last reviewed and updated on  12 Nov, 2024 
+
+ NPI 1
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0BZ8R3LVHG');
+
+
+ 
+
+
+
+				$(document).ready(function(){ 
+					$("body").addClass("parent-166665");
+				});
+							
+							
+			
+
+

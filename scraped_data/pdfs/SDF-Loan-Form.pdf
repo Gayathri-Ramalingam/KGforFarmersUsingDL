@@ -1,0 +1,1238 @@
+<!DOCTYPE html>
+
+<html data-bs-theme="" id="switchColor" lang="en">
+<head>
+
+	<meta name="viewport" content="width=device-width" />
+	<title id="Idtitle"></title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- favicons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/public/images/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/public/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/public/images/favicon/favicon-16x16.png">
+	<link rel="manifest" crossorigin="use-credentials" href="/public/images/favicon/site.webmanifest">
+
+
+
+	<!-- fontAwesome -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+	<!-- Goggle fonts -->
+
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400&display=swap">
+	<link href="/public/css/owl.crousel.css" rel="stylesheet" />
+	<link rel="stylesheet" href="/public/css/navbar.css">
+	<link rel="stylesheet" href="/public/css/swiper.min.css">
+	<link rel="stylesheet" href="/public/css/department.css">
+	<link rel="stylesheet" href="/public/css/bootstrap.css">
+	<link rel="stylesheet" href="/public/css/index.css">
+	<link rel="stylesheet" href="/public/css/responsive.css">
+	<link href="/js/fancybox/jquery.fancybox.css" rel="stylesheet" />
+	<script src="/public/vendor/jquery/jquery.js"></script>
+	<link href="/public/css/common-responsive.css" rel="stylesheet" />
+	<link href="/public/css/home.css" rel="stylesheet" />
+	<link href="/public/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+
+	<style>
+
+		.btn-primary {
+			--bs-btn-color: #000;
+			--bs-btn-bg: #006c51 !important;
+			--bs-btn-border-color: #006c51 !important;
+			--bs-btn-hover-color: #000;
+			--bs-btn-hover-bg: #006c51 !important;
+			--bs-btn-hover-border-color: #006c51 !important;
+			--bs-btn-focus-shadow-rgb: 143, 154, 3;
+			--bs-btn-active-color: #000;
+			--bs-btn-active-bg: #006c51 !important;
+			--bs-btn-active-border-color: #b1bc1d;
+			--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+			--bs-btn-disabled-color: #000;
+			--bs-btn-disabled-bg: #006c51 !important;
+			--bs-btn-disabled-border-color: #006c51 !important;
+		}
+
+		.bg-primary, .btn-primary, .btns {
+			background-color: #006c51 !important;
+		}
+
+		.border-primary, .btn-primary, .bg-warning {
+			border-color: #006c51 !important;
+		}
+
+		.text-primary {
+			color: #006c51 !important;
+		}
+
+		:root {
+			--bs-primary: #006c51;
+			/*--font-family-sans-serif: {{Font Family Taken from google Font Setup}};*/
+		}
+
+		.linksBtnSide li {
+			margin-bottom: 7px !important;
+		}
+
+		.linksBtnSide .btn {
+			border-radius: 20px 0 0 20px !important;
+			font-size: 11px;
+			text-transform: none !important;
+		}
+
+		.custom_new_sec .news-announcementsec-box img {
+			width: 40px;
+			height: 40px;
+		}
+
+		.video_title,
+		.photo_title,
+		.twitter_title {
+			border-radius: 2px;
+			font-size: 14px;
+			font-weight: 600;
+		}
+
+		.custom_card_title h4 {
+			margin-bottom: 0px;
+			font-size: 15px;
+		}
+
+		.custom_circle .card-body {
+			height: 70px !important;
+		}
+
+		.custom_circle .custom_gap {
+			gap: 20px;
+		}
+
+			.custom_circle .custom_gap img {
+				height: 30px;
+			}
+
+			.custom_circle .custom_gap .custom_primary {
+				border-radius: 2px;
+			}
+	</style>
+
+
+</head>
+<body id="checkme">
+	<!------Topbar Start ------>
+
+	<nav class="nav_top_nav" aria-label="Main navigation">
+		<div class="container-fluid topbar">
+			<div class="container-fluid p-0">
+				<div class="row align-items-center m-0 topbar-wrapper">
+					<div class="col topbar_lang_top">
+						<ul class="d-flex topbar-left mb-0">
+							<li>
+								<p class="px-1 mb-0 toll_freeno" id="pTollFreeNo" tabindex="0" title="Toll Free No."></p>
+								<p class="px-1 mb-0 toll_freeno" id="pONORCno" tabindex="0" title="ONORC Toll Free No."></p>
+							</li>
+						</ul>
+					</div>
+					<div class="col col-lg-auto">
+						<ul class="d-flex justify-content-end mb-0">
+							<li class="border-end topbar_lang_top" title="Skip to main content">
+								<a id="skipToContent" class="ms-1 me-1 ms-sm-2 me-lg-2 skip_content" href="#" tabindex="0" aria-label="Skip to main content">
+									<span class="skip_con" id="skipCon"></span>
+									<i class="fa fa-forward skip_content_icon" aria-hidden="true"></i>
+								</a>
+							</li>
+
+							<li class="border-end topbar_lang_top" title="Screen reader">
+								<a href="JavaScript:Void(0)" id="hrfAccess" aria-label="Screen reader access" class="ms-1 me-1 ms-sm-2 me-lg-2" role="button">
+									<span class="skip_con" id="sScreenReader"></span> <img src="/public/images/screen_reader_icon.png" alt="screen reader icon" class="img-fluid screen_reader_icon" />
+								</a>
+							</li>
+							<li class="border-end topbar_lang_top" title="Letter Spacing">
+								<button class="ms-1 me-1 ms-sm-2 me-lg-2 font-space" id="toggle-spacing" aria-label="Letter Spacing"><-|A|-></button>
+							</li>
+							<li class="border-end topbar_lang_top" title="Increase font size">
+								<button id="increment-font" class="me-1 ms-1 zoomin" aria-label="Increase font size">A <sup>+</sup></button>
+							</li>
+							<li class="border-end topbar_lang_top" title="Reset Font Size">
+								<button id="normal-font" class="ms-1 me-1 ms-sm-2 me-lg-2 smallLargeFont" aria-label="Reset font size">A</button>
+							</li>
+							<li class="border-end topbar_lang_top" title="Decrease Font Size">
+								<button id="decrement-font" class="ms-1 me-1 ms-sm-2 me-lg-2 zoomout" aria-label="Decrease font size">A <sup>-</sup></button>
+							</li>
+							<li class="border-end topbar_lang_top" title="Light Mode">
+								<button onclick="lightMode();" id="whiteContrastView" aria-pressed="false" aria-label="Switch to light mode" class="white-const ms-1 me-1 ms-sm-2 me-lg-2">
+									<i class="fa fa-sun invisible" aria-hidden="true"></i>
+								</button>
+							</li>
+							<li class="border-end topbar_lang_top" title="Dark Mode">
+								<button onclick="darkMode();" id="blackContrastView" aria-pressed="false" aria-label="Switch to dark mode" class="black-const ms-1 me-1 ms-sm-2 me-lg-2">
+									<i class="fa fa-moon invisible" aria-hidden="true"></i>
+								</button>
+							</li>
+							<li class="border-end topbar_lang_top" title="Gray Mode">
+								<button onclick="grayMode();" id="grayContrastView" aria-pressed="false" aria-label="Switch to gray mode" class="gray-const ms-1 me-1 ms-sm-2 me-lg-2">
+									<i class="fa fa-moon invisible" aria-hidden="true"></i>
+								</button>
+							</li>
+							<li class="border-end topbar_lang_top" title="Sitemap">
+								<a href="javascript:void(0);" id="arfSiteMap" class="ms-1 me-1 ms-sm-2 me-lg-2" aria-labelledby="siteMapLabel">
+									<i class="fa fa-sitemap" title="Sitemap" aria-hidden="true"></i>
+								</a>
+								<!-- Hidden label for screen readers -->
+								<span id="siteMapLabel" class="sr-only">Site Map</span>
+							</li>
+
+
+
+							<li class="border-end mobile_lang" title="Select Language">
+								<select id="LanguageId" class="border-0 bg-light mobile_language" aria-label="Select Language">
+								<option value="1">English</option>
+<option value="2">&#x939;&#x93F;&#x928;&#x94D;&#x926;&#x940;</option>
+</select>
+							</li>
+						</ul>
+					</div>
+
+					<!--------Logo social media Start-------->
+				</div>
+			</div>
+		</div>
+
+		<!--------Topbar End-------->
+		<!--------Logo Section Start-------->
+
+		<div style="background-color: #fffae0;" class="main_header">
+			<div class="container-fluid p-0">
+				<div class="row align-items-center m-0 my-2">
+					<!--------Main Logo Section Partial View Start-------->
+					<div class="col-md-6 col-lg-7 col-sm-12 pl-0" id="DivMainHeaderLogo"></div>
+					<!--------End-------->
+					<div class="col-md-6 col-lg-5 col-sm-12">
+						<div class="d-flex align-items-center justify-content-end res-earch-logo mobile_view_social_icon">
+							<!--------Header logo partial view start-------->
+							<div id="HeaderLogo" class="header_logo">
+							</div>
+							<!--------Header logo partial view start-------->
+
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<!--------Logo Section End----------->
+		<!--------Header Partial View Start using jquery------>
+		<ul class=" m-0 p-0 bg-white border-top border-btm top_nevigation_bar" id="divHeaderMenu">
+		</ul>
+	</nav>
+	<div id="confirmBox" class="custom-dialog d-none">
+		<div class="custom-dialog-content">
+			<p class="box-content"></p>
+			<div class="custom-dialog-actions">
+				<button id="customConfirmYes" aria-label="Confirm" class="btn btn-primary">Yes</button>
+				<button id="customConfirmNo" aria-label="Decline" class="btn btn-secondary">No</button>
+			</div>
+		</div>
+	</div>
+
+	<div id="alertBox" class="custom-dialog d-none">
+		<div class="custom-dialog-content">
+			<p class="box-content"></p>
+			<div class="custom-dialog-actions">
+				<button id="customAlertOk" aria-label="Accept" class="btn btn-primary">Ok</button>
+			</div>
+		</div>
+	</div>
+
+
+	<!--------End------>
+	<main class="Wrapper" data-scroll-target>
+		<div class="container-fluid breadcrumb_page" role="region" aria-labelledby="bread_heading">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 d-flex align-items-center justify-content-center bread_crumb_top">
+                    <h3 class="bread_heading" id="bread_heading">वैश्विक खोज</h3>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <nav aria-label="breadcrumb " class="breadcrumb_cust">
+                    <ol class="breadcrumb mb-0">
+                        <li class="breadcrumb-item"><a href="/hi">होम</a></li>
+                        <li class="breadcrumb-item active"><a href="Javascript:void()">वैश्विक खोज</a></li>
+                    </ol>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+<section class="main_content_section pt-4">
+    <div class="container">
+        <div class="row" id="DivSeachText">
+                <div class="col-lg-12 col-sm-12 col-md-12">
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=Storage-poli-hin.html" target="_self">
+                                        Storage Policy
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Policy
+
+Storage Division deals with policy aspects related to creation of adequate storage capacity for Central Pool food stocks in order to ensure availability of quality foodgrains to th...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=sugar_policy.html" target="_self">
+                                        Sugar Policy
+                                    </a>
+                                </h6>
+                                <p>
+                                    Sugar Policy 
+
+Sugar Policy Division is responsible for policy formulation and for carrying out amendments required from time to time w.r.t. Sugarcane (Control) Order 1966, the Sugar (Control) Order...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=scheme.html" target="_self">
+                                        Schemes
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Schemes for Augmentation of Storage Capacity
+
+FCI continuously assesses and monitors the storage capacity and based on the storage gap assessment, storage capacities are created/hired thro...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=central_warehousing_corporation.html" target="_self">
+                                        Central Warehousing Corporation
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Central Warehousing Corporation (CWC)
+
+Central Warehousing Corporation (CWC), a Schedule &#39;A&#39;-Mini Ratna, Category - 1 Central Public Sector Enterprise (CPSE) is a statutory body wh...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=scheme-sug.html" target="_self">
+                                        Schemes
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+                    
+                        
+                            
+                                
+                                    
+                                        
+      ...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=directorate-of-sugar1.html" target="_self">
+                                        Directorate Of Sugar
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Sugar
+
+In exercise of powers conferred under the Essential Commodities Act, 1955, Directorate of Sugar & Vegetable Oils monitors the production, sale, export and stock availability of suga...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=movement-poli.html" target="_self">
+                                        Movement Policy
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+Introduction
+
+The Movement Division oversees the transportation of surplus food grains to deficient regions within India. It facilitates, plans, and coordinates with the Food Corporation of ...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=proc-policy-hin.html" target="_self">
+                                        Procurement Policy
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+Procurement Policy
+
+Procurement Policy of Wheat and Rice
+
+State Government agencies and Food Corporation of India (FCI) purchase wheat & paddy within the stipulated period with prescribed ...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=Pro-Inci-cell-hin.html" target="_self">
+                                        Procurement Incidental Cell
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+Procurement Incidentals Cell
+
+Procurement Incidental Cell was set up on 04.09.2008 under the Department of Food & Public Distribution. It is headed by Principal Adviser (Cost). It is manned ...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=account-hin.html" target="_self">
+                                        Accounts
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+Accounting Organisation
+
+Secretary (Food & Public Distribution) is the Chief Accounting Authority of Department of Food & Public Distribution and Chief Controller of Accounts is the head of ...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=faqs.html" target="_self">
+                                        FAQS
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+        
+            FAQ 
+            
+                
+                    
+                        
+                            
+                                To which Public Authority ca...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=budget-hin.html" target="_self">
+                                        Budget
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Budget
+
+
+	
+	Preparation of budget according to the instructions issued by Ministry of Finance (MoF) from time to time.
+	
+	
+	Preparation of &#39;Note on Demands for Grants;&#39; and, i...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=niti_aayog_coordination.html" target="_self">
+                                        NITI Aayog Cell
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+NITI AAYOG CELL (NAC)
+
+NAC coordinates within the Department on the matters related to –
+
+
+	
+	Outcome Output Monitoring Framework (OOMF)
+	
+	
+	Development Action Plan for Scheduled C...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=storage-reserch-hin.html" target="_self">
+                                        Storage &amp; Research
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+Storage & Research
+
+The Storage and Research (S&R) Division working under the aegis of Department of Food & Public Distribution has been mandated to undertake quality control activities sinc...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=central_warehousing_corporation.html" target="_self">
+                                        Central Warehousing Corporation
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Central Warehousing Corporation (CWC)
+
+Central Warehousing Corporation (CWC), a Schedule &#39;A&#39;-Mini Ratna, Category - 1 Central Public Sector Enterprise (CPSE) is a statutory body wh...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=directorate-sugar-hin.html" target="_self">
+                                        Directorate Of Sugar &amp; Edible Oils
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Sugar
+
+In exercise of powers conferred under the Essential Commodities Act, 1955, Directorate of Sugar & Vegetable Oils monitors the production, sale, export and stock availability of suga...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=fci-ad-hind.html" target="_self">
+                                        FCI Administration
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+Food Corporation of India Personnel Administration
+
+Functions of FCI Personnel Administration
+
+• Interpretation and Amendments thereto of -
+
+
+	Food Corporation Act, 1964& Food Corporati...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=parliament-hin.html" target="_self">
+                                        Parliament Section
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+Parliament Section
+
+
+	
+	Coordination work relating to all business in the two Houses of Parliament.
+	
+	
+	Monitoring the fulfillment of assurances, promises made by Minister in Parliamen...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=allocation-food.html" target="_self">
+                                        Allocation of Food Grains
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Allocation of Food Grain
+
+Overview
+
+BP Division of this Department makes allocation of food grains to States/UTs under Targeted Public Distribution System (TPDS) and Other Welfare Scheme...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=act.html" target="_self">
+                                        Acts &amp; Rules
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+Acts & Rules
+
+
+
+	
+		
+			
+			Sr. No.
+			
+			
+			Acts
+			
+			
+			Downloads
+			
+			
+			Rules under the Acts
+			
+			
+			Downloads
+			
+		
+	
+	
+		
+			
+			1
+			
+			
+			T...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=implementation_of_nfsa.html" target="_self">
+                                        Implementation of NFSA
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+NFSA
+
+
+
+Provision of National Food Security Act, 2013 (NFSA)
+
+
+
+The basic concept of food security globally is to ensure that all people, at all times, should get access to the basic food ...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=sugar_development_fund.html" target="_self">
+                                        Sugar Development Fund
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+
+
+The Sugar Development Fund (SDF)
+
+Sugar Development Fund (SDF) was established in the year 1982, through an act of Parliament. It is being utilized presently to grant loans to the sugar mi...
+                                </p>
+
+                            </div>
+                            <div class="search_wrapper_detail bdr_btm">
+                                <h6>
+                                    <a href="/Admin/Home/ContentManagement?menuURL=help.html" target="_self">
+                                        Help
+                                    </a>
+                                </h6>
+                                <p>
+                                    
+
+
+Viewing Information in Various File Formats
+
+
+	
+	This website includes some content that is available in non-HTML format. They might not be visible properly if your browser does not have the...
+                                </p>
+
+                            </div>
+
+                </div>
+        </div>
+    </div>
+</section>
+
+
+
+	</main>
+
+	<!-- footer top logos -->
+	<div class=" footer_logobg">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12" id="DivSliderDepartmentFooterLogo">
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!--------Footer Section-------->
+	<!--------footer partial view start-------->
+	<footer id="divFooter"></footer>
+
+	<script>
+		document.addEventListener("DOMContentLoaded", () => {
+
+			setTimeout(() => {
+				document.querySelectorAll("p").forEach(element => {
+					element.style.fontSize = "14px";
+				});
+			}, "1500");
+
+		});
+
+	</script>
+
+	<!--------Footer Section end-------->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
+	<!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" ></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" ></script> -->
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js'></script>
+	<script src="/public/js/swiper.min.js"></script>
+	<script src="/public/js/script.js"></script>
+	<script src="/public/js/nav-script.js"></script>
+	<script src="/js/lightgallery-all.min.js"></script>
+	<script src="/public/vendor/datatables/jquery.dataTables.min.js"></script>
+	<script src="/public/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+
+
+
+
+	<!--  fancy box design library -->
+
+	<script src="/js/fancybox/jquery.fancybox.js"></script>
+	<script>
+		$(".playpausemarquee").click(function () {
+			$(".marquees").stop();
+		});
+
+	</script>
+	<script>
+		$("#checkme").bind("DOMSubtreeModified", function () {
+			let images = [];
+			for (var i = 0; i < document.getElementsByTagName("img").length; i++) {
+				var src = document.getElementsByTagName("img")[i].getAttribute('src');
+				//console.log(src);
+				images.push(src);
+			}
+
+			for (var i = 0; i < document.getElementsByTagName("a").length; i++) {
+				var hr = document.getElementsByTagName("a")[i].getAttribute('href');
+				if (hr != undefined && hr != null && !hr.toLowerCase().includes('javascript'))
+					images.push(hr);
+			}
+			if (images.length > 0) {
+				var formdata = new FormData();
+				formdata.append("filePaths", images);
+				$.ajax({
+					url: "/Home/LogNonExistingFiles",
+					type: 'POST',
+					data: formdata,
+					contentType: false,
+					processData: false,
+					success: function (response) {
+						//console.log("broken link completed")
+
+					},
+					error: function (err) {
+						console.log("broken link error")
+						console.log(err)
+					}
+				});
+			}
+
+		});
+
+	</script>
+
+	<script>
+				var languageVar = 0;
+
+		const dialogTexts = {
+			alert: {
+				1: { ok: "Ok" },
+				2: { ok: "ठीक है" }
+			},
+			confirm: {
+				1: { yes: "Yes", no: "No" },
+				2: { yes: "हाँ", no: "नहीं" }
+			}
+		};
+
+		function showAlert(message) {
+			const alertBox = document.getElementById('alertBox');
+			if (!alertBox) return;
+
+			const boxContent = alertBox.querySelector('.box-content');
+			const alertOkButton = alertBox.querySelector('#customAlertOk');
+
+			boxContent.textContent = message;
+			alertOkButton.innerText = dialogTexts.alert[languageVar]?.ok || dialogTexts.alert[1].ok;
+
+			alertBox.classList.remove('d-none');
+			alertBox.setAttribute("tabindex", "-1");
+			alertBox.focus();
+
+			const handleClose = () => {
+				alertBox.classList.add('d-none');
+				alertOkButton.removeEventListener('click', handleClose);
+			};
+
+			alertOkButton.addEventListener('click', handleClose);
+		}
+
+		function confirmBox(message) {
+			return new Promise((resolve) => {
+				const confirmBox = document.getElementById('confirmBox');
+				if (!confirmBox) return resolve(false);
+
+				const msg = confirmBox.querySelector('.box-content');
+				const yesBtn = document.getElementById('customConfirmYes');
+				const noBtn = document.getElementById('customConfirmNo');
+
+				if (!msg || !yesBtn || !noBtn) return resolve(false);
+
+				msg.innerHTML = message;
+				yesBtn.innerText = dialogTexts.confirm[languageVar]?.yes || dialogTexts.confirm[1].yes;
+				noBtn.innerText = dialogTexts.confirm[languageVar]?.no || dialogTexts.confirm[1].no;
+
+				confirmBox.classList.remove('d-none');
+				confirmBox.setAttribute("tabindex", "-1");
+				yesBtn.focus();
+
+				const cleanup = () => {
+					confirmBox.classList.add('d-none');
+					yesBtn.removeEventListener('click', handleYes);
+					noBtn.removeEventListener('click', handleNo);
+				};
+
+				const handleYes = () => { cleanup(); resolve(true); };
+				const handleNo = () => { cleanup(); resolve(false); };
+
+				yesBtn.addEventListener('click', handleYes, { once: true });
+				noBtn.addEventListener('click', handleNo, { once: true });
+			});
+		}
+
+		function updateVisibleDialogs() {
+			const alertBox = document.getElementById('alertBox');
+			const confirmBox = document.getElementById('confirmBox');
+
+			if (alertBox && !alertBox.classList.contains('d-none')) {
+				const okBtn = alertBox.querySelector('#customAlertOk');
+				if (okBtn) {
+					okBtn.innerText = dialogTexts.alert[languageVar]?.ok || dialogTexts.alert[1].ok;
+				}
+			}
+
+			if (confirmBox && !confirmBox.classList.contains('d-none')) {
+				const yesBtn = document.getElementById('customConfirmYes');
+				const noBtn = document.getElementById('customConfirmNo');
+				if (yesBtn && noBtn) {
+					yesBtn.innerText = dialogTexts.confirm[languageVar]?.yes || dialogTexts.confirm[1].yes;
+					noBtn.innerText = dialogTexts.confirm[languageVar]?.no || dialogTexts.confirm[1].no;
+				}
+			}
+		}
+
+		window.alert = showAlert;
+
+		async function loadContent(languageId) {
+			try {
+				const results = await Promise.all([
+					BindMainHeaderLogo(languageId),
+					BindHeaderMenu(languageId),
+					BindFooterMenu(languageId),
+					GetManiHeadingText(languageId),
+					GetVisitor(languageId),
+					BindHeaderLogo(languageId)
+				]);
+
+				const langCode = languageId === 1 ? "en" : "hi";
+				$("#arfSiteMap").attr("href", `/site-map/${langCode}`);
+				$("#hrfAccess").attr("href", `/screen-reader-access/${langCode}`);
+				$("#skipCon").html(languageId === 1 ? "Skip to Main Content" : "मुख्य सामग्री पर जाएँ");
+				$("#Idtitle").html(languageId === 1 ?
+					"Official Website of Department of Food and Public Distribution, Ministry of Consumer Affairs, Food and Public Distribution, Government of India." :
+					"खाद्य और सार्वजनिक वितरण विभाग, उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय, भारत सरकार की आधिकारिक वेबसाइट.");
+
+				return results;
+			} catch (error) {
+				console.error('Error loading content:', error);
+				showAlert('Error loading content. Please try again.');
+				throw error;
+			}
+		}
+
+		$(document).ready(async function () {
+			try {
+				// Set initial language
+				languageVar = getPathParam() === "hi" ? 2 : 1;
+				$("#LanguageId").val(languageVar);
+
+				// Load initial content
+				await loadContent(languageVar);
+				await Promise.all([
+					BindSocialMediaLogo(),
+					BindSliderDepartmentLogo()
+				]);
+
+				// Handle language change
+				$("#LanguageId").change(async function () {
+					try {
+						const newLanguageId = parseInt($(this).val());
+						const prevLanguage = languageVar;
+
+						// Store the confirmation message before changing language
+						const confirmMessage = newLanguageId === 1
+							? "क्या आप वेबसाइट की भाषा अंग्रेजी में परिवर्तित करना चाहते हैं?"
+							: "Do you want to change website language in Hindi?";
+
+						// Show confirmation in current language
+						const confirmed = await confirmBox(confirmMessage);
+
+						if (confirmed) {
+							languageVar = newLanguageId;
+							await loadContent(newLanguageId);
+							updateVisibleDialogs();
+						} else {
+							languageVar = prevLanguage;
+							$(this).val(prevLanguage);
+							updateVisibleDialogs();
+						}
+					} catch (error) {
+						console.error('Error changing language:', error);
+						showAlert('Error changing language. Please try again.');
+						$(this).val(languageVar);
+					}
+				});
+			} catch (error) {
+				console.error('Error in initialization:', error);
+				showAlert('Error initializing page. Please refresh and try again.');
+			}
+		});
+
+		function getPathParam() {
+			return window.location.pathname.split('/').pop() || "en";
+		}
+
+		function GetVisitor(languageId) {
+			return $.get('/Admin/Home/SaveVisitorByLanguage', { languageId });
+		}
+
+		function GetManiHeadingText(languageId) {
+			return $.get('/Admin/Home/GetMainHeading', { languageId }).done(data => {
+				$("#pTollFreeNo").html(data.headingTollFreeNumber);
+				$("#pONORCno").html(data.headingONORCTollFreeNumber);
+				$("#sSkipContent").html(data.headingSkiptoMainConten);
+				$("#sScreenReader").html(data.headingScreenReaderAccess);
+			});
+		}
+
+		function BindHeaderMenu(languageId) {
+			return $.get('/Admin/Home/Header', { languageId }, content => $("#divHeaderMenu").html(content));
+		}
+
+		function BindMainHeaderLogo(languageId) {
+			return $.get('/Admin/Home/MainHeaderLogo', { languageId }, content => $("#DivMainHeaderLogo").html(content));
+		}
+
+		function BindSocialMediaLogo() {
+			return $.get('/Admin/Home/SocialMediaLogo', content => $("#DivSocialMedia").html(content));
+		}
+
+		function BindHeaderLogo(languageId) {
+			return $.get('/Admin/Home/HeaderLogo', { languageId }, content => $("#HeaderLogo").html(content));
+		}
+
+		function BindSliderDepartmentLogo() {
+			return $.get('/Admin/Home/DepartmentSliderFooterLogo', content => $("#DivSliderDepartmentFooterLogo").html(content));
+		}
+
+		function BindFooterMenu(languageId) {
+			return $.get('/Admin/Home/FooterMenu', { languageId }, content => $("#divFooter").html(content));
+		}
+	</script>
+
+	<script>
+		$('.moreless-buttonSector').click(function () {
+			$('.read_lessSector').slideToggle();
+			if ($('.moreless-buttonSector').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+		$('.moreless-buttonSectorCWD').click(function () {
+			$('.read_lessSectorCWD').slideToggle();
+			if ($('.moreless-buttonSectorCWD').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+	</script>
+
+	<script>
+		$('.moreless-button01').click(function () {
+
+			$('.read_less01').slideToggle();
+			if ($('.moreless-button01').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+		$('.moreless-button1').click(function () {
+			$('.read_less1').slideToggle();
+			if ($('.moreless-button1').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+		$('.moreless-button2').click(function () {
+			$('.read_less2').slideToggle();
+			if ($('.moreless-button2').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+		$('.moreless-button3').click(function () {
+			$('.read_less3').slideToggle();
+			if ($('.moreless-button3').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+		$('.moreless-button4').click(function () {
+			$('.read_less4').slideToggle();
+			if ($('.moreless-button4').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+		$('.moreless-button5').click(function () {
+			$('.read_less5').slideToggle();
+			if ($('.moreless-button5').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+		$('.moreless-button6').click(function () {
+			$('.read_less6').slideToggle();
+			if ($('.moreless-button6').text() == "Read more") {
+				$(this).text("Read less")
+			} else {
+				$(this).text("Read more")
+			}
+		});
+	</script>
+	<script>
+		$(window).scroll(function () {
+			var sticky = $('.nav_top_nav'),
+				scroll = $(window).scrollTop();
+
+			if (scroll >= 1) sticky.addClass('fixed');
+			else sticky.removeClass('fixed');
+		});
+
+	</script>
+
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-TMYQ2TJ7CY"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		gtag('config', 'G-TMYQ2TJ7CY');
+
+
+
+	</script>
+	<script>
+		document.getElementById('skipToContent').addEventListener('click', function (e) {
+			e.preventDefault();  // Prevent the default anchor behavior
+			const targetElement = document.getElementById('scroll');
+
+			// Adjust the scroll position for the fixed header
+			const headerOffset = 150;  // You can set this to the height of your fixed header
+			const elementPosition = targetElement.getBoundingClientRect().top;
+			const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+			window.scrollTo({
+				top: offsetPosition,
+				behavior: 'smooth'
+			});
+		});
+	</script>
+
+	<script>
+		document.addEventListener('keydown', function (event) {
+			if (event.key === 'Enter' || event.key === ' ') {  // Can adjust keys if needed
+				const activeElement = document.activeElement;
+
+				// Check if the active element has a click event attached to it
+				if (activeElement && isClickable(activeElement)) {
+					activeElement.click();
+				}
+			}
+		});
+
+		// Helper function to check if an element is clickable
+		function isClickable(element) {
+			// Check if the element has a click event attached (either inline or via JS)
+			const clickEvent = getEventListeners(element).click;
+			return clickEvent && clickEvent.length > 0;
+		}
+
+		setTimeout(function () {
+			const focusableSelectors = [
+				'a', 'button', 'input', 'textarea', 'select', 'label', 'nav',
+				'h1', 'h2', 'h3', 'h4', 'h5', 'h6'
+			];
+
+			// Elements to ignore
+			const ignoreSelectors = ['sup', 'sub', 'span', 'strong', 'em', 'b', 'i', 'small'];
+
+			focusableSelectors.forEach(selector => {
+				const elements = document.querySelectorAll(selector);
+				elements.forEach(element => {
+					if (!element.hasAttribute('tabindex') && !ignoreSelectors.includes(element.tagName.toLowerCase())) {
+						element.setAttribute('tabindex', '0');
+					}
+				});
+			});
+
+			// Ensure `tabindex` is not applied to elements inside `role=button` or `role=link`
+			const allElements = document.querySelectorAll('*');
+			allElements.forEach(element => {
+				const role = element.getAttribute('role');
+				if (role === 'button' || role === 'link') {
+					element.querySelectorAll('*').forEach(child => {
+						if (child.hasAttribute('tabindex')) {
+							child.removeAttribute('tabindex');
+						}
+					});
+				}
+
+				// Add tabindex="0" to parents of text nodes that don't already have tabindex, but ignore specific inline elements
+				const textNodes = Array.from(element.childNodes).filter(node =>
+					node.nodeType === Node.TEXT_NODE && node.nodeValue.trim() !== ''
+				);
+
+				if (textNodes.length > 0 &&
+					!element.hasAttribute('tabindex') &&
+					!ignoreSelectors.includes(element.tagName.toLowerCase())
+				) {
+					element.setAttribute('tabindex', '0');
+				}
+			});
+		}, 1000);
+
+	</script>
+
+
+</body>
+</html>
+
+

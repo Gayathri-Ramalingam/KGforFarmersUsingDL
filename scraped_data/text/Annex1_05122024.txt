@@ -1,0 +1,4423 @@
+ 
+ 
+
+INDEX 
+
+ 
+
+1.  Demographic & Social Statistics 
+
+1.1  Labour 
+1.2  Education 
+1.3  Health 
+1.4 
+1.5  Justice & Crime 
+1.6  Time Use 
+1.7  Human settlements and Housing 
+
+Income and Consumption 
+
+ 
+2.  Economic Statistics  
+2.1  Economic Accounts 
+2.2  Agriculture, Forestry, Fisheries 
+2.3  Business Statistics 
+2.4  Prices 
+2.5  Government finance, Fiscal and Public sector statistics 
+
+International trade and Balance of payments 
+
+2.6 
+2.7  Banking, Insurance, Financial statistics 
+2.8  Tourism 
+2.9  Energy 
+2.10  Mining, Manufacturing, Construction 
+
+3. Environment 
+4. Statistical programmes; coordination within statistical system 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+1 | P a g e  
+
+List of International Statistical Classification for usages in official statistics 
+(The classifications are listed by the statistical domain(s) that they belong to. Some of them may appear in more than one domain) 
+
+Classification 
+
+Acronym  Agency 
+
+Source 
+
+Brief about classification 
+
+Areas where it can be used 
+
+Latest 
+revision 
+
+Demographic and social statistics 
+Labour 
+International 
+Conference of 
+Labour 
+Statisticians 
+
+ICLS 
+21st 
+
+ILO 
+
+2023 
+
+https://ilostat.il
+o.org/about/sta
+ndards/icls/?pla
+ylist=4194a13
+&video=38313
+ec 
+ 
+
+The International 
+Conference of Labour 
+Statisticians (ICLS) is 
+organized by the 
+International Labour 
+Organization (ILO) and 
+held every five years. It 
+brings together 
+representatives from 
+national statistical offices, 
+ministries of labor, 
+international organizations, 
+and experts to develop and 
+adopt international 
+
+Statistics on the informal 
+economy, Statistics of 
+work, employment and 
+labour underutilization, 
+the measurement of 
+employment-related 
+income, household 
+income and expenditure 
+statistics. 
+
+2 | P a g e  
+
+ 
+Sr. 
+No. 
+
+1 
+1.1 
+1 
+
+ 
+
+standards for labor 
+statistics. The ICLS focuses 
+on areas such as 
+employment, 
+unemployment, wages, 
+working conditions, and the 
+informal economy. The 
+standards set by the ICLS 
+ensure that labor statistics 
+are harmonized and 
+comparable across 
+countries, supporting 
+effective labor market 
+policies and research. 
+The International Standard 
+Classification of 
+Occupations (ISCO) is a 
+system developed by the 
+International Labour 
+Organization (ILO) to 
+categorize and classify jobs 
+and occupations globally. 
+ISCO provides a 
+standardized framework for 
+organizing jobs into groups 
+
+Volume 1: 
+https://www.ilo
+.org/sites/defau
+lt/files/wcmsp5
+/groups/public/
+@dgreports/@
+dcomm/@publ/
+documents/pub
+lication/wcms_
+172572.pdf 
+
+Comparison and 
+exchange of statistical 
+and administrative 
+information about 
+national and regional 
+classifications of 
+occupations based on 
+skill level and skill 
+specialisation  
+
+3 | P a g e  
+
+2 
+
+ISCO 
+
+ILO 
+
+2008 
+
+International 
+Standard 
+Classification 
+of Occupations 
+
+ 
+
+ 
+Companion 
+guide: 
+https://www.ilo
+.org/publicatio
+ns/international
+-standard-
+classification-
+occupations-
+isco-08-
+companion-
+guide 
+https://www.ilo
+.org/publicatio
+ns/international
+-classification-
+status-
+employment-
+icse-18-manual  
+. 
+ 
+
+based on the tasks and 
+duties involved. This 
+classification facilitates 
+international comparability 
+of occupational data, 
+supports labor market 
+analysis, and aids in the 
+development of 
+employment policies and 
+programs. The current 
+version is ISCO-08. 
+
+The International 
+Classification of Status in 
+Employment (ICSE) plays a 
+crucial role in labour 
+statistics, serving as a 
+cornerstone for generating 
+data that sheds light on the 
+composition of the 
+workforce based on their 
+status in employment 
+category. Providing 
+accurate statistics on for 
+
+Wage statistics, earnings 
+data, labour costs, job-
+creation and about 
+entrepreneurs, persons 
+with jobs of high-risk, 
+lower-income, and less 
+security and of informal 
+employment. 
+
+4 | P a g e  
+
+3 
+
+International 
+Classification 
+of Status in 
+Employment  
+
+ICSE - 
+18 
+ 
+
+ILO 
+
+2023 
+
+ 
+
+example the number of 
+employers, own-account 
+workers, employees etc. and 
+capturing shifts between 
+different categories of status 
+in employment are all 
+essential for gaining a 
+comprehensive 
+understanding of the 
+dynamics within a country’s 
+labour market. 
+This classification presents 
+the former statistical 
+standard, but it is still the 
+widely used by national 
+statistical systems in the 
+production of labour 
+statistics. 
+It classifies jobs with 
+respect to the type of 
+explicit or implicit contract 
+of employment between the 
+job holder and the 
+
+4. 
+
+ICSE-93 
+
+ILO 
+
+2013  
+
+International 
+Classification 
+of Status in 
+Employment 
+
+https://www.ilo
+.org/media/167
+786/download 
+ 
+
+National accounts 
+Statistics, status in 
+employment, the 
+distinction between ‘paid 
+employment jobs’ and 
+‘self-employment jobs’ 
+
+ 
+
+5 | P a g e  
+
+5 
+
+ICSaW 
+
+ILO 
+
+International 
+Classifications 
+of Status at 
+Work 
+
+2023 
+ 
+
+economic unit in which he 
+or she is employed. 
+ 
+. 
+The International 
+Classification of Status at 
+Work (ICSaW-18) expands 
+on ICSE-18 by including 
+not only jobs, but all work 
+activities not considered to 
+be in employment. 
+ 
+
+Statistical outputs on 
+topics such as 
+employment, volunteer 
+work, child labour and 
+time use, own-use 
+production work to be 
+reported on a 
+conceptually consistent 
+basis. 
+ 
+ 
+
+https://ilostat.il
+o.org/methods/
+concepts-and-
+definitions/clas
+sification-
+status-at-
+work/#:~:text=
+The%20Interna
+tional%20Class
+ification%20of
+%20Status,thei
+r%20status%20
+in%20employ
+ment%20categ
+ory. 
+ 
+
+ 
+
+6 | P a g e  
+
+1.2 
+6 
+
+Education 
+International 
+Standard 
+Classification 
+of Education 
+
+ISCED   UNESC
+
+2011 
+
+O 
+
+Education Statistics, 
+compilation and analysis 
+of cross-nationally 
+comparable data on 
+national education 
+systems and programmes.  
+
+https://uis.unes
+co.org/sites/def
+ault/files/docu
+ments/internati
+onal-standard-
+classification-
+of-education-
+isced-2011-
+en.pdf 
+ 
+
+The world's education 
+systems vary widely in 
+terms of structure and 
+curricular content. 
+Consequently, it can be 
+difficult to compare 
+national education systems 
+with those of other 
+countries or to benchmark 
+progress towards national 
+and international goals.  
+The International Standard 
+Classification of Education 
+(ISCED 2011) provides a 
+comprehensive framework 
+for organizing education 
+programmes and 
+qualification by applying 
+uniform and internationally 
+agreed definitions to 
+facilitate comparisons of 
+education systems across 
+countries. ISCED is a 
+
+ 
+
+7 | P a g e  
+
+widely-used a global 
+reference classification for 
+education systems that is 
+maintained and periodically 
+revised by the UIS in 
+consultation with Member 
+States and other 
+international and regional 
+organizations. ISCED 2011 
+is the second major revision 
+of this classification 
+(initially developed in the 
+1970s and revised in 1997). 
+It was adopted by the 
+UNESCO General 
+Conference in November 
+2011. 
+
+1.3  Health 
+7 
+
+International 
+Classification 
+of Functioning 
+Disability and 
+Health 
+
+ 
+
+ICF 
+
+WHO 
+
+2018 
+
+https://iris.who.
+int/bitstream/ha
+ndle/10665/437
+37/9789241547
+321_eng.pdf  
+
+The International 
+Classification of 
+Functioning, Disability and 
+Health, known more 
+commonly as ICF, is a 
+
+Statistics on health and 
+disability, statistics on 
+population developments 
+(impairments, disabilities 
+and handicaps.) 
+
+8 | P a g e  
+
+(PDF version: 
+2007) 
+ 
+Revisions: 
+https://www.w
+ho.int/standard
+s/classification
+s/international-
+classification-
+of-functioning-
+disability-and-
+health 
+ 
+https://www.w
+ho.int/standard
+s/classification
+s/classification-
+of-diseases 
+ 
+
+classification of health and 
+health-related domains. 
+As the functioning and 
+disability of an individual 
+occurs in a context, ICF 
+also includes a list of 
+environmental factors. 
+ICF is the WHO framework 
+for measuring health and 
+disability at both individual 
+and population levels. 
+
+The International Statistical 
+Classification of Diseases 
+and Related Health 
+Problems (ICD) is a 
+comprehensive system 
+developed by the World 
+Health Organization 
+(WHO) for classifying 
+diseases, health conditions, 
+and related issues. The ICD 
+
+Systematic recording, 
+analysis, interpretation 
+and comparison of 
+mortality and morbidity 
+data collected in different 
+countries or areas and at 
+different times. 
+
+9 | P a g e  
+
+8 
+
+ICD-11  WHO 
+
+2011 
+
+International 
+Statistical 
+Classification 
+of Diseases and 
+Related Health 
+Problems 
+
+ 
+
+provides standardized codes 
+to accurately record and 
+report health conditions 
+across different countries, 
+improving international 
+comparability of health 
+data, facilitating 
+epidemiological research, 
+and aiding in health 
+management and policy 
+decisions. The current 
+version is ICD-11. 
+The system of health 
+accounts is an international 
+accounting framework for 
+systematically tracking 
+health spending. Time 
+trends of overall health 
+spending and its 
+components guide future 
+policies and investments to 
+make health systems more 
+responsive to people’s 
+needs. They are essential 
+for improving the 
+
+https://www.oe
+cd.org/content/
+dam/oecd/en/p
+ublications/rep
+orts/2017/03/a-
+system-of-
+health-
+accounts-
+2011_g1g75c9
+d/97892642709
+85-en.pdf 
+ 
+
+9 
+
+System of 
+Health 
+Accounts 2011 
+
+SHA - 
+2011 
+
+OECD 
+
+2017 
+
+Statistics on health care 
+expenditure and 
+financing. 
+
+ 
+
+10 | P a g e  
+
+performance of health 
+systems while enhancing 
+transparency and 
+accountability. Health 
+expenditure data also 
+provide insights for 
+assessing the adequacy of 
+health resources, evaluating 
+the efficiency, 
+effectiveness, and equity of 
+resource allocations, 
+benchmarking against 
+peers, and monitoring the 
+progress towards the key 
+goals of universal health 
+coverage and health 
+security. Accordingly, the 
+demand for timely, 
+accurate, and 
+comprehensive data on 
+health expenditures has 
+been increasing at both the 
+country and global levels. 
+
+ 
+
+11 | P a g e  
+
+1.4 
+10 
+(1) 
+
+Income and Consumption 
+Classification 
+of Individual 
+Consumption 
+by Purpose 
+
+COICOP  UNSD 
+
+2018 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/unsd
+classifications/
+COICOP_2018
+_-_pre-
+edited_white_c
+over_version_-
+_2018-12-
+26.pdf 
+ 
+
+The objective of COICOP 
+is to provide a framework 
+of homogeneous categories 
+of goods and services, 
+which are considered a 
+function or purpose of 
+household consumption 
+expenditure, which are 
+those expenditures that are 
+made for the benefit of 
+individual persons or 
+households. 
+
+Statistical areas such as: 
+household expenditure 
+statistics based on 
+household, budget 
+surveys and the analysis 
+of living standards; 
+consumer price indices 
+(for which it is used to 
+establish weights and 
+aggregate prices); 
+international comparisons 
+of gross domestic product 
+(GDP) and its component 
+expenditures through 
+purchasing power 
+parities; and statistics 
+relating to culture, sports, 
+food, health, and tourism. 
+
+1.5 
+11 
+
+Justice & Crime 
+International 
+Classification 
+of Crime for 
+
+ICCS 1.0 
+ 
+
+UNOD
+C 
+
+2015 
+
+ 
+
+https://www.un
+odc.org/docum
+ents/data-and-
+analysis/statisti
+
+The International 
+Classification of Crime for 
+Statistical Purposes (ICCS) 
+is a classification of 
+
+International 
+comparability of crime 
+statistics, and improve 
+analytical capabilities at 
+
+12 | P a g e  
+
+Statistical 
+Purposes  
+
+ 
+
+ICATUS  UNSD 
+
+2016 
+
+1.6 
+12 
+
+Time Use 
+International 
+Classification 
+of Activities 
+for Time-Use 
+Statistics 
+
+cs/crime/ICCS/
+ICCS_English_
+2016_web.pdf 
+ 
+
+criminal offences which is 
+based on internationally 
+agreed concepts, definitions 
+and principles in order to 
+enhance the consistency and 
+international comparability 
+of crime statistics, and 
+improve analytical 
+capabilities at both the 
+national and international 
+levels. 
+
+https://unstats.u
+n.org/unsd/gen
+der/timeuse/23
+012019%20IC
+ATUS.pdf 
+ 
+
+The International 
+Classification of Activities 
+for Time-Use Statistics 
+(ICATUS) is a 
+classification of all the 
+activities on which a person 
+may spend time during the 
+24 hours that make up a 
+day. Its purpose is to serve 
+as a standard framework for 
+
+both the national and 
+international levels.   
+ICCS is applicable to all 
+forms of crime data, 
+whatever the stage of the 
+criminal justice process 
+(police, prosecution, 
+conviction, 
+imprisonment) at which 
+they are collected, as well 
+as to data collected in 
+crime victimization 
+surveys. 
+
+Time units are used for 
+producing statistics on 
+the amount of time spent 
+in certain activities.  
+Measuring Paid and 
+Unpaid Work 
+
+13 | P a g e  
+
+1.7  Human settlements and Housing 
+13 
+
+2017  
+
+UNSD 
+ 
+ 
+
+Principles and 
+Recommendati
+ons for 
+Population and 
+Housing 
+Censuses 
+(Revision 3) 
+ 
+
+Information on social, 
+demographic and 
+economic charcteristics. 
+
+https://unstats.u
+n.org/unsd/dem
+ographic-
+social/Standard
+s-and-
+Methods/files/
+Principles_and
+_Recommendat
+ions/Population
+-and-Housing-
+Censuses/Serie
+s_M67rev3-
+E.pdf   
+
+time-use statistics based on 
+activities grouped in a 
+meaningful way 
+
+The population and housing 
+census is part of an 
+integrated national 
+statistical system, which 
+may include other censuses, 
+surveys, registers and 
+administrative files. It 
+provides, at regular 
+intervals, the benchmark for 
+population count at national 
+and sub-national levels.  
+For small geographic areas 
+or subpopulations, it may 
+represent the only source of 
+information for certain 
+social, demographic and 
+economic characteristics.  
+
+ 
+
+14 | P a g e  
+
+2017 
+
+UNSD Principles 
+and 
+Recommendations 
+for Population and 
+Housing Censuses, 
+Revision 3 
+ 
+ 
+
+14 
+
+Categories of 
+main source of 
+drinking water  
+
+15 
+
+Classification 
+of buildings 
+according to 
+the state of 
+repair  
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1049 
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1055 
+ 
+
+Agricultural census data 
+and population census 
+data 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses 
+
+Source water refers to 
+bodies of water (such as 
+rivers, streams, lakes, 
+reservoirs, springs, and 
+ground water) that provide 
+water to public drinking-
+water supplies and private 
+wells.  
+The Classification of 
+Buildings According to the 
+State of Repair is a system 
+used to assess and 
+categorize buildings based 
+on their physical condition 
+and maintenance status. 
+This classification helps in 
+evaluating the structural 
+integrity, safety, and 
+habitability of buildings. It 
+typically includes 
+categories such as "good," 
+"satisfactory," "in need of 
+repair," and "dilapidated." 
+This system is useful for 
+urban planning, real estate 
+
+ 
+
+15 | P a g e  
+
+16       Classification 
+of buildings by 
+type  
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses 
+
+https://unstats.u
+n.org/unsd/dem
+ographic-
+social/Standard
+s-and-
+Methods/files/
+Principles_and
+_Recommendat
+ions/Population
+-and-Housing-
+Censuses/Serie
+s_M67rev3-
+E.pdf 
+ 
+ 
+
+assessments, and policy-
+making related to housing 
+and infrastructure 
+maintenance. 
+The Classification of 
+Buildings by Type 
+categorizes buildings based 
+on their primary use or 
+purpose. This system helps 
+in organizing and 
+understanding the built 
+environment by 
+distinguishing between 
+residential, commercial, 
+industrial, institutional, and 
+other types of structures. It 
+facilitates urban planning, 
+real estate analysis, and 
+policy development related 
+to zoning, construction 
+standards, and infrastructure 
+requirements tailored to 
+different building types. 
+
+ 
+
+16 | P a g e  
+
+17       Classification 
+of households 
+by tenure  
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1057 
+ 
+
+Population and 
+migration, Human 
+settlements and housing, 
+Collection of household 
+data in censuses 
+
+18       Classification 
+of housing unit 
+by toilet 
+facilities  
+
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1058 
+ 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses, 
+housing units having a 
+toilet 
+
+17 | P a g e  
+
+The Classification of 
+Households by Tenure 
+categorizes households 
+based on their housing 
+arrangements, specifically 
+whether they own or rent 
+their dwelling. This 
+classification helps in 
+understanding housing 
+patterns and demographics 
+within a population. It is 
+useful for housing policy 
+development, urban 
+planning, and social 
+research related to housing 
+affordability, tenure 
+security, and housing 
+market dynamics. 
+The Classification of 
+Housing Units by Toilet 
+Facilities categorizes 
+residential dwellings based 
+on the type and availability 
+of toilet facilities they 
+possess. This classification 
+
+helps in assessing sanitation 
+standards and living 
+conditions within 
+communities. It is used for 
+urban planning, public 
+health initiatives, and 
+policy-making related to 
+housing infrastructure and 
+sanitation services. 
+The Classification of 
+Housing Units by Water 
+Supply System categorizes 
+residential dwellings based 
+on the type and source of 
+water supply they have 
+access to. This 
+classification helps in 
+assessing access to safe and 
+reliable drinking water 
+within communities. It is 
+used for urban planning, 
+public health initiatives, and 
+policy-making related to 
+water infrastructure, 
+sanitation services, and 
+
+19       Classification 
+of housing unit 
+by water 
+supply system  
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1059 
+ 
+ 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses, 
+housing units having/not 
+having piped water 
+installation 
+
+ 
+
+18 | P a g e  
+
+20       Classification 
+
+of housing 
+units by 
+availability and 
+type of bathing 
+facilities  
+
+https://www.un
+escwa.org/sd-
+glossary/type-
+bathing-
+facilities 
+ 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses, 
+housing units having 
+bathing facility 
+ 
+
+ensuring basic amenities for 
+residents. 
+The Classification of 
+Housing Units by 
+Availability and Type of 
+Bathing Facilities 
+categorizes residential 
+dwellings based on the 
+presence and nature of 
+bathing amenities they 
+offer. This classification 
+helps in evaluating living 
+conditions and hygiene 
+standards within 
+communities. It supports 
+urban planning, public 
+health efforts, and policy-
+making related to housing 
+infrastructure and 
+sanitation, ensuring 
+adequate facilities for 
+personal hygiene and well-
+being among residents. 
+
+ 
+
+19 | P a g e  
+
+21       Classification 
+
+of housing 
+units by 
+availability of a 
+kitchen or 
+other space 
+reserved for 
+cooking 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1053 
+ 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses, 
+housing units having a 
+kitchen 
+
+The Classification of 
+Housing Units by 
+Availability of a Kitchen or 
+Other Space Reserved for 
+Cooking categorizes 
+residential dwellings based 
+on whether they have a 
+designated area for food 
+preparation and cooking. 
+This classification helps 
+assess the adequacy of 
+living conditions and 
+functional amenities within 
+communities. It supports 
+urban planning, housing 
+policy development, and 
+public health initiatives by 
+ensuring that households 
+have appropriate facilities 
+for preparing meals, 
+promoting nutrition, and 
+overall well-being among 
+residents. 
+
+ 
+
+20 | P a g e  
+
+22       Classification 
+
+of housing 
+units by type of 
+ownership  
+
+23       Classification 
+
+of housing 
+units by type of 
+solid waste 
+disposal 
+
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1054 
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1056 
+ 
+
+The Classification of 
+Housing Units by Type of 
+Ownership categorizes 
+residential dwellings based 
+on whether they are owned, 
+rented, or otherwise 
+occupied. This 
+classification helps in 
+understanding the tenure 
+status and housing 
+arrangements within a 
+population. It supports 
+housing policy 
+development, urban 
+planning, and research by 
+providing insights into 
+housing affordability, 
+tenure security, and housing 
+market dynamics. 
+The Classification of 
+Housing Units by Type of 
+Solid Waste Disposal 
+categorizes residential 
+dwellings based on the 
+methods and systems they 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses. 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses. 
+
+21 | P a g e  
+
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1060 
+ 
+
+use for managing solid 
+waste. This classification 
+helps assess sanitation 
+practices and environmental 
+impact within communities. 
+It supports urban planning, 
+public health initiatives, and 
+policy-making related to 
+waste management 
+infrastructure and 
+sustainability, ensuring 
+proper disposal and 
+recycling practices among 
+residents. 
+The Classification of Living 
+Quarters categorizes 
+residential spaces based on 
+various characteristics such 
+as type of ownership, 
+availability of amenities 
+(like kitchens, toilets, and 
+bathing facilities), and 
+waste disposal systems. 
+This classification helps in 
+assessing living standards, 
+
+24       Classification 
+
+of living 
+quarters 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses. 
+
+ 
+
+22 | P a g e  
+
+housing conditions, and 
+infrastructure needs within 
+communities. It supports 
+urban planning, housing 
+policy development, and 
+public health initiatives by 
+providing a framework for 
+understanding and 
+improving residential 
+environments. 
+The Classification of 
+Occupancy Status for 
+Conventional Dwellings 
+categorizes residential units 
+based on whether they are 
+occupied or vacant. This 
+classification helps in 
+assessing housing demand 
+and utilization within 
+communities. It supports 
+urban planning, housing 
+policy development, and 
+real estate analysis by 
+providing insights into 
+housing occupancy rates, 
+
+25       Classification 
+of occupancy 
+status for 
+conventional 
+dwellings 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1061 
+ 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses. 
+
+ 
+
+23 | P a g e  
+
+26       Classification 
+
+of use of 
+housing unit 
+
+Human settlements and 
+housing, Collection of 
+housing data in censuses. 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1062 
+ 
+
+vacancy trends, and the 
+overall housing market 
+dynamics. 
+The Classification of Use of 
+Housing Unit categorizes 
+residential dwellings based 
+on their primary function or 
+purpose, such as residential, 
+commercial, or mixed-use. 
+This classification helps in 
+understanding how 
+buildings are utilized within 
+communities, supporting 
+urban planning, zoning 
+regulations, and policy-
+making related to housing 
+and land use. 
+
+Economic Statistics 
+
+2 
+27       Central Product 
+
+Classification 
+
+CPC 2.1 
+ 
+           
+
+UNSD 
+
+2015 
+
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Eco
+n/Download/In
+%20Text/CPC
+
+The Central Product 
+Classification (CPC) 
+consists of a coherent and 
+consistent classification 
+structure for products 
+
+Statistics on industrial 
+production, domestic and 
+foreign commodity trade, 
+international trade in 
+services, balance of 
+
+24 | P a g e  
+
+payments, consumption 
+and price statistics and 
+other data used within the 
+national accounts. 
+
+v2.1_complete(
+PDF)_English.
+pdf 
+ 
+ 
+      
+ 
+
+(goods and services) based 
+on a set of internationally 
+agreed concepts, 
+definitions, principles and 
+classification rules. It serves 
+as an international standard 
+for assembling and 
+tabulating all kinds of data 
+requiring product detail, 
+including statistics on 
+industrial production, 
+domestic and foreign 
+commodity trade, 
+international trade in 
+services, balance of 
+payments, consumption and 
+price statistics and other 
+data used within the 
+national accounts. It 
+provides a comprehensive 
+framework within which 
+data on products can be 
+collected and presented in a 
+format that allows for 
+economic analysis 
+
+ 
+
+25 | P a g e  
+
+28       International 
+
+UNSD 
+
+2024 
+
+ISIC 
+Rev.5 
+
+Economic and Social 
+statistics 
+
+Standard 
+Industrial 
+Classification 
+of All 
+Economic 
+Activities 
+Revision 5 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Eco
+n/Download/In
+%20Text/ISIC
+5_Intro_11Mar
+2024.pdf 
+           
+ 
+
+supporting decision-taking 
+and policy-making. 
+The International Standard 
+Industrial Classification of 
+All Economic Activities 
+(ISIC) consists of a 
+coherent and consistent 
+classification structure of 
+economic activities based 
+on a set of internationally 
+agreed concepts, 
+definitions, principles and 
+classification rules. It 
+provides a comprehensive 
+framework within which 
+economic data can be 
+collected and reported in a 
+format that is designed for 
+purposes of economic 
+analysis, decision-taking 
+and policy-making. The 
+classification structure 
+represents a standard format 
+to organize detailed 
+information about the state 
+
+ 
+
+26 | P a g e  
+
+29       International 
+
+IRIS 
+
+UNSD 
+
+2008 
+
+Recommendati
+ons on 
+Industrial 
+Statistics 
+
+https://unstats.u
+n.org/unsd/indu
+stry/Docs/IRIS
+_2008_En.pdf 
+      
+ 
+
+Producers of industrial 
+statistics (national 
+statistical offices) 
+involved in the collection 
+and compilation of 
+industrial statistics and 
+for the researchers and 
+other users of industrial 
+statistics. 
+
+of an economy according to 
+economic principles and 
+perceptions. 
+ 
+ 
+The International 
+Recommendations on 
+Industrial Statistics (IRIS) 
+are guidelines developed by 
+the United Nations 
+Statistics Division (UNSD) 
+to standardize the collection 
+and reporting of industrial 
+data globally. These 
+recommendations provide 
+definitions, classifications, 
+and methodologies for 
+measuring various aspects 
+of industrial activities, 
+including production, 
+employment, investment, 
+and innovation. IRIS helps 
+countries collect consistent 
+and comparable data on 
+
+ 
+
+27 | P a g e  
+
+industrial performance, 
+supporting evidence-based 
+policymaking, economic 
+analysis, and international 
+comparisons. It aims to 
+improve data quality, 
+reliability, and relevance in 
+industrial statistics across 
+different countries and 
+regions. 
+The International 
+Recommendations for the 
+Index of Industrial 
+Production 2010 (IRIIP 
+2010) is a revision of the 
+original manual entitled 
+Index Numbers of Industrial 
+Production, published by 
+the United Nations in 1950. 
+It takes into account 
+methodological 
+developments in the field of 
+index number calculation 
+that emerged over the past 
+decades and describes new 
+
+Intended for compilers 
+and users of indices of 
+industrial production, this 
+publication is designed to 
+assist compilers in 
+producing comparable 
+index numbers which can 
+then serve to enable 
+reliable international 
+comparisons of economic 
+performance and 
+behavior utilizing the 
+best international 
+practices. 
+
+28 | P a g e  
+
+30       International 
+
+UNSD 
+
+2013      
+
+IRIIP 
+2010 
+
+Recommendati
+ons for the 
+Index of 
+Industrial 
+Production 
+2010 
+
+https://unstats.u
+n.org/unsd/indu
+stry/docs/f107_
+edited.pdf 
+      
+
+ 
+
+recommended 
+methodological standards 
+for the compilation of index 
+numbers of industrial 
+production. 
+
+Developed by the OECD, 
+the Classification of the 
+Functions of Government 
+(COFOG) classifies 
+government expenditure 
+data from the System of 
+National Accounts by the 
+purpose for which the funds 
+are used. First-level 
+COFOG splits expenditure 
+data into ten “functional” 
+groups or sub-sectors of 
+expenditures (such as 
+economic affairs, education 
+and social protection), and 
+second-level COFOG 
+further splits each first-level 
+group into up to nine sub-
+
+https://www.oe
+cd-
+ilibrary.org/doc
+server/0ffb2b0
+4-
+en.pdf?expires
+=1729061652
+&id=id&accna
+me=guest&che
+cksum=DFFB4
+C48DD133A0
+CF7C980384B
+23DD9E 
+      
+ 
+
+●  General public 
+
+services 
+(Executive and 
+legislative organs, 
+financial and fiscal 
+affairs, external 
+affairs, Foreign 
+economic aid, 
+General services, 
+Basic research, 
+R&D general 
+public services, 
+General public 
+services n.e.c., 
+Public debt 
+transactions, 
+Transfers of a 
+general character 
+between different 
+
+29 | P a g e  
+
+Economic accounts 
+
+2.1 
+31       Classification 
+
+COFOG  OECD 
+
+2023 
+
+of the 
+Functions of 
+Government 
+
+ 
+
+groups. While first-level 
+COFOG data are available 
+for 32 out of the 35 OECD 
+member countries 
+(according to time-series 
+availability), second-level 
+COFOG data are currently 
+only available for 25 OECD 
+European member countries 
+plus Israel.  
+
+levels of 
+government) 
+
+●  Defence (Military 
+
+defence, Civil 
+defence, Foreign 
+military aid, R&D 
+defence, Defence 
+n.e.c.)  
+
+●  Public order and 
+
+safety (Police 
+services, Fire-
+protection services, 
+Law courts, 
+Prisons, R&D 
+public order and 
+safety, Public 
+order and safety 
+n.e.c.) 
+
+●  Economic affairs 
+
+(General 
+economic, 
+commercial and 
+labour affairs, 
+Agriculture, 
+forestry, fishing 
+and hunting, Fuel 
+and energy, 
+
+30 | P a g e  
+
+ 
+
+●  Environmental 
+
+Mining, 
+manufacturing and 
+construction, 
+Transport, 
+Communication, 
+Other Industry, 
+R&D economic 
+affairs, Economic 
+affairs n.e.c. 
+
+protection (Waste 
+management, 
+Waste water 
+management, 
+Pollution 
+abatement, 
+Protection of 
+biodiversity and 
+landscape, R&D 
+environmental 
+protection, 
+Environmental 
+protection n.e.c.) 
+
+●  Housing and 
+community 
+Amenities 
+(Housing 
+
+31 | P a g e  
+
+ 
+
+development, 
+Community 
+development, 
+Water supply, 
+Street lighting, 
+R&D housing and 
+community 
+amenities, Housing 
+and community 
+amenities n.e.c.) 
+●  Health (Medical 
+
+products, 
+appliances and 
+equipment, 
+Outpatient 
+services, Hospital 
+services, Public 
+health services, 
+R&D health, 
+Health n.e.c.) 
+
+and religion 
+(Recreational and 
+sporting services, 
+Cultural services, 
+Broadcasting and 
+publishing 
+
+32 | P a g e  
+
+●  Recreation, culture 
+
+ 
+
+services, Religious 
+and other 
+community 
+services, R&D 
+recreation, culture 
+and religion, 
+Recreation, culture 
+and religion n.e.c.) 
+
+●  Education (Pre-
+
+primary and 
+primary education, 
+Secondary 
+education, Post-
+secondary non-
+tertiary education, 
+Tertiary education, 
+Education not 
+definable by level, 
+Subsidiary services 
+to education, R&D 
+education, 
+Education n.e.c.) 
+●  Social protection 
+
+(Sickness and 
+disability, Old age, 
+Survivors, Family 
+and children, 
+
+33 | P a g e  
+
+ 
+
+32       Balance of 
+
+BPM6 
+
+IMF 
+
+2009 
+
+Payments and 
+International 
+Investment 
+Position 
+Manual 
+
+https://www.im
+f.org/external/p
+ubs/ft/bop/200
+7/pdf/bpm6.pdf 
+ 
+
+33       System of 
+National 
+Accounts 
+
+SNA 
+
+ISWGN
+A 
+
+2008 
+
+https://unstats.u
+n.org/unsd/nati
+onalaccount/do
+
+ 
+
+Unemployment, 
+Housing, Social 
+exclusion n.e.c., 
+R&D social 
+protection, Social 
+protection n.e.c) 
+
+Balance of payments 
+statistics, financial 
+statistics, developments 
+in globalization, (e.g. 
+currency unions, cross-
+border production 
+processes, complex 
+international company 
+structures, and issues 
+associated with 
+international labour 
+mobility, remittances), 
+developments in financial 
+markets. 
+
+Economic Statsitics, 
+National Accounts 
+Statistics 
+
+34 | P a g e  
+
+The Balance of Payments 
+and International 
+Investment Position Manual 
+(BPM) is a set of guidelines 
+provided by the 
+International Monetary 
+Fund (IMF) for compiling 
+statistics on a country's 
+economic transactions with 
+the rest of the world. It 
+helps ensure that countries 
+report their balance of 
+payments and international 
+investment positions in a 
+consistent and comparable 
+manner. 
+The System of National 
+Accounts (SNA) is the 
+internationally agreed 
+
+cs/SNA2008.p
+df 
+      
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Eco
+n/Structure 
+      
+ 
+ 
+
+standard set of 
+recommendations on how to 
+compile measures of 
+economic activity. The 
+SNA describes a coherent, 
+consistent and integrated set 
+of macroeconomic accounts 
+in the context of a set of 
+internationally agreed 
+concepts, definitions, 
+classifications and 
+accounting rules. 
+The classification of the 
+purposes of non-profit 
+institutions (COPNI) is a 
+classification used to 
+identify the socio-economic 
+objectives of current 
+transactions, capital outlays 
+and acquisition of financial 
+assets by non-profit 
+institutions serving 
+households. 
+
+Transactions such as 
+outlays on final 
+consumption 
+expenditure, intermediate 
+consumption, gross 
+capital formation and 
+capital and current 
+transfers by non-profit 
+institutions serving 
+households. 
+
+35 | P a g e  
+
+COPNI  UNSD 
+
+2000 
+
+34       Classification 
+of the Purposes 
+of Non-profit 
+Institutions 
+Serving 
+Households 
+
+ 
+
+ICNPO  UNSD 
+
+35       International 
+Classification 
+of Non-Profit 
+Organizations 
+
+Institutional sectors, 
+transactions, stocks and 
+flows of NPIs 
+
+2003 
+(An 
+expanded 
+and 
+updated 
+version of 
+ICNOP 
+2003 was 
+provided 
+in 2018) 
+
+Link of the 
+2003 version: 
+https://unstats.u
+n.org/unsd/publ
+ication/SeriesF/
+SeriesF_91E.p
+df 
+ 
+Link of the 
+2018 version: 
+https://unstats.u
+n.org/unsd/nati
+onalaccount/do
+cs/UN_TSE_H
+B_FNL_web.p
+df 
+ 
+
+https://www.oe
+cd-
+ilibrary.org/doc
+server/9789264
+045743-
+
+The International 
+Classification of Non-Profit 
+Organizations (ICNPO) is a 
+framework designed to 
+categorize and analyze non-
+profit organizations (NPOs) 
+globally. Developed by the 
+Johns Hopkins Comparative 
+Nonprofit Sector Project, it 
+provides a standardized 
+system for classifying 
+NPOs, facilitating 
+consistent data collection, 
+research, and policy 
+analysis across different 
+countries. The ICNPO helps 
+in understanding the diverse 
+activities and roles of NPOs 
+within the broader 
+economy. 
+     . The OECD Benchmark 
+Definition of Foreign Direct 
+Investment sets the world 
+standard for FDI statistics. 
+It provides a single point of 
+
+36       OECD 
+
+BMD4 
+
+OECD 
+
+2008 
+
+Benchmark 
+Definition on 
+
+ 
+
+FDI (e.g., mergers and 
+acquisitions, greenfield 
+investments) statistics, 
+including globalisation 
+indicators, and statistics 
+
+36 | P a g e  
+
+Foreign Direct 
+Investment 
+
+on the activities of 
+multinational enterprises. 
+
+en.pdf?expires
+=1729065952
+&id=id&accna
+me=guest&che
+cksum=425A5
+19E98C000B8
+13D119E312F
+BA8B5 
+      
+ 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/unsd
+classifications/
+COICOP_2018
+_-_pre-
+edited_white_c
+over_version_-
+_2018-12-
+26.pdf 
+ 
+
+reference for statisticians 
+and users on all aspect of 
+FDI statistics, while 
+remaining compatible with 
+other internationally 
+accepted statistical 
+standards. This edition 
+introduces new analytical 
+data breakdowns and 
+statistical treatments that 
+better reflect the realities of 
+today’s world economy. 
+The Classification of 
+Individual Consumption 
+According to Purpose 
+(COICOP) is the 
+international reference 
+classification of household 
+expenditure. The objective 
+of COICOP is to provide a 
+framework of homogeneous 
+categories of goods and 
+services, which are 
+considered a function or 
+purpose of household 
+
+COICOP is an integral 
+part of the System of 
+National Accounts 
+(SNA), but it is also used 
+in several other      
+statistical areas such as: 
+household expenditure 
+statistics based on 
+household, budget 
+surveys and the analysis 
+of living standards; 
+consumer price indices 
+(for which it is used to 
+
+37 | P a g e  
+
+COICOP  UNSD 
+
+2018 
+
+10(2)      Classification 
+of Individual 
+Consumption 
+by Purpose 
+
+ 
+
+37       International 
+Public Sector 
+Accounting 
+Standards 
+
+IPSAS  
+
+IPSAS
+B 
+
+2022      
+(IPSAS 
+43 is the 
+lates 
+versiont) 
+
+consumption expenditure, 
+which are those 
+expenditures that are made 
+for the benefit of individual 
+persons or households. 
+
+establish weights and 
+aggregate prices); 
+international comparisons 
+of gross domestic product 
+(GDP) and its component 
+expenditures through 
+purchasing power 
+parities; and statistics 
+relating to culture, sports, 
+food, health, and tourism. 
+International Public 
+Sector Accounting 
+Statistics. 
+
+https://www.ip
+sasb.org/public
+ations/2022-
+handbook-
+international-
+public-sector-
+accounting-
+pronouncement
+s 
+ 
+(It has the link 
+to 2022 
+handook of 
+International 
+
+The IPSASB 
+develops accounting 
+standards and guidance for 
+use by public sector entities. 
+The structures and 
+processes that support the 
+operations of the IPSASB 
+are facilitated by the 
+International Federation of 
+Accountants (IFAC). The 
+IPSASB’s Strategic 
+Objective is: 
+Strengthening Public 
+Financial Management 
+
+ 
+
+38 | P a g e  
+
+Public Sector 
+Accounting 
+Pronouncement
+s) 
+ 
+
+(PFM) globally through 
+increasing adoption of 
+accrual-based International 
+Public Sector Accounting 
+Standards      (IPSAS     ). 
+Delivered through two main 
+areas of activity, both of 
+which have a public interest 
+focus: 
+
+●  Developing and 
+
+maintaining IPSAS 
+and other high-
+quality financial 
+reporting guidance 
+for the public sector; 
+and 
+
+Raising awareness of 
+IPSAS and the benefits of 
+accrual adoption. 
+
+2.2 
+38 
+
+Agriculture, forestry, fisheries 
+Classification 
+of Forest 
+Products 
+
+CFP 
+
+FAO 
+
+2022 
+
+ 
+
+https://openkno
+wledge.fao.org/
+server/api/core/
+bitstreams/ca0a
+
+The Classification of Forest 
+Products is a system used to 
+categorize and organize the 
+various products derived 
+
+Agriculture, forestry, 
+fisheries, Forest 
+Economics and Statistics 
+
+39 | P a g e  
+
+8b29-6b20-
+4c42-bcd1-
+206a87bb1d00/
+content 
+
+from forests and forestry 
+activities. It helps in 
+systematically identifying 
+and classifying wood and 
+non-wood products such as 
+timber, pulp, paper, and 
+various other forest 
+resources. This 
+classification supports 
+forestry management, 
+resource assessment, trade 
+statistics, and policy-
+making related to 
+sustainable forest utilization 
+and conservation. Different 
+countries may adopt 
+variations of this 
+classification system to suit 
+their specific needs and 
+local forestry practices. 
+The Classification of Land 
+Use (LU) for the 
+Agricultural Census 
+categorizes land based on 
+its primary agricultural use 
+
+39      
+ 
+
+Classification 
+of land use 
+(LU) for the 
+
+ 
+
+FAO 
+
+2015      
+
+Link to the 
+PDF: 
+https://openkno
+wledge.fao.org/
+server/api/core/
+
+ 
+
+Agriculture, forestry, 
+fisheries, Agricultural 
+statistics and agricultural 
+
+40 | P a g e  
+
+agricultural 
+census 
+
+censuses, Land/Area Use 
+Statistics. 
+
+bitstreams/c5af
+d226-08ab-
+4cda-bc45-
+871f1f95a3be/c
+ontent 
+ 
+Link to the site: 
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1003
+#:~:text=It%20
+represents%20t
+he%20total%2
+0of,in%20WC
+A%202020%2
+C%20paragrap
+h%208.2. 
+ 
+ 
+ 
+      
+
+and management practices. 
+It helps in systematically 
+organizing and 
+understanding agricultural 
+land by distinguishing 
+between categories such as 
+arable land, permanent 
+crops, permanent pastures, 
+and others. This 
+classification supports 
+agricultural census data 
+collection, analysis of 
+agricultural productivity, 
+land management strategies, 
+and policy-making related 
+to agricultural development 
+and environmental 
+conservation. Different 
+countries may customize 
+this classification to suit 
+their specific agricultural 
+practices and land use 
+patterns. 
+
+ 
+
+41 | P a g e  
+
+40 
+
+ 
+
+Classification 
+of livestock for 
+the agricultural 
+census 
+
+FAO 
+
+2015      
+
+Agricultural statistics and 
+Agricultural census 
+
+ 
+Link to the 
+PDF: 
+https://openkno
+wledge.fao.org/
+server/api/core/
+bitstreams/c5af
+d226-08ab-
+4cda-bc45-
+871f1f95a3be/c
+ontent 
+(Refer 
+Annexure 6 in 
+the above link) 
+ 
+Link to the site: 
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/1004
+#:~:text=The%
+20classification
+%20of%20live
+stock%20cover
+
+The Classification of 
+Livestock for the 
+Agricultural Census 
+categorizes animals raised 
+for agricultural purposes 
+based on species, type, and 
+production characteristics. 
+This classification system 
+helps governments and 
+organizations systematically 
+gather data on livestock 
+populations, their 
+distribution, and their role 
+in agricultural production. It 
+typically includes 
+categories such as cattle, 
+sheep, goats, poultry, pigs, 
+and others, and may further 
+classify animals by age, 
+sex, purpose (e.g., dairy or 
+meat production), and 
+management practices. This 
+data is essential for 
+monitoring livestock health, 
+
+ 
+
+42 | P a g e  
+
+ 
+
+FAO 
+
+2015       
+
+41       Classification 
+of machinery 
+and equipment 
+for the 
+agricultural 
+census 
+
+Agricultural statistics and 
+Agricultural census, 
+covering all machinery, 
+equipment and 
+implements used as 
+inputs to agricultural 
+production. 
+
+s,for%20food%
+20or%20other
+%20agricultura
+l 
+ 
+Link to the 
+PDF: 
+https://openkno
+wledge.fao.org/
+server/api/core/
+bitstreams/c5af
+d226-08ab-
+4cda-bc45-
+871f1f95a3be/c
+ontent 
+(Refer 
+Annexure 7 in 
+the above link) 
+ 
+Link ot the site: 
+https://mdgs.un
+.org/unsd/classi
+
+productivity, and supporting 
+policy-making related to 
+animal husbandry, food 
+security, and rural 
+development. 
+
+The Classification of 
+Machinery and Equipment 
+for the Agricultural Census 
+categorizes tools, vehicles, 
+and equipment used in 
+agricultural activities. This 
+classification helps in 
+systematically organizing 
+and understanding the 
+technological resources 
+deployed in farming and 
+related practices. It includes 
+categories such as tractors, 
+harvesters, irrigation 
+systems, and other 
+specialized agricultural 
+machinery. This 
+classification supports data 
+collection for agricultural 
+
+ 
+
+43 | P a g e  
+
+42       International 
+
+ISSCFC  Coordin
+
+Standard 
+Statistical 
+Classification 
+of Fishery 
+Commodities 
+
+2022 
+ 
+
+ating 
+Workin
+g Party 
+on 
+Fishery 
+Statistic
+s, FAO 
+
+Fisheries commodities 
+production and trade 
+statistics and Fishery 
+statistical offices. 
+
+fications/Famil
+y/Detail/1005 
+ 
+      
+ 
+
+https://data.app
+s.fao.org/catalo
+g/dataset/cwp-
+isscfc 
+. 
+ 
+
+census purposes, facilitates 
+analysis of technological 
+trends in farming, and 
+informs policies related to 
+agricultural productivity, 
+mechanization, and rural 
+development. 
+The International Standard 
+Statistical Classification of 
+Fishery Commodities 
+(ISSCFC) is a framework 
+developed by the Food and 
+Agriculture Organization 
+(FAO) to categorize and 
+classify fishery products for 
+statistical reporting 
+purposes. It provides 
+standardized categories and 
+codes for various fishery 
+commodities, including 
+fish, crustaceans, mollusks, 
+and other aquatic 
+organisms. This 
+classification system helps 
+in collecting, analyzing, and 
+
+ 
+
+44 | P a g e  
+
+43       International 
+
+ISSCAA
+P 
+
+Eurosta
+t 
+
+2022 
+
+Statistics on capturing 
+fisheries and aquaculture. 
+
+comparing data on global 
+fishery production, trade, 
+and consumption. It 
+supports fisheries 
+management, market 
+analysis, policy-making, 
+and international 
+collaboration in sustainable 
+fisheries and aquaculture 
+management. 
+The International standard 
+statistical classification of 
+aquatic animals and plants, 
+abbreviated as ISSCAAP, is 
+a nomenclature developed 
+by the United Nations 
+(UN) Food and Agriculture 
+Organization (FAO). 
+For statistical purposes, 
+nominal catches of aquatic 
+animals and plants, taken in 
+inland and marine waters or 
+derived from aquaculture, 
+for all kinds of commercial, 
+
+https://ec.europ
+a.eu/eurostat/st
+atistics-
+explained/inde
+x.php?title=Gl
+ossary:Internati
+onal_standard_
+statistical_class
+ification_of_aq
+uatic_animals_
+and_plants_(IS
+SCAAP)#:~:te
+xt=The%20Inte
+rnational%20st
+andard%20stati
+
+45 | P a g e  
+
+Standard 
+Statistical 
+Classification 
+for Aquatic 
+Animals and 
+Plants   
+
+ 
+
+stical%20classi
+fication,and%2
+0Agriculture%
+20Organization
+%20(FAO). 
+ 
+
+industrial and subsistence 
+purposes, are presented at 
+either species, genus or 
+family level in 
+approximately 1250 
+statistical categories called 
+"species items"; these 
+species are classified in 50 
+groups of species and 9 
+divisions in ISSCAAP. 
+ 
+The FAOSTAT Commodity 
+List was  a standardized 
+classification system 
+developed by the Food and 
+Agriculture Organization 
+(FAO) to categorize 
+agricultural and food 
+products for statistical 
+purposes. It provides a 
+framework for organizing 
+data on commodities such 
+as crops, livestock products, 
+fisheries, forestry products, 
+
+44       FAOSTAT 
+Commodity 
+List 
+
+FCL 
+
+FAO 
+
+discontinu
+ed in 1994 
+      
+
+https://www.fa
+o.org/statistics/
+caliper/classific
+ations/fcl/en 
+ 
+
+Statistics of Agriculture, 
+Forestry, Fisheries Food 
+statistics, Economic 
+Statistics Production 
+Statistics, Trade 
+Statistics, consumption 
+Statistics.      
+
+ 
+
+46 | P a g e  
+
+Business Statistics 
+
+2.3 
+45       Manual on the 
+Classification 
+of Business 
+Functions 
+
+CBF 
+
+UNSD 
+
+2023 
+
+Statistics on the business 
+functions of enterprises, 
+Economic Statistics, 
+international trade 
+statistics. 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Eco
+n/Download/Cl
+assification_of
+_Business_Fun
+ctions_web_20
+23-12-19.pdf 
+ 
+
+and agro-industrial items. 
+FCL was discontinued in 
+1994, it is kept for legacy 
+but its use in new statistical 
+activities is deprecated.                 
+
+The Manual on the 
+Classification of Business 
+Functions provides 
+guidelines for categorizing 
+and analyzing the various 
+functions performed by 
+businesses. The CBF  
+provides relevant categories 
+for describing and 
+measuring how companies 
+organize their production 
+and supporting functions. 
+This classification is 
+particularly useful in 
+measuring domestic and 
+international sourcing and 
+the distribution of work in 
+global value chains (GVCs)      
+
+ 
+
+47 | P a g e  
+
+46       Generic 
+
+Statistical 
+Business 
+Process Model 
+
+GSBPM 
+(version 
+5.1) 
+
+UNEC
+E 
+
+2019 
+
+https://unece.or
+g/sites/default/f
+iles/2023-
+11/GSBPM%2
+0v5_1.pdf      
+ 
+
+Integrating data and 
+metadata standards, as a 
+template for process 
+documentation, for 
+harmonizing statistical 
+computing 
+infrastructures, and to 
+provide a framework for 
+process quality 
+assessment and 
+improvement. 
+
+The Generic Statistical 
+Business Process Model 
+(GSBPM) is a standardized 
+framework developed by 
+the international statistical 
+community to depict the 
+sequence and stages 
+involved in producing 
+statistical data. It outlines 
+the key processes and 
+activities from data 
+collection to dissemination, 
+including steps such as data 
+validation, processing, 
+analysis, and reporting. The 
+GSBPM helps statistical 
+organizations improve their 
+efficiency, consistency, and 
+quality of statistical outputs 
+by providing a common 
+reference model for 
+designing, implementing, 
+and evaluating statistical 
+operations and systems. It 
+supports harmonization of 
+
+ 
+
+48 | P a g e  
+
+COICOP  UNSD 
+
+2023 
+
+Prices 
+
+2.4 
+10(3)  Classification 
+of Individual 
+Consumption 
+by Purpose 
+2018 
+
+ 
+
+practices across agencies 
+and enhances transparency 
+and comparability of 
+statistical data globally. 
+
+https://unstats.u
+n.org/unsd/clas
+sifications/Eco
+n/Download/C
+OICOP_2018_
+draft_publicati
+on.pdf 
+ 
+ 
+
+The objective of COICOP 
+is to provide a framework 
+of homogeneous categories 
+of goods and services, 
+which are considered a 
+function or purpose of 
+household consumption 
+expenditure, which are 
+those expenditures that are 
+made for the benefit of 
+individual persons or 
+households. 
+
+Statistical areas such as: 
+household expenditure 
+statistics based on 
+household, budget 
+surveys and the analysis 
+of living standards; 
+consumer price indices 
+(for which it is used to 
+establish weights and 
+aggregate prices); 
+international comparisons 
+of gross domestic product 
+(GDP) and its component 
+expenditures through 
+purchasing power 
+parities; and statistics 
+relating to culture, sports, 
+food, health, and tourism. 
+
+49 | P a g e  
+
+47       Producers Price 
+
+Index Manual 
+
+PPI 
+Manual 
+
+2004 
+
+IMF 
+      
+
+Price Statistics, 
+Export/import prices, 
+National accounts 
+Statistics, Nonmarket 
+goods and services, 
+Globalization and e-
+commerce considerations 
+ 
+ 
+
+https://www.im
+f.org/en/Public
+ations/Manuals
+-
+Guides/Issues/
+2016/12/30/Pro
+ducer-Price-
+Index-Manual-
+Theory-and-
+Practice-16966 
+      
+ 
+
+The Producers Price Index 
+(PPI) Manual is a 
+comprehensive guide 
+developed by the 
+International Monetary 
+Fund (IMF) to assist 
+countries in compiling and 
+reporting their Producer 
+Price Index. The PPI 
+measures the average 
+change over time in the 
+selling prices received by 
+domestic producers for their 
+output. The manual 
+provides standardized 
+methodologies and best 
+practices for calculating and 
+using the PPI, ensuring 
+consistency, reliability, and 
+comparability of these 
+economic indicators across 
+different countries. 
+
+ 
+
+50 | P a g e  
+
+2.5  Government finance, fiscal and public sector statistics 
+48       Government 
+
+GFSM 
+
+2014 
+
+IMF 
+
+Finance 
+Statistics 
+Manual 
+
+https://www.im
+f.org/external/p
+ubs/ft/gfs/manu
+al/2014/gfsfina
+l.pdf 
+ 
+
+Financial Statistics of 
+general government or 
+public sector 
+
+The Government Finance 
+Statistics Manual 2014 
+(GFSM 2014)—the third 
+edition of this Manual1 — 
+describes a specialized 
+macroeconomic statistical 
+framework, the government 
+finance statistics (GFS) 
+framework, designed to 
+support fiscal analysis. The 
+Manual (i) provides the 
+economic and statistical 
+reporting principles to be 
+used in compiling the 
+statistics;  
+(ii) describes guidelines for 
+presenting fiscal statistics 
+within an analytic 
+framework that includes 
+appropriate balancing 
+items; and  
+(iii) is harmonized with 
+other macroeconomic 
+
+ 
+
+51 | P a g e  
+
+statistical guidelines. The 
+Manual does not treat 
+systematically the practical 
+aspects of compiling the 
+statistics. 
+
+https://ec.europ
+a.eu/eurostat/st
+atistics-
+explained/inde
+x.php?title=Gl
+ossary:Harmon
+ized_commodit
+y_description_
+and_coding_sy
+stem#:~:text=T
+he%20Harmon
+ized%20comm
+odity%20descri
+ption%20and,S
+ystem%20and
+%20abbreviate
+d%20as%20HS
+. 
+
+The Harmonized 
+commodity description and 
+coding system is a multi-
+purpose international 
+product nomenclature 
+developed by the World 
+Customs Organization 
+(WCO). It is often simply 
+called Harmonized 
+System and abbreviated 
+as HS. 
+The HS 2007 is made up of 
+about 5,000 commodity 
+groups defined at a six-digit 
+level (with an additional 
+two digits if eight-digit sub-
+divisions are required), in a 
+legal and logical structure 
+
+Governments, 
+International 
+organizations and the 
+private sector for many 
+purposes such as internal 
+taxes, trade policies, 
+monitoring of controlled 
+goods, rules of origin, 
+freight tariffs, transport 
+statistics, price 
+monitoring, quota 
+controls, compilation of 
+national accounts, and 
+economic research and 
+analysis. 
+
+52 | P a g e  
+
+2.6 
+49 
+
+HS 
+
+International trade and balance of payments 
+Harmonized 
+commodity 
+description and 
+coding System 
+
+World 
+Custom 
+Organiz
+ation 
+
+2022 
+
+ 
+
+ 
+https://www.w
+coomd.org/en/t
+opics/nomencla
+ture/instrument
+-and-tools/hs-
+nomenclature-
+2022-
+edition.aspx 
+ 
+
+https://www.im
+f.org/external/p
+ubs/ft/bop/200
+7/pdf/bpm6.pdf 
+ 
+
+and based on well-defined 
+rules, in order to achieve a 
+uniform classification. 
+More than 200 countries 
+and economies make use of 
+the system as a basis for 
+their national customs 
+tariffs and for the collection 
+of economic statistical data. 
+Over 98 % of merchandise 
+in international trade is 
+classified in terms of the 
+HS. 
+The Balance of Payments 
+and International 
+Investment Position Manual 
+(BPM) is a set of guidelines 
+provided by the 
+International Monetary 
+Fund (IMF) for compiling 
+statistics on a country's 
+economic transactions with 
+the rest of the world. It 
+helps ensure that countries 
+
+Balance of payments 
+statistics, financial 
+statistics, developments 
+in globalization, (e.g. 
+currency unions, cross-
+border production 
+processes, complex 
+international company 
+structures, and issues 
+associated with 
+international labour 
+
+53 | P a g e  
+
+50 
+
+BPM6 
+
+IMF 
+
+2009 
+
+Balance of 
+Payments and 
+International 
+Investment 
+Position 
+Manual 
+
+ 
+
+MSITM  UNSD 
+
+2010 
+
+51  Manual on 
+Statistics of 
+International 
+Trade in 
+Services 
+
+https://unstats.u
+n.org/unsd/publ
+ication/seriesm
+/seriesm_86rev
+1e.pdf 
+ 
+
+ 
+
+report their balance of 
+payments and international 
+investment positions in a 
+consistent and comparable 
+manner. 
+The Manual on Statistics of 
+International Trade in 
+Services (MSITS) addresses 
+the needs of a variety of 
+producers and users of such 
+statistics. While the Manual 
+is primarily a guide for 
+statistical compilers, it is 
+also a useful tool for 
+Governments and 
+international organizations 
+that use statistical 
+information in connection 
+with international 
+negotiations on trade in 
+services. Furthermore, it 
+can aid enterprises and 
+other entities that need to 
+monitor developments in 
+
+mobility, remittances, 
+developments in financial 
+markets. 
+
+Statistics on trade in 
+services from the balance 
+of payments 
+(Manufacturing services 
+on physical inputs owned 
+by others, Maintenance 
+and repair services not 
+included elsewhere 
+(n.i.e.), Transport, 
+Travel, Construction, 
+Insurance and pension 
+services, Financial 
+services, Charges for the 
+use of intellectual 
+property not included 
+elsewhere (n.i.e.), 
+Telecommunications, 
+computer and 
+information services, 
+Other business services, 
+
+54 | P a g e  
+
+international services 
+markets. 
+
+Personal, cultural and 
+recreational services, 
+Government goods and 
+services not included 
+elsewhere (n.i.e.) 
+Statistics on services 
+supplied through foreign 
+affiliates (FDI Statistics) 
+Statistics on services 
+supplied through 
+presence of natural 
+persons (Balance of 
+payments statistics on 
+trade in services through 
+presence of natural 
+persons, Balance of 
+payments statistics 
+relating to labour 
+mobility, Statistics on the 
+number of foreign 
+persons moving (flows) 
+and present (stocks) in a 
+host country) 
+
+55 | P a g e  
+
+ 
+
+52 
+
+IRDTS  UNSD 
+
+2008 
+
+International 
+Recommendati
+ons on 
+Distributive 
+Trade Statistics 
+
+https://unstats.u
+n.org/unsd/trad
+e/m89%20engl
+ishForweb.pdf 
+ 
+
+Distributive trade data. 
+Compilations of both 
+structural and short-term 
+statistics, produce 
+monthly or quarterly 
+indicators, and often take 
+the form of indices. 
+
+Distributive trade statistics 
+(DTS) constitute a subject 
+area of economic statistics 
+concerned with provision of 
+data on economic units 
+whose main activity is 
+wholesaling and retailing 
+(that is to say, sale without 
+transformation) of any types 
+of goods together with 
+performing services 
+incidental to sales such as 
+repair, installation and 
+delivery. The growing 
+interest in distributive trade 
+statistics has been due to a 
+steady increase in the 
+contribution of distributive 
+trade to the total economy 
+in terms of value added and 
+employment in most 
+countries. 
+
+ 
+
+56 | P a g e  
+
+2.7 
+53 
+
+IFRS 
+
+Banking, insurance, financial statistics 
+International 
+Financial 
+Reporting 
+Standards 
+
+IASB 
+
+2024 
+
+https://www.ifr
+s.org/ 
+ 
+
+International Financial 
+Statistics. 
+
+The IFRS Foundation is a 
+not-for-profit, public 
+interest organisation 
+established to develop high-
+quality, understandable, 
+enforceable and globally 
+accepted accounting and 
+sustainability disclosure 
+standards. 
+These Standards are 
+developed by two standard-
+setting boards, the 
+International Accounting 
+Standards Board (IASB) 
+and International 
+Sustainability Standards 
+Board (ISSB).  
+The purpose of the 
+Monetary and Financial 
+Statistics Manual {MFSM, 
+or manual) is to offer 
+guidelines for the 
+presentation of monetary 
+
+54  Monetary and 
+
+MFSM 
+
+IMF 
+
+2017 
+
+https://www.eli
+brary.imf.org/d
+isplay/book/97
+81513579191/9
+
+Financial 
+Statistics 
+Manual 
+
+ 
+
+Monetary and financial 
+statistics. 
+
+57 | P a g e  
+
+2.8 
+55 
+
+Tourism 
+International 
+Recommendati
+ons on Tourism 
+Statistics 
+
+IRTS 
+
+UNWTO  2008 
+
+781513579191.
+xml 
+ 
+ 
+ 
+
+and financial statistics. In 
+addition to their role in 
+assisting in monetary policy 
+formulation and monitoring, 
+the statistics covered in this 
+volume form a basis for the 
+development of a statistical 
+framework for assessing 
+financial sector stability. 
+
+https://unstats.u
+n.org/unsd/publ
+ication/seriesm
+/seriesm_83rev
+1e.pdf 
+ 
+
+The International 
+Recommendations on 
+Tourism Statistics (IRTS) 
+are guidelines developed by 
+the United Nations World 
+Tourism Organization 
+(UNWTO) to standardize 
+the collection and reporting 
+of tourism data worldwide. 
+They provide definitions, 
+classifications, and 
+methodologies for 
+measuring various aspects 
+of tourism, including 
+
+Enhancement of the 
+coherence of tourism 
+statistics with other 
+official statistics and 
+further development of 
+tourism satellite 
+accounts. 
+
+ 
+
+58 | P a g e  
+
+inbound and outbound 
+tourism, tourism 
+expenditure, and the 
+economic impact of tourism 
+activities. These 
+recommendations help 
+governments, tourism 
+organizations, and 
+businesses to gather 
+consistent and comparable 
+data, facilitating informed 
+decision-making, policy 
+formulation, and sustainable 
+tourism development 
+strategies globally. 
+
+2.9 
+56 
+
+Energy 
+Standard 
+International 
+Energy Product 
+Classification 
+
+ 
+
+SIEC 
+
+UNSD 
+
+2011 
+
+Energy Statistics 
+
+https://unstats.u
+n.org/oslogrou
+p/meetings/og-
+04/docs/oslo-
+group-meeting-
+04--escm-
+ch03-draft1.pdf 
+
+The Standard International 
+Energy Classification 
+(SIEC) is a framework 
+developed by the United 
+Nations Statistics Division 
+(UNSD) to classify energy 
+statistics consistently across 
+countries. It categorizes 
+
+59 | P a g e  
+
+ 
+https://unstats.u
+n.org/unsd/clas
+sifications/Fam
+ily/Detail/2007 
+ 
+ 
+
+energy sources, products, 
+and flows into standardized 
+groups, facilitating 
+international comparability 
+and analysis of energy data. 
+SIEC helps in monitoring 
+energy consumption, 
+production, and trade, 
+supporting energy policy-
+making, research, and 
+sustainable development 
+efforts globally. 
+
+ 
+https://www.m
+ospi.gov.in/site
+s/default/files/
+main_menu/nat
+ional_product_
+classification/N
+PCMS_2011_r
+evised.pdf 
+ 
+
+The National Product 
+Classification (NPC) for the 
+Manufacturing Sector, 
+published by the M/o 
+Statistics and Programme 
+Implementation (MoSPI), 
+categorizes and organizes 
+products manufactured 
+within a country into 
+standardized groups. This 
+classification system helps 
+
+Physical goods (which 
+include transportable and 
+non-transportable 
+physical goods), 
+intangible goods and 
+services. 
+
+60 | P a g e  
+
+2.10  Mining, manufacturing, construction 
+57 
+
+MoSPI  2015 
+
+NPCMS-
+2011 
+(Revised
+) 
+
+National 
+Product 
+Classification 
+for 
+Manufacturing 
+Sector 
+
+ 
+
+ 
+
+in systematically organizing 
+and analyzing 
+manufacturing output, 
+facilitating data collection, 
+reporting, and analysis. It 
+supports policymaking, 
+industrial planning, and 
+economic analysis by 
+providing a structured 
+framework to understand 
+production patterns and 
+trends in the manufacturing 
+sector. 
+
+3 
+58 
+
+Environment 
+Common 
+International 
+Classification 
+of Ecosystem 
+Services 
+
+CICES 
+5.1 
+ 
+
+2018 
+
+Europe
+an 
+Environ
+mental 
+Agency 
+
+ 
+
+https://cices.eu/
+resources/ 
+ 
+https://cices.eu/
+content/upload
+s/sites/8/2018/0
+1/Guidance-
+
+The Common International 
+Classification of Ecosystem 
+Services (CICES) 
+developed from the work on 
+environmental accounting 
+undertaken by the European 
+Environment Agency 
+(EEA). It supports their 
+contribution to the revision 
+of the System of 
+
+Natural capital 
+accounting, ecosystem 
+accounting, ecosystem 
+assessments, ecosystem 
+service valuation and 
+mapping 
+
+61 | P a g e  
+
+V51-
+01012018.pdf 
+ 
+
+https://op.europ
+a.eu/en/web/eu
+-
+vocabularies/da
+taset/-
+/resource?uri=h
+ttp://publicatio
+ns.europa.eu/re
+source/dataset/
+
+Environmental-Economic 
+Accounting (SEEA) which 
+is currently being led by the 
+United Nations Statistical 
+Division (UNSD). The idea 
+of a common international 
+classification is an 
+important one, because it 
+was recognised that if 
+ecosystem accounting 
+methods were to be 
+developed and comparisons 
+made, then some 
+standardisation in the way 
+we describe ecosystem 
+services was needed.  
+The classification of 
+resource management 
+activities, abbreviated 
+as CReMA, was developed 
+by Eurostat task forces and 
+classifies activities, 
+products, expenditure and 
+other transactions that aim 
+to preserve and enhance the 
+
+59 
+
+CReMA  Eurosta
+
+2008 
+
+t 
+
+Classification 
+of Resource 
+Management 
+Activities 
+
+Environmental tax 
+statistics,  
+
+ 
+
+62 | P a g e  
+
+stock of natural resources. 
+Resource management 
+comprises a large variety of 
+activities, including the 
+production of energy from 
+renewable sources, 
+measures to improve energy 
+efficiency, recovery of 
+materials, and sustainable 
+management of water and 
+forest resources. 
+
+classification-
+resource-
+management-
+activities 
+ 
+https://ec.europ
+a.eu/eurostat/st
+atistics-
+explained/inde
+x.php?title=Gl
+ossary:Classifi
+cation_of_Reso
+urce_Managem
+ent_Activities_
+(CReMA) 
+ 
+https://seea.un.
+org/content/cla
+ssification-
+environmental-
+protection-
+activities-and-
+expenditure-
+
+60 
+
+Classification 
+of 
+Environmental 
+Protection 
+Activities  
+
+CEPA 
+
+Eurosta
+t 
+
+2001 
+
+ 
+
+The (European standard 
+statistical) classification of 
+environmental protection 
+activities, abbreviated 
+as CEPA, is used to classify 
+activities, products, 
+expenditure and other 
+transactions whose primary 
+
+Energy statistics, Coal 
+production and 
+consumption statistics, 
+Energy efficiency 
+statistics, Renewable 
+energy statistics, 
+Electrical capacity for 
+wind and solar 
+
+63 | P a g e  
+
+purpose is environmental 
+protection. 
+
+photovoltaic power 
+statistics. 
+
+cepa-and-
+classification 
+ 
+https://ec.europ
+a.eu/eurostat/st
+atistics-
+explained/inde
+x.php?title=Gl
+ossary:Classifi
+cation_of_envi
+ronmental_prot
+ection_activitie
+s_(CEPA) 
+ 
+https://ec.europ
+a.eu/eurostat/w
+eb/metadata/cla
+ssifications 
+ 
+https://unstats.u
+n.org/unsd/clas
+sifications/Mee
+tings/UNCEIS
+
+61 
+
+Classification 
+of 
+
+CEP 
+
+EUROS
+TAT 
+
+2024 
+
+ 
+
+The Classification of 
+Environmental Functions 
+(CEF) is a generic, multi-
+purpose, functional 
+
+Economic activities 
+products and 
+expenditures and other 
+transactions related to 
+
+64 | P a g e  
+
+Environmental 
+Purposes 
+
+environmental protection 
+and management of 
+natural resources. 
+Climate change 
+mitigation, biodiversity, 
+environmental protection, 
+and resource 
+management 
+
+C2023/Session
+06_Pres2_CEP
+_criteria_revie
+w.pdf 
+ 
+https://unece.or
+g/sites/default/f
+iles/2024-
+02/S2c_2_Euro
+stat_update%2
+0on%20CEP.p
+df 
+ 
+ 
+
+classification used for 
+classifying activities, 
+products, expenditure and 
+other transactions related to 
+environmental protection 
+and management of natural 
+resource. Environmental 
+protection activities are 
+defined as economic 
+activities aimed at 
+preventing, reducing and 
+eliminating pollution or any 
+other degradation of the 
+environment. Also included 
+are measures to restore the 
+environment after it has 
+been degraded. Resource 
+management activities 
+include the preservation, 
+maintenance and 
+enhancement of the stock of 
+natural resources and 
+therefore the safeguarding 
+of those resources against 
+depletion. 
+
+ 
+
+65 | P a g e  
+
+62 
+
+SEEA Land 
+use 
+classification 
+
+ 
+
+FAO 
+
+2012 
+
+Statistics of Agriculture, 
+Forestry, Fisheries, Land 
+Use Statistics, 
+Environment Statistics, 
+Economic statistics,  
+
+https://seea.un.
+org/sites/seea.u
+n.org/files/anne
+x_c_global_see
+a_land_final.pd
+f 
+ 
+https://unstats.u
+n.org/unsd/env
+accounting/cee
+a/meetings/UN
+CEEA-4-
+11.pdf 
+ 
+ 
+
+The System of 
+Environmental-Economic 
+Accounting (SEEA) Land 
+Use classification 
+categorizes land according 
+to its primary use and cover 
+types, emphasizing its 
+environmental and 
+economic roles. This 
+classification system helps 
+in systematically organizing 
+and analyzing data related 
+to land resources, such as 
+agricultural land, forests, 
+urban areas, wetlands, and 
+natural reserves. It supports 
+environmental accounting, 
+policy-making, and 
+sustainable development 
+efforts by providing insights 
+into land management, 
+resource allocation, and 
+environmental impact 
+assessments at local, 
+national, and global scales. 
+
+ 
+
+66 | P a g e  
+
+63 
+
+SEEA 
+
+UNSD 
+
+2012 
+
+System of 
+Environmental 
+and Economic 
+Accounts 
+
+https://seea.un.
+org/ 
+ 
+
+Agriculture, Forestry and 
+Fisheries, Air Emission 
+Accounting, Energy, 
+Environmental Activity 
+Accounts, Ecosystem 
+Accounts, Land 
+Accounts, Material Flow 
+Accounts, Land 
+Accounts, Material Flow 
+Accounts, Water 
+
+The System of 
+Environmental-Economic 
+Accounting (SEEA) is a 
+framework that integrates 
+economic 
+and environmental data to 
+provide a more 
+comprehensive and 
+multipurpose view of the 
+interrelationships between 
+the economy and the 
+environment and the stocks 
+and changes in stocks of 
+environmental assets, as 
+they bring benefits to 
+humanity. It contains the 
+internationally agreed 
+standard concepts, 
+definitions, classifications, 
+accounting rules and tables 
+for producing 
+internationally comparable 
+statistics and accounts. The 
+SEEA framework follows a 
+similar accounting structure 
+
+ 
+
+67 | P a g e  
+
+as the System of National 
+Accounts (SNA). The 
+framework uses concepts, 
+definitions and 
+classifications consistent 
+with the SNA in order to 
+facilitate the integration of 
+environmental and 
+economic statistics. 
+The System of 
+Environmental-Economic 
+Accounts for Water (SEEA-
+Water) is an integrated 
+approach to water 
+monitoring, bringing 
+together a wide range of 
+water related statistics 
+across sectors into one 
+coherent information 
+system. The SEEA-Water is 
+the conceptual framework 
+and set of accounts which 
+presents hydrological 
+information alongside 
+
+64 
+
+System of 
+Environmental- 
+Economic 
+Accounting for 
+Water 
+
+SEEA-
+Water 
+
+UNSD 
+
+2011 
+
+https://seea.un.
+org/content/see
+a-water 
+ 
+
+Water statistics, 
+providing an additional 
+resource to those 
+compiling water 
+accounts. 
+
+ 
+
+68 | P a g e  
+
+4 
+65 
+
+2022 
+
+CSA 2.0  UNSD 
+
+Statistical programmes; Coordination within Statistical systems 
+https://unstats.u
+Classification 
+of Statistical 
+n.org/unsd/clas
+Activities 
+sifications/CS
+A2 
+ 
+https://unece.or
+g/sites/default/f
+iles/2022-
+05/ECE_CES_
+2022_8-
+2205369E.pdf 
+ 
+
+66 
+
+Common 
+Statistical 
+Production 
+Architecture  
+
+ 
+
+CSPA 
+2.0 
+
+UNEC
+E 
+
+2021 
+
+https://unece.or
+g/fileadmin/D
+AM/stats/docu
+ments/fund.pri
+
+economic information in a 
+consistent way.  
+
+The Classification of 
+Statistical Activities (CSA) 
+is an analytical 
+classification that provides 
+a hierarchical structure of 
+categories about statistical 
+activities. It is organized at 
+the top level by statistical 
+domains which relate the 
+broad type of statistical 
+activities, covering subject-
+matter activities, activities 
+related to infrastructure and 
+methodology, and strategic 
+and management activities 
+for official statistics. 
+The aim of the common 
+architecture is to facilitate 
+standardisation of the 
+components of statistical 
+
+Statistical programmes; 
+coordination within 
+statistical systems 
+
+Standards and Tools for 
+the Modernisation of 
+Statistical Production and 
+Services 
+
+69 | P a g e  
+
+production, regardless of 
+where these components 
+originate. It provides a 
+framework, principles, 
+processes and guidelines to 
+help reduce the cost of 
+developing and maintaining 
+statistical processes and 
+systems, and improving the 
+responsiveness of the 
+development cycle. 
+
+nciples/2014/3-
+Common_Stati
+stical_Producti
+on_Architectur
+e_EN.pdf  
+ 
+https://statswik
+i.unece.org/dis
+play/CSPA/IV.
++CSPA+2.0+In
+formation+Arc
+hitecture 
+Same as above  The Common Statistical 
+Production Architecture 
+(CSPA) refers to a 
+standardized framework 
+and set of principles 
+designed to streamline and 
+enhance the efficiency of 
+statistical production 
+processes within national 
+statistical offices (NSOs) 
+and similar agencies. It 
+aims to improve data 
+
+67 
+
+Common 
+Statistical 
+Production 
+Architecture 
+
+CSPA 
+
+UNEC
+E 
+
+2012 
+
+Strategic Planning, 
+Development within 
+statistical organizations 
+
+ 
+
+70 | P a g e  
+
+quality, reduce costs, and 
+increase interoperability 
+across different statistical 
+domains by promoting the 
+use of common 
+methodologies, tools, and 
+infrastructure for data 
+collection, processing, 
+analysis, and dissemination. 
+CSPA supports 
+modernization efforts in 
+official statistics, enabling 
+more timely and accurate 
+statistical outputs to meet 
+the evolving needs of users 
+and policymakers. 
+The Generic Statistical 
+Information Model (GSIM) 
+is a conceptual framework 
+developed by the 
+international statistical 
+community to standardize 
+how statistical data and 
+metadata are structured and 
+represented. It provides a 
+
+https://unece.or
+g/sites/default/f
+iles/2024-
+04/ECE_CES_
+2024_03_E.pdf 
+ 
+https://unece.or
+g/fileadmin/D
+
+Modernizing, 
+streamlining and aligning 
+the standards and 
+production associated 
+with official statistics at 
+both national and 
+international levels.  
+Explain significant 
+relationships among the 
+
+71 | P a g e  
+
+68 
+
+Generic 
+Statistical 
+Information 
+Model 
+
+GSIM 
+
+UNEC
+E 
+
+2024 
+
+ 
+
+entities involved in 
+statistical production.  It 
+provides a common 
+language to improve 
+communication at 
+different levels 
+
+AM/stats/docu
+ments/fund.pri
+nciples/2014/2-
+Generic_Statist
+ical_Informatio
+n_Model_EN.p
+df 
+ 
+
+common language and set 
+of concepts for describing 
+statistical information 
+across different domains 
+and organizations. GSIM 
+defines standard 
+components such as data 
+sets, variables, 
+classifications, and 
+relationships between them, 
+facilitating interoperability 
+and integration of statistical 
+data systems. It supports 
+efficient data sharing, reuse, 
+and exchange among 
+statistical agencies, 
+enabling better 
+coordination, consistency, 
+and quality in statistical 
+production and analysis. 
+
+72 | P a g e  
+
+ 
+
+ 
+
+

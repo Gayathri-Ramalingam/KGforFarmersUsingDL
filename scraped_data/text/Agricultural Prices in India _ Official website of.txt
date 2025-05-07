@@ -1,0 +1,1937 @@
+
+
+
+
+
+Agricultural Prices in India | Official website of Directorate of Economics and Statistics, Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India
+
+
+
+
+
+
+
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/desagri.gov.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.qtranxs_flag_en {background-image: url(https://desagri.gov.in/wp-content/plugins/qtranslate-x-OLD/flags/gb.png); background-repeat: no-repeat;}
+.qtranxs_flag_HI {background-image: url(https://desagri.gov.in/wp-content/plugins/qtranslate-x-OLD/flags/in.png); background-repeat: no-repeat;}
+
+
+
+
+
+
+
+
+
+
+@media screen and ( min-width: 782px ){
+		body.admin-bar .mobmenu, body.admin-bar .mobmenu-panel, .show-nav-left.admin-bar .mobmenu-overlay, .show-nav-right.admin-bar .mobmenu-overlay {
+			top: 32px!important;
+		}
+				body.admin-bar .mobmenu-search-holder {
+				top: 82px!important;
+		}
+}
+
+@media screen and ( max-width: 782px ){
+	body.admin-bar .mobmenu, body.admin-bar .mobmenu-panel, .show-nav-left.admin-bar .mobmenu-overlay, .show-nav-right.admin-bar .mobmenu-overlay {
+		top: 46px!important;
+	}
+
+	body.admin-bar .mob-menu-header-banner {
+		top: 0px!important;
+	}
+		body.admin-bar .mobmenu-search-holder {
+		top: 96px!important;
+	}
+	body.admin-bar  .mob-menu-slideout .mobmenu-search-holder {
+		top: 50px!important;
+	}
+
+}
+
+@media screen and ( max-width: 479px ) {
+	.mob-menu-overlay .mobmenu-content {
+		padding-top: 5%;
+	}
+}
+
+@media screen and ( max-width: 782px ) {
+	.mob-menu-overlay .mobmenu-content {
+		padding-top: 10%;
+	}
+}
+
+@media screen and ( min-width: 782px ) {
+	#mobmenu-footer li:hover {
+		background-color: #4a4a4a;
+	}
+	#mobmenu-footer li:hover i {
+		color: #fff;
+	}
+}
+
+@media only screen and (min-width:1051px){
+	.mob_menu, .mobmenu-panel, .mobmenu, .mobmenu-cart-panel, .mobmenu-footer-menu-holder, .mobmenu-right-panel, .mobmenu-left-panel  {
+		display: none!important;
+	}
+}
+
+@media only screen and (max-width:1050px) {
+
+			
+	.mobmenur-container i {
+		color: #FFF;
+	}
+	.mobmenul-container i {
+		color: #FFF;
+	}
+	.mobmenul-container img {
+		max-height:  50px;
+		float: left;
+	}
+	.mobmenur-container img {
+		max-height:  50px;
+		float: right;
+	}
+	.mob-expand-submenu i {
+		font-size: 25px;
+	}
+	#mobmenuleft li a , #mobmenuleft li a:visited, .mobmenu-content h2, .mobmenu-content h3, .show-nav-left .mob-menu-copyright, .show-nav-left .mob-expand-submenu i {
+		color: #000000;
+
+	}
+	.mob-cancel-button {
+		font-size: 30px!important;
+	}
+
+	/* 3rd Level Left Menu Items Background color on Hover*/
+	.mobmenu-content #mobmenuleft .sub-menu  .sub-menu li a:hover {
+		color: #ccc;
+	}
+	/* 3rd Level Left Menu Items Background color on Hover*/
+	.mobmenu-content #mobmenuleft .sub-menu .sub-menu li:hover {
+		background-color: #666;
+	}
+	.mobmenu-content #mobmenuleft li:hover  {
+		background-color: #666;
+	}
+	.mobmenu-content #mobmenuright li:hover  {
+		background-color: #666 ;
+	}
+	/* 3rd Level Right Menu Items Background color on Hover*/
+	.mobmenu-content #mobmenuright .sub-menu .sub-menu li:hover {
+		background-color: #666;
+	}
+	/* 3rd Level Right Menu Items Background color on Hover*/
+	.mobmenu-content #mobmenuright .sub-menu  .sub-menu li a:hover {
+		color: #ccc;
+	}
+
+		.mobmenu-content #mobmenuleft .sub-menu {
+		background-color: #3a3a3a ;
+		margin: 0;
+		color: #fff ;
+		width: 100%;
+		position: initial;
+		height: 100%;
+	}
+	.mob-menu-left-bg-holder {
+				opacity: 1;
+		background-attachment: fixed ;
+		background-position: center top ;
+		-webkit-background-size:  cover;
+		-moz-background-size: cover;
+		background-size: cover;
+	}
+	.mob-menu-right-bg-holder { 
+				opacity: 1;
+		background-attachment: fixed ;
+		background-position: center top ;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size:  cover;
+	}
+		.mobmenu-content #mobmenuleft .sub-menu a {
+		color: #fff ;
+	}
+	.mobmenu-content #mobmenuright .sub-menu  a {
+		color: #fff ;
+	}
+	.mobmenu-content #mobmenuright .sub-menu .sub-menu {
+		background-color: inherit;
+	}
+	.mobmenu-content #mobmenuright .sub-menu {
+		background-color: #3a3a3a ;
+		margin: 0;
+		color: #fff ;
+		position: initial;
+		width: 100%;
+	}
+	#mobmenuleft li:hover a, #mobmenuleft li:hover i {
+		color: #FFF;
+	}
+	#mobmenuright li a , #mobmenuright li a:visited, .show-nav-right .mob-menu-copyright, .show-nav-right .mob-expand-submenu i {
+		color: #666 ;
+	}
+	#mobmenuright li a:hover {
+		color: #FFF ;
+	}
+	.mobmenul-container {
+		top: 10px;
+		margin-left: 5px;
+		margin-top: 0px;
+		height: 50px;
+		float: left;
+	}
+	.mobmenur-container {
+		top: 10px;
+		margin-right: 5px;
+		margin-top: 0px;
+	}
+		.mob-menu-logo-holder {
+		margin-top:   0px;
+		text-align:   center;
+		margin-left:  0;
+		margin-right: 0;
+		height:       50px;
+			}
+	.mob-menu-header-holder {
+		width:  100% ;
+		background-color: #111111 ;
+		height: 50px ;
+		position:absolute;
+	}
+	body.mob-menu-overlay, body.mob-menu-slideout, body.mob-menu-slideout-over, body.mob-menu-slideout-top {
+		padding-top: 50px;
+	}
+		.mobmenul-container, .mobmenur-container{
+		position: absolute; 
+	}
+	.mobmenu-left-panel {
+		background-color:#F7F7F7;;
+		width:  270px;  
+	}
+	.mobmenu-right-panel {
+		background-color:#F7F7F7;		width:  270px; 
+	}
+	.show-nav-left .mobmenu-overlay, .show-nav-right .mobmenu-overlay, .show-mob-menu-search .mobmenu-overlay  {
+		background: rgba(0, 0, 0, 0.83);
+	}
+	.mob-menu-slideout-top .mobmenu-overlay {
+		display:none!important;
+	}
+	.mob-menu-slideout.show-nav-left .mobmenu-push-wrap, .mob-menu-slideout.show-nav-left .mob-menu-header-holder {
+		-webkit-transform: translateX(270px);
+		-moz-transform: translateX(270px);
+		-ms-transform: translateX(270px);
+		-o-transform: translateX(270px);
+		transform: translateX(270px);
+	}
+	.mob-menu-slideout.show-nav-right .mobmenu-push-wrap, .mob-menu-slideout.show-nav-right .mob-menu-header-holder {
+		-webkit-transform: translateX(-270px);
+		-moz-transform: translateX(-270px);
+		-ms-transform: translateX(-270px);
+		-o-transform: translateX(-270px);
+		transform: translateX(-270px);
+	}
+	.mob-menu-slideout-top .mobmenu-panel {
+		width:  100%;
+		height: 100%;
+		z-index: 1;
+		position: fixed;
+		left: 0px;
+		top: 0px;
+		max-height: 100%;
+		-webkit-transform: translateY(-100%);
+		-moz-transform: translateY(-100%);
+		-ms-transform: translateY(-100%);
+		-o-transform: translateY(-100%);
+		transform: translateY(-100%);
+	}
+	.mob-menu-slideout-top.show-nav-left .show-panel, .mob-menu-slideout-top.show-nav-right .show-panel  {
+		-webkit-transform: translateY(0px);
+		-moz-transform: translateY(0px);
+		-ms-transform: translateY(0px);
+		-o-transform: translateY(0px);
+		transform: translateY(0px);
+		z-index: 300000;
+	}
+	.mob-menu-slideout-over.show-nav-left .mobmenu-left-panel {
+		overflow: hidden;
+	}
+	.show-nav-left .mobmenu-panel.show-panel , .show-nav-right .mobmenu-panel.show-panel {
+		z-index: 300000;
+	}
+	/* Hides everything pushed outside of it */
+	.mob-menu-slideout .mobmenu-panel, .mob-menu-slideout-over .mobmenu-panel, .mob-menu-slideout .mobmenu-cart-panel, .mob-menu-slideout-over .mobmenu-cart-panel {
+		position: fixed;
+		top: 0;
+		height: 100%;
+		overflow-y: auto;
+		overflow-x: auto;
+		z-index: 10000;
+		opacity: 1;
+	}
+	/*End of Mobmenu Slide Over */
+	.mobmenu .headertext { 
+		color: #FFF ;
+		text-decoration: none;
+	}
+	.headertext span {
+		position: initial;
+		line-height: 50px;
+	}
+	.mobmenu-search-holder {
+		top: 50px;
+	}
+	/*Premium options  */
+	
+	/* Mobile Menu Frontend CSS Style*/
+	body.mob-menu-overlay, body.mob-menu-slideout, body.mob-menu-slideout-over, body.mob-menu-slideout-top  {
+		overflow-x: hidden;
+	}
+	
+	.mobmenu-left-panel li a, .leftmbottom, .leftmtop{
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+	.mobmenu-content li > .sub-menu li {
+		padding-left: calc(10*1%);
+	}
+
+	.mobmenu-right-panel li, .rightmbottom, .rightmtop{
+		padding-left: 10%;
+		padding-right: 10%;
+	}
+	.mobmenul-container i {
+		line-height: 30px;
+		font-size: 30px;
+		float: left;
+	}
+	.left-menu-icon-text {
+		float: left;
+		line-height: 30px;
+		color: #222;
+	}
+	.mobmenu-left-panel .mobmenu-display-name {
+		color: #000000;
+	}
+	.right-menu-icon-text {
+		float: right;
+		line-height: 30px;
+		color: #222;
+	}
+	.mobmenur-container i {
+		line-height: 30px;
+		font-size: 30px;
+		float: right;
+	}
+	.hide {
+		display: none!important;
+	}
+	
+	.mob-standard-logo {
+		display: inline-block;
+		height:79px!important;	}
+	.mob-retina-logo {
+		height:79px!important;	}
+	.mobmenu-content #mobmenuleft > li > a:hover {
+		background-color: #666;
+	}
+
+	.mobmenu-content #mobmenuright > li > a:hover {
+		background-color: #666;
+	}
+	.mobmenu-left-panel .mob-cancel-button {
+		color: #000000;
+	}
+	.mobmenu-right-panel .mob-cancel-button {
+		color: #666;
+	}	
+	
+}
+
+
+.mob-menu-logo-holder > .headertext span,.mobmenu input.mob-menu-search-field {
+	font-family:Roboto;
+	font-size:14px;
+	font-weight:inherit;
+	font-style:normal;
+	letter-spacing:normal;
+	text-transform:none;
+}
+
+.left-menu-icon-text {
+	font-family:Roboto;
+	font-size:inherit;
+	font-weight:inherit;
+	font-style:normal;
+	line-height:1.5em;
+	letter-spacing:normal;
+	text-transform:none;
+}
+
+#mobmenuleft .mob-expand-submenu,#mobmenuleft > .widgettitle,#mobmenuleft li a,#mobmenuleft li a:visited,#mobmenuleft .mobmenu-content h2,#mobmenuleft .mobmenu-content h3,.mobmenu-left-panel .mobmenu-display-name, .mobmenu-content .mobmenu-tabs-header li {
+	font-family:Roboto;
+	font-size:inherit;
+	font-weight:inherit;
+	font-style:normal;
+	line-height:1.5em;
+	letter-spacing:normal;
+	text-transform:none;
+}
+
+.right-menu-icon-text {
+	font-family:Roboto;
+	font-size:inherit;
+	font-weight:inherit;
+	font-style:normal;
+	line-height:1.5em;
+	letter-spacing:normal;
+	text-transform:none;
+}
+
+#mobmenuright li a,#mobmenuright li a:visited,#mobmenuright .mobmenu-content h2,#mobmenuright .mobmenu-content h3,.mobmenu-left-panel .mobmenu-display-name {
+	font-family:Roboto;
+	font-size:inherit;
+	font-weight:inherit;
+	font-style:normal;
+	line-height:1.5em;
+	letter-spacing:normal;
+	text-transform:none;
+}
+
+.mob-menu-header-holder{
+	    background: linear-gradient(to right, #7004bc 2%, #3264f5 82%);
+} 
+			.page_content_wrap .cstm_title{
+	width:60%;
+}
+.page_content img{
+	max-width:100%;
+}
+.menmber_lists{
+	margin-top:25px;
+	clear: both;
+    width: 100%;
+    float: left;
+}
+.menmber_lists table th,.menmber_lists table td{
+	border:1px solid #dee2e6;
+}
+.current-menu-parent, .current-menu-item{
+	background-color:#a90078;
+}
+.member_records{
+	margin-top:15px;
+	
+}
+.member_records p{
+	margin-bottom:0px;
+}	
+#about_tabs_content #whatnew .item-list{
+	max-height:450px;
+	overflow-y:auto;
+}
+		
+
+
+
+
+
+
+
+
+
+
+
+function PopUp(hideOrshow) {
+    if (hideOrshow == 'hide') document.getElementById('ac-wrapper').style.display = "none";
+    else document.getElementById('ac-wrapper').removeAttribute('style');
+}
+window.onload = function () {
+    setTimeout(function () {
+        PopUp('show');
+    }, 100);
+}
+
+
+#ac-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,.6);
+    z-index: 1001;
+	text-align: -webkit-center;
+	display: ruby;
+}
+
+#popup {
+    width: 560px;
+    height: 560px;
+    background: #FFFFFF;
+    border: 2px solid #1478df33;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    box-shadow: #64686e 0px 0px 3px 3px;
+    -moz-box-shadow: #64686e 0px 0px 3px 3px;
+    -webkit-box-shadow: #64686e 0px 0px 3px 3px;
+    position: relative;
+    top: 150px; 
+}
+input,.close {
+    position: absolute;
+	color: #f021b6 !important;
+    right: -45px;
+    top: -43px;
+    opacity: 1;
+    z-index: -1;
+    background: #ffffff03;
+}
+
+
+
+
+
+
+
+MENU
+Close 
+
+
+
+ Meeting
+Minutes of Meeting
+ Parliament Questions
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+GOVERNMENT OF INDIA
+
+
+
+Skip to Main Content
+Screen Reader Access
+Old Website Link
+
+
+
+English
+हिंदी
+
+
+
+A-
+A
+A+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Director of Economics & Statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About Us
+
+About DES
+Mission / Vision Document
+History / Background
+Role Functions, Responsibilities, Activities
+Organization Chart
+Who’s Who
+Associated Organization (Offices, IAs, MI Unit and Other Centres)
+
+MI Units
+IAs
+AERC
+
+
+State Agricultural Statistics Authorities (SASA)
+Media
+
+Photo Gallery
+
+
+
+
+Divisions/Cell
+
+Administration Division
+Agricultural Statistics Division
+Agricultural Statistics Improvement (ASI)
+Agricultural Wages Division
+Agro-Economic Research (AER)
+Commercial Crops (CC)
+Cost Studies (CS)
+Crop Forecast Coordination Centre (CFCC)
+Coordination
+Food Economics (FE)
+International Agriculture & Compilation (IAC)
+Prices & Markets (P&M)
+Publication
+Special Data Dissemination Standards (SDDS)
+
+
+Programs & Schemes
+
+Planning, Management & Policy Formulation Scheme
+Agriculture Census Scheme
+Improvement of Agricultural Statistics (IAS) Scheme
+Agro-Economic Research Scheme
+Comprehensive Scheme for Studying Cost of Cultivation of Principal Crops in India.
+Forecasting Agricultural Output Using Space, Agro-meteorology And Land Based Observations (FASAL)
+
+
+Documents & Reports
+
+Agriculture Statistics -At a Glance
+Pocket Book of Agricultural Statistics
+Agricultural Situation in India
+Agricultural Prices in India
+Agriculture Wages in India
+State of Indian Agriculture
+Crop Weather Watch Reports
+
+Weekly Minutes of the Meeting of CWWG
+Weekly CWWG Data
+
+
+Cost of Cultivation/Production & Related Data
+
+Crop Complex For The Year
+Cost of Cultivation/Production Estimates
+Selected Zone/Tehsil/District block year-wise
+Plot-wise Summary Data
+
+
+Farm Harvest Prices of Principle Crops in India
+Land Use Statistics – At a Glance
+Monthly Bulletin
+
+
+Notification
+
+Events
+MSP Notifications
+
+Kharif
+Rabi
+Copra
+Jute
+De-husked Coconut
+Toria
+
+
+Office Order
+Circulars
+Notice
+
+Seniority List and Criteria
+
+
+Recruitment/ Vacancy
+
+Recruitment Rules
+
+
+Application Form
+Appointments and Transfers
+
+
+Statistics
+
+Latest Minimum Support Price (MSP) Statement
+Area Production & Yield (APY)
+
+National
+
+Advance Estimates
+
+
+State-wise
+
+Five Year Estimates
+Normal Estimates
+Minor Crop Estimates
+
+
+District-wise
+
+
+Index Numbers
+
+Indices (Area)
+Indices (Production)
+Indices (Yield)
+
+
+Land Use Statistics (LUS)
+Price
+
+
+Dashboard
+RTI
+
+Right to information
+Central Public Information Officer
+
+
+AER Report
+Contact us
+ 
+
+
+
+
+
+
+
+
+More 
+
+
+
+
+	jQuery(document).ready(function(){
+		//jQuery( "li" ).hover( jQuery('body').text().replace( "&amp;","&" ) );
+	});
+	
+
+
+
+
+Home > Documents & Reports > Agricultural Prices in India
+
+
+
+
+
+Agricultural Prices in India
+
+
+
+
+Please select the year
+
+
+
+-Select Year-
+2023
+2022
+2021
+2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Details
+Document
+
+
+
+Agricultural Prices in India 2023 
+Download File (English) 13 MB
+
+
+
+
+
+
+
+Archive
+
+
+
+
+
+
+
+							Last updated :
+			            16-05-2024, 10:36 AM 
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Website Policies
+Terms & Conditions
+Sitemap
+Feedback
+Security Policy
+Help
+
+
+																	Visitor Count:
+																663841 
+
+
+
+
+
+
+
+
+
+ Copyright © 2022 – All Rights Reserved – Official website of Directorate of Economics and Statistics, Department of Agriculture Cooperation
+and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India
+Note: Content on this website is published and managed by of Directorate of Economics and Statistics, Department of Agriculture Cooperation
+and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India
+ 
+For any query regarding this website, please contact the web information manager,
+Name: Ruchi Sharma
+Designation: Deputy Director (SDDS), DES, DA & FW
+E-mail id- dddes[dot]it-agri[at]nic[dot]in
+Contact no: +91-11-23387280
+
+ 						Last updated :
+						                    
+													29-05-2021, 10:46 AM
+											 
+
+
+
+
+
+
+
+
+        var templateUrl = 'https://desagri.gov.in';
+        var post_id = '7919';
+    
+document.body.classList.remove("no-js"); 
+	if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
+		document.body.classList.add( 'is-IE' );
+	}
+	
+
+
+
+
+HomeAbout Us
+
+About DES Mission / Vision Document History / Background Role Functions, Responsibilities, Activities Organization Chart Who’s Who Associated Organization (Offices, IAs, MI Unit and Other Centres)
+
+MI Units IAs AERC 
+ State Agricultural Statistics Authorities (SASA) Media
+
+Photo Gallery 
+
+Divisions/Cell
+
+Administration Division Agricultural Statistics Division Agricultural Statistics Improvement (ASI) Agricultural Wages Division Agro-Economic Research (AER) Commercial Crops (CC) Cost Studies (CS) Crop Forecast Coordination Centre (CFCC) Coordination Food Economics (FE) International Agriculture & Compilation (IAC) Prices & Markets (P&M) Publication Special Data Dissemination Standards (SDDS)
+Programs & Schemes
+
+Planning, Management & Policy Formulation Scheme Agriculture Census Scheme Improvement of Agricultural Statistics (IAS) Scheme Agro-Economic Research Scheme Comprehensive Scheme for Studying Cost of Cultivation of Principal Crops in India. Forecasting Agricultural Output Using Space, Agro-meteorology And Land Based Observations (FASAL)
+Documents & Reports
+
+Agriculture Statistics -At a Glance Pocket Book of Agricultural Statistics Agricultural Situation in India Agricultural Prices in India Agriculture Wages in India State of Indian Agriculture Crop Weather Watch Reports
+
+Weekly Minutes of the Meeting of CWWG Weekly CWWG Data 
+ Cost of Cultivation/Production & Related Data
+
+Crop Complex For The Year Cost of Cultivation/Production Estimates Selected Zone/Tehsil/District block year-wise Plot-wise Summary Data 
+ Farm Harvest Prices of Principle Crops in India Land Use Statistics – At a Glance Monthly Bulletin
+Notification
+
+Events MSP Notifications
+
+Kharif Rabi Copra Jute De-husked Coconut Toria 
+ Office Order Circulars Notice
+
+Seniority List and Criteria 
+ Recruitment/ Vacancy
+
+Recruitment Rules 
+ Application Form Appointments and Transfers
+Statistics
+
+Latest Minimum Support Price (MSP) Statement Area Production & Yield (APY)
+
+National State-wise District-wise 
+ Index Numbers
+
+Indices (Area) Indices (Production) Indices (Yield) 
+ Land Use Statistics (LUS) Price
+DashboardRTI
+
+Right to information Central Public Information Officer
+AER ReportContact us
+
+
+var rmp_menu = {"ajaxURL":"https:\/\/desagri.gov.in\/wp-admin\/admin-ajax.php","wp_nonce":"b2533dc5bf","menu":[{"active_toggle_contents":null,"inactive_toggle_contents":null}]};
+
+
+
+( Element.prototype.matches && Element.prototype.closest && window.NodeList && NodeList.prototype.forEach ) || document.write( '<script src="https://desagri.gov.in/wp-content/themes/doatheme/assets/js/polyfills.js?ver=1.2"></scr' + 'ipt>' );
+
+
+
+
+var i18n_mtli = {"hidethings":"1","enable_async":"1","enable_async_debug":"","avoid_selector":".wp-caption","mime_array":["pdf"]};
+
+
+
+
+
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",(function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())}),!1);
+	
+
+
+
+
+var ajaxurl = 'https://desagri.gov.in/wp-admin/admin-ajax.php';
+
+$("#show_menu").keyup(function(event) {
+    if (event.keyCode === 13) {
+        $("#show_menu").click();
+    }
+});
+
+$(".more_menu").click(function(){
+		
+		if($('.flyout-menu-wrapper').hasClass('open')){
+			 $('.flyout-menu-wrapper').slideUp('1000').removeClass('open'); 
+		}else{
+			$('.flyout-menu-wrapper').slideDown('1000').addClass('open'); 
+		}
+});
+$(".nav-menu-close").click(function(){
+	$('.flyout-menu-wrapper').slideUp('1000').removeClass('open');
+});
+
+	
+	$(".nav-tabs .nav-item .nav-link").click(function(){
+		
+		var selectedTab = $(this).attr('data-bs-target');
+		$('.tab-content .tab-pane').removeClass('show').removeClass('active');
+		$(selectedTab).addClass('show').addClass('active');
+		$(this).tab('show');
+	});
+ 
+	$(function(){
+		$('#marquee-vertical').marquee({delay:0, timing:50});   
+		//$('#latest_mrq').marquee({delay:0, timing:50});   
+	});
+ $(document).ready(function(){
+		
+		
+		window.onscroll = function() {myFunction()};
+		
+		// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+		function myFunction() {
+			
+			// Get the navbar
+			/* var navbar = document.getElementById("cstm_stky_menu");  */
+			var navbar = document.getElementById("site-navigation"); 
+			var carbar = document.getElementById("main"); 
+			
+			// Get the offset position of the navbar
+			<!-- var sticky = navbar.offsetTop; -->
+			var sticky = carbar.offsetTop;
+			
+			if (window.pageYOffset >= sticky) {
+				/* navbar.classList.add("sticky").slideDown('1000'); */
+				navbar.classList.add("sticky");
+				
+			} else {
+				/* navbar.classList.remove("sticky").slideUp('1000'); */
+				navbar.classList.remove("sticky");
+			}
+		}
+}); 
+jQuery(document).ready(function(){
+	
+	jQuery(".lang-en a").click(function() {
+		var retVal = confirm("क्या आप वेबसाइट की भाषा अंग्रेजी में परिवर्तित करना चाहते है ?");
+        if( retVal == true ) {
+			return true;
+        } else {
+			return false;
+        }	   
+	});
+
+		jQuery(".lang-HI a").click(function() {
+			   var retVal = confirm("Do you want to change website language in Hindi ?");
+               if( retVal == true ) {
+                  return true;
+               } else {
+                  return false;
+               }
+		   
+		});
+});
+
+
+jQuery(document).ready(function(){        
+
+    function modifyFontsize(flag){
+        var element = jQuery('body,section,div,li,a,p,span,nav');
+		var currentfontsize = parseInt(element.css('font-size'));
+		/*console.log("11: "+currentfontsize);
+		console.log("local "+localStorage.getItem("eleFontsizeval"));*/
+		/*if(parseInt(localStorage.getItem("eleFontsizeval"))!=''){
+			currentfontsize = parseInt(localStorage.getItem("eleFontsizeval"));
+		}else{		*/	
+		
+			
+			if(flag=='increase'){
+            	if(currentfontsize < 18){
+               	 currentfontsize += 2;
+            	}
+			} else if(flag=='decrease'){
+            	if(currentfontsize > 10){
+                	currentfontsize -= 2;
+		   		}
+       		 } else {
+            	currentfontsize = 14;
+       		}
+		/*}*/
+		
+		
+		localStorage.setItem("eleFontsizeval", currentfontsize);
+        element.css('font-size', currentfontsize);
+		jQuery('body').removeClass('fSize'+currentfontsize);
+		jQuery('body').addClass('fSize'+currentfontsize);
+		
+		/*localStorage.setItem("eleFontsize", flag);*/
+		
+		jQuery('.home_ico a').css({'font-size':'0'});
+    }
+    jQuery('.increase').click(function(){
+        modifyFontsize('increase');
+    });
+    jQuery('.decrease').click(function(){
+        modifyFontsize('decrease');
+    });
+	jQuery('.resetMe').click(function(){
+        modifyFontsize('reset');
+    });
+	/*if(localStorage.getItem("eleFontsize")!= ''){
+		 modifyFontsize(localStorage.getItem("eleFontsize"));
+	}*/
+	if(parseInt(localStorage.getItem("eleFontsizeval"))!=''){
+		var element = jQuery('body,section,div,li,a,p,span,nav');
+		var cfs = parseInt(localStorage.getItem("eleFontsizeval"));
+		element.css('font-size', cfs);
+	}
+});
+var owl1 = $('#owl-carousel1');
+owl1.owlCarousel({
+		loop:true,
+		margin:10,
+		nav:true,
+		navText: ["<span class='angle-left'></span>","<span class='angle-right'></span>"],
+		dots: false,
+		autoplay:true,
+		autoplayTimeout:4000,
+		autoplayHoverPause:true,
+		responsive:{
+			0:{
+				items:1
+			},
+			600:{
+				items:3
+			},
+			1000:{
+				items:5
+			}
+		}
+	});
+	
+	$('#playBtn_l').on('click',function(){
+		owl1.trigger('play.owl.autoplay',[1000]);
+		$('.playBtn_l').css({'display':'none'});
+		$('.pauseBtn_l').css({'display':'block'});
+	});
+	$('#pauseBtn_l').on('click',function(){
+		owl1.trigger('stop.owl.autoplay');
+		$('.playBtn_l').css({'display':'block'});
+		$('.pauseBtn_l').css({'display':'none'});
+	});
+	
+	var inputPlayBtn1 = document.getElementById("playButton");
+		var inputPauseBtn1 = document.getElementById("pauseButton");
+		
+		inputPlayBtn1.addEventListener("keypress", function(event) {
+			// If the user presses the "Enter" key on the keyboard
+			if (event.key === "Enter") {
+		owl1.trigger('play.owl.autoplay',[1000]);
+		$('.playBtn_l').css({'display':'none'});
+		$('.pauseBtn_l').css({'display':'block'});
+				
+				inputPauseBtn1.focus();
+			}
+		});
+		inputPauseBtn1.addEventListener("keypress", function(event) {
+			// If the user presses the "Enter" key on the keyboard
+			if (event.key === "Enter") {
+		owl1.trigger('stop.owl.autoplay');
+		$('.playBtn_l').css({'display':'block'});
+		$('.pauseBtn_l').css({'display':'none'});
+				inputPlayBtn1.focus();
+			}
+		});
+	
+	var owl2 = $('#owl-carousel2');
+	owl2.owlCarousel({
+		loop:true,
+		margin:10,
+		nav:true,
+		navText: ["<span class='fa fa-angle-left'></span>","<span class='fa fa-angle-right'></span>"],
+		dots: false,
+		autoplay:true,
+		autoplayTimeout:5000,
+		autoplayHoverPause:true,
+		responsive:{
+			0:{
+				items:1
+			},
+			600:{
+				items:1
+			},
+			1000:{
+				items:1
+			}
+		}
+	});
+
+
+		jQuery(function () {
+		
+			jQuery('#playBtn_l').click(function () {
+				/* jQuery('#owl-carousel1').carousel('cycle'); */
+				jQuery('#owl-carousel1').carousel('cycle');
+				jQuery('.playBtn_l').css({'display':'none'});
+				jQuery('.pauseBtn_l').css({'display':'block'});
+			});
+			jQuery('#pauseBtn_l').click(function () {
+				/*/ jQuery('#owl-carousel1').carousel('pause');*/
+				jQuery('#owl-carousel1').trigger('owl.stop');
+				jQuery('.playBtn_l').css({'display':'block'});
+				jQuery('.pauseBtn_l').css({'display':'none'});
+			});
+		});
+	
+
+
+      $(document).ready(function () {
+        var fullGallery = mibreitGallery.createGallery({
+          slideshowContainer: "#full-gallery",
+          thumbviewContainer: ".mibreit-thumbview",
+          titleContainer: "#full-gallery-title",
+          allowFullscreen: false,
+          preloadLeftNr: 2,
+          preloadRightNr: 3
+        });
+      });
+    
+
+ jQuery(document).ready(function(){
+	 
+  jQuery(".theme_btn").on('click', function(event){
+	  var themeopt = jQuery(this).attr('data-attr');
+	 
+	  if(themeopt=='white'){
+		  jQuery('#style2').attr("disabled", "disabled");
+		  jQuery('#style3').attr("disabled", "disabled");
+		  jQuery('#style4').attr("disabled", "disabled");
+		  jQuery('#style1').attr("disabled", false);
+		  
+	  }else if(themeopt=='black'){
+		  
+		jQuery('#style1').attr("disabled", "disabled");
+		jQuery('#style3').attr("disabled", "disabled");
+		jQuery('#style4').attr("disabled", "disabled");
+		if(jQuery('#style2').length == 0){
+			jQuery('head').append( jQuery('<link rel="stylesheet" type="text/css" id="style2" />').attr('href', 'https://desagri.gov.in/wp-content/themes/doatheme/assets/css/black_theme.css') );
+		}else{
+			jQuery('#style2').attr("disabled", false);
+		}
+		
+	  }else if(themeopt=='green'){
+		  
+			jQuery('#style1').attr("disabled", "disabled");
+			jQuery('#style2').attr("disabled", "disabled");
+			jQuery('#style4').attr("disabled", "disabled");
+			if(jQuery('#style3').length == 0){
+				jQuery('head').append( jQuery('<link rel="stylesheet" type="text/css" id="style3" />').attr('href', 'https://desagri.gov.in/wp-content/themes/doatheme/assets/css/green_theme.css') );
+			}else{
+				jQuery('#style3').attr("disabled", false);
+			}
+			
+	  }else if(themeopt=='red'){
+		  
+			jQuery('#style1').attr("disabled", "disabled");
+			jQuery('#style2').attr("disabled", "disabled");
+			jQuery('#style3').attr("disabled", "disabled");
+			if(jQuery('#style4').length == 0){
+				jQuery('head').append( jQuery('<link rel="stylesheet" type="text/css" id="style4" />').attr('href', 'https://desagri.gov.in/wp-content/themes/doatheme/assets/css/red_theme.css') );
+			}else{
+				jQuery('#style4').attr("disabled", false);
+			}
+			
+	  }
+	  localStorage.setItem("colorType", themeopt);   
+  });
+  
+	if(localStorage.getItem("colorType") == 'black'){
+		jQuery('#style1').attr("disabled", "disabled");
+		jQuery('head').append( jQuery('<link rel="stylesheet" type="text/css" id="style2" />').attr('href', 'https://desagri.gov.in/wp-content/themes/doatheme/assets/css/black_theme.css') );
+	}
+	if(localStorage.getItem("colorType") == 'green'){
+		jQuery('#style1').attr("disabled", "disabled");
+		jQuery('head').append( jQuery('<link rel="stylesheet" type="text/css" id="style3" />').attr('href', 'https://desagri.gov.in/wp-content/themes/doatheme/assets/css/green_theme.css') );
+	}
+	if(localStorage.getItem("colorType") == 'red'){
+		jQuery('#style1').attr("disabled", "disabled");
+		jQuery('head').append( jQuery('<link rel="stylesheet" type="text/css" id="style4" />').attr('href', 'https://desagri.gov.in/wp-content/themes/doatheme/assets/css/red_theme.css') );
+	}
+	
+	jQuery('.pagi_btn').click(function(){
+		var inputval = jQuery('.pageno').val();	
+		var urlpath = jQuery(this).attr('data-path');	
+		if(urlpath){
+			urllink = urlpath + inputval;			
+		}else{
+			urllink = "/rtis/page/" + inputval;
+		}
+		//~ window.location(url);
+		jQuery(location).attr('href',urllink);
+	});
+	jQuery('.pagi_btnp').click(function(){
+		var inputval = jQuery('.pageno').val();	
+		urllink = "/parliament-question/page/" + inputval;
+		//~ window.location(url);
+		jQuery(location).attr('href',urllink);
+	});
+	jQuery('#rti_search, #pq_search').click(function(){
+		var filtId = jQuery(this).attr('id');
+		console.log(filtId);
+		var s_keyword = jQuery('#search').val();
+		var division = jQuery("#division option").filter(":selected").val();
+		var matchword = jQuery("input[name=match_on]:checked").val();
+		var searchtext = jQuery("input[name=search_on]:checked").val();
+		//~ console.log('division',division);
+		var action = 'rtiPosts';
+		if(filtId=='pq_search'){
+			var action = 'parliamentQuestionSearch';
+		}
+		var search_params = {
+			"action" : action,
+			"keyword" : jQuery('#search').val(),
+			"division" : jQuery("#division option").filter(":selected").val(),
+			"matchword" : jQuery("input[name=match_on]:checked").val(),
+			"searchtext" : jQuery("input[name=search_on]:checked").val(),
+		};
+		jQuery.ajax({
+			url : ajaxurl,
+			type : "post",
+			data : search_params,	
+			success : function(response){
+				//~ console.log('response',response);
+				jQuery('.postdata').css({'display':'none'});
+				jQuery('.filterposts').html(response);
+			}
+		});
+	});
+ });
+
+
+
+jQuery(document).ready(function(){
+	//~ jQuery('.header_nav .navbar-nav li.menu-item-has-children a').on('focus', function(){
+	jQuery(".header_nav .navbar-nav li.menu-item-has-children").hover(function(){
+		jQuery(this).addClass("open-sub");
+		}, function(){
+		jQuery(this).removeClass("open-sub");
+	});
+	//~ });
+		
+	jQuery('.header_nav .navbar-nav li.menu-item-has-children').focusin(function(){
+		//~ jQuery('.header_nav .navbar-nav li.menu-item-has-children').removeClass('open-sub');
+		if(jQuery(this).hasClass('menu-item-has-children')){
+			jQuery(this).addClass('open-sub');
+		}
+	});
+	jQuery('.header_nav .navbar-nav li.menu-item-has-children').focusout(function(){
+		if(jQuery(this).hasClass('menu-item-has-children')){
+			jQuery(this).removeClass('open-sub');
+		}
+		
+	
+	});
+	
+	jQuery('.sub-menu li.menu-item-has-children a').on('focus', function(){
+		$(this).parentsUntil('li.menu-item-has-children').addClass('open-sub');
+
+	});
+	jQuery(document).on("click", function (e) {
+        if ($(e.target).is("li.menu-item-has-children") === false) {
+            $(".header_nav .navbar-nav li.menu-item-has-children").removeClass("open-sub'");
+        }
+    });
+    
+    jQuery('#rti_reset').click(function(){
+		var resetLoc = jQuery(this).attr('data-uri');
+		
+		window.location.href = resetLoc;
+		/* location.reload();	*/
+	});
+
+});
+
+
+var ajaxurl = 'https://desagri.gov.in/wp-admin/admin-ajax.php';
+jQuery(document).ready(function(){
+	jQuery('#year_filter').on('change', function(){
+		var year = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');
+		console.log(year+cat_id+tax_id);
+		if(year!=''){
+		jQuery('#loadingGif').show();
+		var search_params = {
+			"action" : "yearFilter",
+			"year" : year,
+			"cat_id" : cat_id,
+			"tax_id" : tax_id,
+		};
+		
+		jQuery.ajax({
+			url : ajaxurl,
+			type : "post",
+			data : search_params,	
+			success : function(response){
+				jQuery('#loadingGif').hide();
+				/* console.log('response',response); */
+				jQuery('#Data_wrap').html(response);
+			}
+		});
+		}
+	});
+});
+
+/* Ajax filter with year and month */
+
+jQuery(document).ready(function(){
+	jQuery('#year_y_filter_cstm').on('change', function(){
+		
+		var language =  'en';
+		var year_val = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');
+		
+		if(year_val==''){
+			if(language=='en'){
+				alert('Please select Year');
+			}else{
+				alert('कृपया वर्ष चुनें');
+			}
+		}
+		/* if(month_val==''){
+			alert('Please select Month');
+		}		 */
+		
+		if(year_val!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "yearFilter",
+				"year" : year_val,
+				/* "month" : month_val, */
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+/* Ajax filter with year and month */
+
+jQuery(document).ready(function(){
+	
+	jQuery('#year_y_filter').on('change', function(){
+		var YearVal = jQuery(this).val();
+		var cat_id = jQuery('#search_Data1').attr('data-cat');
+		if(YearVal){
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "getavailableMonthsForYear",
+				"year" : YearVal,
+				"cat_id" : cat_id
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log(response); */
+					jQuery('#year_m_filter').html(response);
+				}
+			});
+		}
+		
+	});
+	
+	jQuery('#search_Data1').on('click', function(){
+		
+		var language =  'en';
+		var year_val = jQuery('#year_y_filter').val();
+		var month_val = jQuery('#year_m_filter').val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');
+		
+		if(year_val==''){
+			
+			if(language=='en'){
+				alert('Please select Year');
+			}else{
+				alert('कृपया वर्ष चुनें');
+			}
+		}
+		if(month_val==''){
+			
+			if(language=='en'){
+				alert('Please select Month');
+			}else{
+				alert('कृपया महीना चुनें');
+			}
+		}		
+		
+		if(year_val!='' && month_val!='' ){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "yearFilter",
+				"year" : year_val,
+				"month" : month_val,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+/* Ajax filter with year session */
+
+jQuery(document).ready(function(){
+	jQuery('#year_filter_sess, #summary_year_filter').on('change', function(){
+		
+		var year_val_id = jQuery(this).val();
+		var month_val = jQuery('#year_m_filter').val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(year_val_id!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "yearFilter",
+				"year_sess_catId" : year_val_id,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+/* Ajax filter with Zone session */
+
+jQuery(document).ready(function(){
+	jQuery('#zone_year_filter').on('change', function(){
+		
+		var zone_sess_id = jQuery(this).val();
+		var month_val = jQuery('#year_m_filter').val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(zone_sess_id!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "yearFilter",
+				"zone_sess_id" : zone_sess_id,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+jQuery(document).ready(function(){
+	jQuery('#year_filter_notification').on('change', function(){
+		
+		var notif_sess_year = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(notif_sess_year!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "notificationYearFilter",
+				"notif_sess_year" : notif_sess_year,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+jQuery(document).ready(function(){
+	jQuery('#msp_filter_sess').on('change', function(){
+		
+		var msp_sess_year = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(msp_sess_year!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "mspYearFilter",
+				"msp_sess_year" : msp_sess_year,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+jQuery(document).ready(function(){
+	jQuery('#msp_filter_year').on('change', function(){
+		
+		var msp_sess_year = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(msp_sess_year!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "mspYearFilter_year",
+				"year" : msp_sess_year,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+jQuery(document).ready(function(){
+	jQuery('#year_filter_whatsnew').on('change', function(){
+		
+		var whatsnew_year = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(whatsnew_year!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "whatsnewYearFilter",
+				"year" : whatsnew_year,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+jQuery(document).ready(function(){
+	jQuery('#stat_sess_filter').on('change', function(){
+		
+		var stat_sess_year = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(stat_sess_year!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "stats_SessionFilter",
+				"stat_session" : stat_sess_year,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+jQuery(document).ready(function(){
+	jQuery('#stat_sess_single_filter').on('change', function(){
+		
+		var stat_sess_year = jQuery(this).val();
+		var cat_id = jQuery(this).attr('data-cat');
+		var tax_id = jQuery(this).attr('data-tax');	
+		
+		if(stat_sess_year!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "stats_SessionFilter_single",
+				"stat_session" : stat_sess_year,
+				"cat_id" : cat_id,
+				"tax_id" : tax_id,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+jQuery(document).ready(function(){
+	jQuery('#nType_search').on('click', function(){
+		
+		var taxonomy = jQuery(this).attr('data-tax');
+		var tax_id = jQuery(this).attr('data-taxid');
+		var search_kw = jQuery('#search').val();
+		var startDate = jQuery('#startDate').val();
+		var endDate = jQuery('#endDate').val();
+		
+		if(search_kw!=''){		
+			jQuery('#loadingGif').show();
+			var search_params = {
+				"action" : "notificationSearchFilter",
+				"taxonomy" : taxonomy,
+				"tax_id" : tax_id,
+				"search_kw" : search_kw,
+				"startDate" : startDate,
+				"endDate" : endDate,
+			};
+			jQuery.ajax({
+				url : ajaxurl,
+				type : "post",
+				data : search_params,	
+				success : function(response){
+					jQuery('#loadingGif').hide();
+					/* console.log('response',response); */
+					jQuery('#Data_wrap').html(response);
+				}
+			});
+		}
+	});
+});
+
+
+
+	jQuery(document).ready(function(){
+		jQuery(".ext").click(function() {
+            
+           var language =  'en';
+           var href= $(this).attr('href');
+		   if(href==null){
+				var href= $(this).children().attr('href');   
+		   }
+		
+           if(language == 'en'){
+               var retVal = confirm("External site that opens in a new window " + href);
+           } else {
+               var retVal = confirm("बाहरी साइट जो एक नई विंडो में खुलती है " + href);
+           } 
+           if( retVal == true ) {
+              return true;
+           } else {
+              return false;
+           }
+           
+        });
+	
+		function strip(html){
+			let doc = new DOMParser().parseFromString(html, 'text/html');
+			return doc.body.textContent || "";
+		}
+		
+		var a = document.getElementsByTagName("a");
+		for (i in a) {
+			var ttlattr = jQuery(a[i]).attr('title');
+			if(ttlattr==''){
+				if( a[i].classList.contains('no_cstmttl') || a[i].classList.contains('qtranxs_text') ){
+					
+				}else{
+					var myString = a[i].innerHTML;
+					/*myString.replace(/<[^>]*>?/gm, '');
+					console.log(myString);*/
+					a[i].setAttribute("title", strip(myString));
+				}
+			}
+			/* Disable empty a tags */
+			var lnkattr = jQuery(a[i]).attr('href');
+			if(lnkattr==''){
+				a[i].setAttribute("disabled", true);
+				
+			}
+			
+		}
+		
+		/* for (i in a) {
+			var txt = a[i].innerText;
+			var nTxt = txt.replace("(English) ", "");
+			a[i].innerText = nTxt;
+		} */
+	});
+	
+
+
+jQuery(document).ready(function(){
+	jQuery('.search_wrap form').submit(function(e){
+    // check logic here
+		if (jQuery('.searchI').val().length < 1){
+			console.log('prevented');
+			e.preventDefault();
+		}
+	});
+});
+
+jQuery(document).ready(function(){
+	jQuery('.skipToMainContent').on('click', function(event){
+		event.preventDefault();
+		 jQuery("html, body").animate({ scrollTop: 470 }, "slow");
+	});
+});
+
+
+

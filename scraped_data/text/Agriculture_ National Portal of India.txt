@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+
+
+
+Agriculture| National Portal of India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"npi_adaptive","theme_token":"tNwxDa50KZcqO9PaqqtT4vz6-xP3ldZeQRuBN1sb-SU","js":{"sites\/all\/modules\/contributed\/jquery_update\/replace\/jquery\/3.1\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form-single-submit.js":1,"sites\/all\/modules\/contributed\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/customs\/hb_documents\/hb_documents.js":1,"sites\/all\/modules\/customs\/hb_schemes\/hb_schemes.js":1,"sites\/all\/modules\/customs\/webform_email_reply\/script.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contributed\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/scripts\/jquery.min.js":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/scripts\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/modules\/contributed\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contributed\/date\/date_api\/date.css":1,"sites\/all\/modules\/contributed\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contributed\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contributed\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contributed\/views\/css\/views.css":1,"sites\/all\/modules\/contributed\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contributed\/panels\/css\/panels.css":1,"sites\/all\/modules\/contributed\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/modules\/contributed\/quicktabs\/quicktabs_tabstyles\/tabstyles\/basic\/basic.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/font-awesome.min.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/global.custom.responsive.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/global.base.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/global.styles.css":1,"sites\/all\/themes\/adaptivetheme\/npi_adaptive\/css\/print.css":1,"public:\/\/adaptivetheme\/npi_adaptive_files\/npi_adaptive.default.layout.css":1}},"encrypt_submissions":{"baseUrl":"https:\/\/www.india.gov.in"},"better_exposed_filters":{"views":{"level2_description":{"displays":{"block":{"filters":[]}}},"view_relevant_links":{"displays":{"block_3":{"filters":[]}}},"second_level_important_links":{"displays":{"block":{"filters":[]}}},"india_glance_right_side":{"displays":{"block_2":{"filters":[]},"block_1":{"filters":[]}}},"most_search":{"displays":{"block":{"filters":[]}}}}},"quicktabs":{"qt_relevant_links_in":{"name":"relevant_links_in","tabs":[{"bid":"panels_mini_delta_service_from_services_india","hide_title":1},{"bid":"views_delta_view_relevant_links-block_3","hide_title":1},{"bid":"block_delta_15","hide_title":1}],"better_exposed_filters":{"views":{"level2_description":{"displays":{"block":{"filters":[]}}}}}}},"urlIsAjaxTrusted":{"\/search\/node":true},"adaptivetheme":{"npi_adaptive":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:581px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:580px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});
+
+  
+	if(_getCookie("fontSize") != null){
+		fontSize = _getCookie("fontSize");
+	}else{
+		fontSize = 100;
+	}
+	var base_url ="https://www.india.gov.in";
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+-A
+A
++A
+
+
+A
+A
+
+हिन्दी
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topics
+
+Agriculture
+Art & Culture
+Commerce
+Communications & IT
+Defence
+Education
+Environment & Forest
+Finance & Taxes
+Food & Public Distribution
+Foreign Affairs
+Governance & Administration
+Health & Family Welfare
+Home Affairs & Enforcement
+Housing
+Industries
+Infrastructure
+Information & Broadcasting
+Labour & Employment
+Law & Justice
+Power & Energy
+Rural
+Science & Technology
+Social Development
+Transport
+Travel & Tourism
+Youth & Sports
+
+
+Services
+
+My Government
+
+Constitution of India
+Government Directory
+Indian Parliament
+Publications
+Who's Who
+Acts
+Schemes
+Documents
+
+
+
+People Groups
+
+Community
+Life Cycle
+
+
+India at a Glance
+
+Profile
+States of India
+My India My Pride
+National Symbols
+Culture & Heritage
+Districts of India
+People and Lifestyle
+Places to Visit
+Natural Wonders
+Where to stay
+Modes of Travel
+Travel Agents
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+ 
+Advanced Search
+
+
+
+
+
+
+            Title        
+
+
+
+
+
+
+
+
+             Section         
+
+
+- Any - Topics- Agriculture-- Agricultural Licence-- Agricultural Machinery-- Agricultural Produces-- Research & Extension-- Storage-- Marketing & Prices-- Animal Husbandry-- Certification & Gradation-- Crops-- Dairy-- Fertilizers & Pesticides-- Fisheries-- Floriculture-- Horticulture-- Irrigation-- Loans & Credit-- Organic Farming-- Plant Protection-- Seeds-- Sericulture-- Soil and Water Conservation-- Weather- Art & Culture-- Archaeology-- Dance-- Fairs & Festivals-- Handicrafts-- Heritage-- Literature-- Monuments-- Music-- Painting-- Theatre- Commerce-- Export-- Import-- SEZs-- Trade Promotion- Communications & IT-- Electronics & IT-- Post-- Telecom- Defence-- Air Force-- Army-- Navy-- Paramilitary Forces- Education-- Elementary Education-- Secondary & Higher Secondary Education-- Higher Education-- Adult Education- Environment & Forest-- Environment-- Forest-- Natural Resources-- Wildlife- Finance & Taxes-- Insurance-- Pension-- Banking-- Economy-- Trade-- Taxes- Food & Public Distribution-- Commodities-- Consumer Affairs-- Consumer Cooperatives-- Public Distribution- Foreign Affairs-- Embassy & Consulates-- India & World-- India and Its Neighbours-- NRIs-- Passport & Visa- Governance & Administration-- Constitution-- Parliament-- State Legislature-- Union/State Government-- District Administration-- Local Administration-- RTI & Grievances- Health & Family Welfare-- Family Welfare-- Health- Housing-- EWS Housing-- Rural Housing-- Urban Housing- Home Affairs & Enforcement-- Enforcement Organizations-- Internal Security- Industries-- Micro, Small & Medium Enterprises-- Mining-- Chemicals and Petrochemicals-- Corporate Governance-- Cottage-- Defence Products-- Fertilizers-- Food Processing-- Heavy Industries-- Manufacturing-- Oil and Natural Gas-- Pharmaceuticals-- Retail-- Textiles-- Tourism- Infrastructure-- Power-- Bridges-- Dams-- Roads-- Urban- Information & Broadcasting-- Broadcasting-- Film-- Print Media- Labour & Employment-- Employment-- Organized Sector Workers-- Unorganized Sector Workers- Law & Justice-- Judiciary-- Alternative Dispute Redressal (ADR)-- Enactment of Laws-- Institutions-- Law Commission of India-- Legal Aid-- Legal Profession-- Personal Law- Power & Energy-- Coal-- Conservation of Energy-- Petroleum & Natural Gas-- Power-- Renewable Energy- Rural-- Rural Employment-- Development-- Panchayati Raj- Science & Technology-- Scientific Education-- Research & Development- Social Development-- Other Backward Classes-- Scheduled Castes-- Children-- Disabled-- Minority Community-- Senior Citizen-- Tribal-- Women- Transport-- Aviation-- Metro-- Railways-- Surface Transport-- Water Ways- Travel & Tourism-- Places-- Modes of Travel-- Approved Agents- Youth & Sports-- Sports Infrastructure-- Games-- Youth Affairs My Government- Constitution of India-- Constitution of India (Full Text)- Government Directory-- Districts-- Union Government-- States & UTs-- Judiciary- Indian Parliament-- President of India-- Rajya Sabha-- Lok Sabha- Publications-- Books- Who's Who-- President-- Vice-President-- Prime Minister-- Council of Ministers-- Governors-- Lt. Governors & Administrators-- Chief Ministers-- Judges of Supreme Court-- Chiefs of Armed Forces-- Members of Parliament-- MLAs/MLCs- Acts- Schemes- Documents-- Annual Report-- Budget-- Demand for Grant-- Census Report-- Citizens Charter-- E-Books-- Gazetteer Notification-- Guidelines-- Others-- Plan Document-- Policy-- Reports People Groups- Community-- Businesspersons-- Indians Travelling Abroad-- Minority Community-- Rural Indian-- Scheduled Tribes/Schedule Caste-- Self-Employed-- Social Workers-- Sportsperson-- Student-- Tourists-- Women-- Defence & Paramilitary Personnel-- Differently Abled-- Entrepreneur-- Environmentalists-- Government Employee-- Importers and Exporters-- Job Seekers-- Non-Resident Indians- Life Cycle-- Kids-- Senior Citizens-- Youth India at a Glance- Profile- States of India- My India My Pride- National Symbols- Culture & Heritage- Districts of India- People and Lifestyle- Places to Visit- Natural Wonders- Where to stay- Modes of Travel- Travel Agents
+
+
+
+
+
+Sort by  
+RecentMost Updated
+
+
+
+
+Order 
+AscDesc
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Most Searched
+
+
+  
+Birth Certificate 
+
+Driving Licence 
+
+Pan card 
+ 
+
+ 
+
+
+
+
+
+
+
+
+HomeTopicsAgriculture 
+
+
+
+
+					Agriculture				  
+
+
+
+
+
+         Agriculture Agricultural LicenceAgricultural MachineryAgricultural ProducesResearch & ExtensionStorageMarketing & PricesAnimal HusbandryCertification & GradationCropsDairyFertilizers & PesticidesFisheriesFloricultureHorticultureIrrigationLoans & CreditOrganic FarmingPlant ProtectionSeedsSericultureSoil and Water ConservationWeather                 Agriculture  Agriculture, with its allied sectors, is unquestionably the largest livelihood provider in India, more so in the vast rural areas. It also contributes a significant figure to the Gross Domestic Product (GDP). Sustainable agriculture, in terms of food security, rural employment, and environmentally sustainable technologies such as soil conservation, sustainable natural resource management and biodiversity protection, are essential for holistic rural development. Indian agriculture and allied activities have witnessed a green revolution, a white revolution, a yellow revolution and a blue revolution. This section provides the information on agriculture produces; machineries, research etc. Detailed information on the government policies, schemes, agriculture loans, market prices, animal husbandry, fisheries, horticulture, loans & credit, sericulture etc. is also available.          ServicesSchemesOpen Data       Search Agriculture Warehouses in KarnatakaSearch Office Bearers of Agricultural Market Committees of KarnatakaCheck state-wise implementation details of National Food Security MissionAgriculture schemes application registered, GujaratApply for Farmers Registration of Nursery/ Orchards, Jammu and KashmirApplication form to buy seeds and plants from the Forest Department, Himachal Pradesh               Webiste of Farmer Registration and Unified beneficiary InformaTion System (FRUITS), Karnataka    Information on National Livestock Mission    Information on Agriclinic and Agribusiness Centres Scheme    Agriculture Infrastructure Fund (AIF) in Agri Infrastructure Loan    Agricultural Marketing Infrastructure (AMI) in Agri Infrastructure Loan      Curl Error: Failed to connect to 2405:200:1604::312c:324b: Network is unreachable             Minister of Agriculture and Farmers Welfare    Cabinet Minister Shri Shivraj Singh Chouhan View Profile   Website https://agriwelfare.gov.in/ View Website        Important links  Website of Ministry of Agriculture & Farmers WelfareDepartments of Agriculture of states and Union TerritoriesWebsite of Department of Animal Husbandry Dairying and FisheriesWebsite of Directorate of Cashewnut & Cocoa DevelopmentFarmers' Portal                      Most Viewed         Website of Andhra Pradesh State Seeds Development Corporation    Website of Allahabad Bank    Information on floriculture in Darjeeling    Website of Animal Husbandry and Veterinary Department of Meghalaya    Website of Department of Fisheries of Chhattisgarh               What's New        Registration and Licensing of Fishing Craft    Website of Directorate of Agriculture of Goa    Website of Kerala Irrigation Department    Website of Department of Animal Resources Development of West Bengal    Website of Participatory Guarantee System (PGS) for India            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+About us
+Contact us
+Feedback
+Visitor Summary
+Help
+Link to Us
+Newsletter
+Tell a Friend
+Website Policy
+Sitemap
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Information Related To
+
+Agriculture
+Art & Culture
+Commerce
+Communication
+Defence
+Education
+Environment & Forest
+Finance & Taxes
+Food & Public Distribution
+Foreign Affairs
+Governance & Administration
+Health & Family Welfare
+Housing
+Home Affairs & Enforcement
+Industries
+Infrastructure
+Information & Broadcasting
+Labour & Employment
+Law & Justice
+Power & Energy
+Rural
+Science & Technology
+Social Development
+Transport
+Travel & Tourism
+Youth & Sports
+
+
+About the Government
+
+Constitution of India
+Government Directory
+Indian Parliament
+Publications
+Who's Who
+President of India
+Vice-President of India
+Prime Minister of India
+Cabinet Ministers
+Chiefs of Armed Forces
+Members of Parliament
+
+
+
+
+
+
+
+
+
+This Portal is a Mission Mode Project under the National E-Governance Plan, and is owned, designed and developed by National Informatics Centre (NIC), Ministry of Electronics & Information Technology, Government of India. The content linked through NPI is owned and maintained by the respective Ministries/Departments.
+
+
+ Last reviewed and updated on  19 Nov, 2024 
+
+ NPI 1
+
+
+
+
+
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0BZ8R3LVHG');
+
+
+ 
+
+
+
+				$(document).ready(function(){ 
+					$("body").addClass("parent-166659");
+				});
+							
+							
+			
+
+
