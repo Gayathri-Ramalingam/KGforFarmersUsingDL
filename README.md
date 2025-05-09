@@ -3,6 +3,8 @@
 
 This project constructs and visualizes a **Knowledge Graph (KG)** for the agricultural domain using advanced NLP techniques. It extracts entities and their relationships from agricultural texts using fine-tuned transformer models and displays the graph interactively using a **Streamlit** web app with **Pyvis**.
 
+HOSTED LINK:  https://famous-dodo-fairly.ngrok-free.app 
+
 ## 🚀 Features
 
 - **Named Entity Recognition (NER)** using a fine-tuned **RoBERTa** model.
